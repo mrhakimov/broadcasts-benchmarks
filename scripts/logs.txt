@@ -1,0 +1,2691 @@
+2022/05/16 08:34:06.127771 broadcast started
+2022/05/16 08:34:07.379603 http://localhost:8080 delivered message 0
+2022/05/16 08:34:07.386931 http://localhost:9000 delivered message 0
+2022/05/16 08:34:07.394626 http://localhost:9001 delivered message 0
+2022/05/16 08:34:07.402158 http://localhost:9002 delivered message 0
+2022/05/16 08:34:07.409759 http://localhost:9003 delivered message 0
+2022/05/16 08:34:07.503062 http://localhost:9004 delivered message 0
+2022/05/16 08:34:07.583315 http://localhost:9005 delivered message 0
+2022/05/16 08:34:07.590853 http://localhost:9006 delivered message 0
+2022/05/16 08:34:07.686126 broadcast started
+2022/05/16 08:34:08.568839 http://localhost:8080 delivered message 0
+2022/05/16 08:34:08.576569 http://localhost:9000 delivered message 0
+2022/05/16 08:34:08.584352 http://localhost:9001 delivered message 0
+2022/05/16 08:34:08.592048 http://localhost:9002 delivered message 0
+2022/05/16 08:34:08.599929 http://localhost:9003 delivered message 0
+2022/05/16 08:34:08.670287 http://localhost:9004 delivered message 0
+2022/05/16 08:34:08.724590 http://localhost:9005 delivered message 0
+2022/05/16 08:34:08.732121 http://localhost:9006 delivered message 0
+2022/05/16 08:34:08.825795 broadcast started
+2022/05/16 08:34:09.700106 http://localhost:8080 delivered message 0
+2022/05/16 08:34:09.707863 http://localhost:9000 delivered message 0
+2022/05/16 08:34:09.715509 http://localhost:9001 delivered message 0
+2022/05/16 08:34:09.723440 http://localhost:9002 delivered message 0
+2022/05/16 08:34:09.730971 http://localhost:9003 delivered message 0
+2022/05/16 08:34:09.800682 http://localhost:9004 delivered message 0
+2022/05/16 08:34:09.853679 http://localhost:9005 delivered message 0
+2022/05/16 08:34:09.861176 http://localhost:9006 delivered message 0
+2022/05/16 08:34:09.975637 broadcast started
+2022/05/16 08:34:10.844263 http://localhost:8080 delivered message 0
+2022/05/16 08:34:10.852146 http://localhost:9000 delivered message 0
+2022/05/16 08:34:10.859421 http://localhost:9001 delivered message 0
+2022/05/16 08:34:10.866629 http://localhost:9002 delivered message 0
+2022/05/16 08:34:10.874037 http://localhost:9003 delivered message 0
+2022/05/16 08:34:10.943231 http://localhost:9004 delivered message 0
+2022/05/16 08:34:10.999305 http://localhost:9005 delivered message 0
+2022/05/16 08:34:11.007066 http://localhost:9006 delivered message 0
+2022/05/16 08:34:11.101203 broadcast started
+2022/05/16 08:34:11.974673 http://localhost:8080 delivered message 0
+2022/05/16 08:34:11.982538 http://localhost:9000 delivered message 0
+2022/05/16 08:34:11.990742 http://localhost:9001 delivered message 0
+2022/05/16 08:34:11.998915 http://localhost:9002 delivered message 0
+2022/05/16 08:34:12.006828 http://localhost:9003 delivered message 0
+2022/05/16 08:34:12.075401 http://localhost:9004 delivered message 0
+2022/05/16 08:34:12.132263 http://localhost:9005 delivered message 0
+2022/05/16 08:34:12.139891 http://localhost:9006 delivered message 0
+2022/05/16 08:34:12.233676 broadcast started
+2022/05/16 08:34:13.107132 http://localhost:8080 delivered message 0
+2022/05/16 08:34:13.114838 http://localhost:9000 delivered message 0
+2022/05/16 08:34:13.122930 http://localhost:9001 delivered message 0
+2022/05/16 08:34:13.131294 http://localhost:9002 delivered message 0
+2022/05/16 08:34:13.138971 http://localhost:9003 delivered message 0
+2022/05/16 08:34:13.207584 http://localhost:9004 delivered message 0
+2022/05/16 08:34:13.263923 http://localhost:9005 delivered message 0
+2022/05/16 08:34:13.271567 http://localhost:9006 delivered message 0
+2022/05/16 08:34:13.364542 broadcast started
+2022/05/16 08:34:14.240078 http://localhost:8080 delivered message 0
+2022/05/16 08:34:14.247648 http://localhost:9000 delivered message 0
+2022/05/16 08:34:14.255389 http://localhost:9001 delivered message 0
+2022/05/16 08:34:14.263075 http://localhost:9002 delivered message 0
+2022/05/16 08:34:14.270717 http://localhost:9003 delivered message 0
+2022/05/16 08:34:14.340311 http://localhost:9004 delivered message 0
+2022/05/16 08:34:14.396417 http://localhost:9005 delivered message 0
+2022/05/16 08:34:14.404022 http://localhost:9006 delivered message 0
+2022/05/16 08:34:14.497553 broadcast started
+2022/05/16 08:34:15.370959 http://localhost:8080 delivered message 0
+2022/05/16 08:34:15.378904 http://localhost:9000 delivered message 0
+2022/05/16 08:34:15.387041 http://localhost:9001 delivered message 0
+2022/05/16 08:34:15.394957 http://localhost:9002 delivered message 0
+2022/05/16 08:34:15.402646 http://localhost:9003 delivered message 0
+2022/05/16 08:34:15.471377 http://localhost:9004 delivered message 0
+2022/05/16 08:34:15.526786 http://localhost:9005 delivered message 0
+2022/05/16 08:34:15.534273 http://localhost:9006 delivered message 0
+2022/05/16 08:34:15.628816 broadcast started
+2022/05/16 08:34:16.510628 http://localhost:8080 delivered message 0
+2022/05/16 08:34:16.518550 http://localhost:9000 delivered message 0
+2022/05/16 08:34:16.525992 http://localhost:9001 delivered message 0
+2022/05/16 08:34:16.533438 http://localhost:9002 delivered message 0
+2022/05/16 08:34:16.540996 http://localhost:9003 delivered message 0
+2022/05/16 08:34:16.610715 http://localhost:9004 delivered message 0
+2022/05/16 08:34:16.666684 http://localhost:9005 delivered message 0
+2022/05/16 08:34:16.674627 http://localhost:9006 delivered message 0
+2022/05/16 08:34:16.767860 broadcast started
+2022/05/16 08:34:17.642616 http://localhost:8080 delivered message 0
+2022/05/16 08:34:17.650323 http://localhost:9000 delivered message 0
+2022/05/16 08:34:17.657792 http://localhost:9001 delivered message 0
+2022/05/16 08:34:17.665231 http://localhost:9002 delivered message 0
+2022/05/16 08:34:17.673167 http://localhost:9003 delivered message 0
+2022/05/16 08:34:17.741547 http://localhost:9004 delivered message 0
+2022/05/16 08:34:17.799167 http://localhost:9005 delivered message 0
+2022/05/16 08:34:17.807031 http://localhost:9006 delivered message 0
+2022/05/16 08:34:17.900206 broadcast started
+2022/05/16 08:34:18.773160 http://localhost:8080 delivered message 0
+2022/05/16 08:34:18.780878 http://localhost:9000 delivered message 0
+2022/05/16 08:34:18.788641 http://localhost:9001 delivered message 0
+2022/05/16 08:34:18.796327 http://localhost:9002 delivered message 0
+2022/05/16 08:34:18.804005 http://localhost:9003 delivered message 0
+2022/05/16 08:34:18.873343 http://localhost:9004 delivered message 0
+2022/05/16 08:34:18.930324 http://localhost:9005 delivered message 0
+2022/05/16 08:34:18.938280 http://localhost:9006 delivered message 0
+2022/05/16 08:34:19.030852 broadcast started
+2022/05/16 08:34:19.908048 http://localhost:8080 delivered message 0
+2022/05/16 08:34:19.916276 http://localhost:9000 delivered message 0
+2022/05/16 08:34:19.924147 http://localhost:9001 delivered message 0
+2022/05/16 08:34:19.931754 http://localhost:9002 delivered message 0
+2022/05/16 08:34:19.939587 http://localhost:9003 delivered message 0
+2022/05/16 08:34:20.008400 http://localhost:9004 delivered message 0
+2022/05/16 08:34:20.065280 http://localhost:9005 delivered message 0
+2022/05/16 08:34:20.073183 http://localhost:9006 delivered message 0
+2022/05/16 08:34:20.167889 broadcast started
+2022/05/16 08:34:21.033481 http://localhost:8080 delivered message 0
+2022/05/16 08:34:21.041185 http://localhost:9000 delivered message 0
+2022/05/16 08:34:21.048902 http://localhost:9001 delivered message 0
+2022/05/16 08:34:21.056646 http://localhost:9002 delivered message 0
+2022/05/16 08:34:21.064202 http://localhost:9003 delivered message 0
+2022/05/16 08:34:21.133162 http://localhost:9004 delivered message 0
+2022/05/16 08:34:21.189972 http://localhost:9005 delivered message 0
+2022/05/16 08:34:21.198106 http://localhost:9006 delivered message 0
+2022/05/16 08:34:21.290339 broadcast started
+2022/05/16 08:34:22.167357 http://localhost:8080 delivered message 0
+2022/05/16 08:34:22.175578 http://localhost:9000 delivered message 0
+2022/05/16 08:34:22.183125 http://localhost:9001 delivered message 0
+2022/05/16 08:34:22.190907 http://localhost:9002 delivered message 0
+2022/05/16 08:34:22.198545 http://localhost:9003 delivered message 0
+2022/05/16 08:34:22.267948 http://localhost:9004 delivered message 0
+2022/05/16 08:34:22.323814 http://localhost:9005 delivered message 0
+2022/05/16 08:34:22.331381 http://localhost:9006 delivered message 0
+2022/05/16 08:34:22.425678 broadcast started
+2022/05/16 08:34:23.297823 http://localhost:8080 delivered message 0
+2022/05/16 08:34:23.305679 http://localhost:9000 delivered message 0
+2022/05/16 08:34:23.313465 http://localhost:9001 delivered message 0
+2022/05/16 08:34:23.321685 http://localhost:9002 delivered message 0
+2022/05/16 08:34:23.329731 http://localhost:9003 delivered message 0
+2022/05/16 08:34:23.400843 http://localhost:9004 delivered message 0
+2022/05/16 08:34:23.457307 http://localhost:9005 delivered message 0
+2022/05/16 08:34:23.464783 http://localhost:9006 delivered message 0
+2022/05/16 08:34:23.557662 broadcast started
+2022/05/16 08:34:24.436312 http://localhost:8080 delivered message 0
+2022/05/16 08:34:24.443881 http://localhost:9000 delivered message 0
+2022/05/16 08:34:24.451589 http://localhost:9001 delivered message 0
+2022/05/16 08:34:24.459525 http://localhost:9002 delivered message 0
+2022/05/16 08:34:24.467230 http://localhost:9003 delivered message 0
+2022/05/16 08:34:24.535717 http://localhost:9004 delivered message 0
+2022/05/16 08:34:24.591755 http://localhost:9005 delivered message 0
+2022/05/16 08:34:24.599627 http://localhost:9006 delivered message 0
+2022/05/16 08:34:24.694138 broadcast started
+2022/05/16 08:34:25.568445 http://localhost:8080 delivered message 0
+2022/05/16 08:34:25.576531 http://localhost:9000 delivered message 0
+2022/05/16 08:34:25.584253 http://localhost:9001 delivered message 0
+2022/05/16 08:34:25.591872 http://localhost:9002 delivered message 0
+2022/05/16 08:34:25.599711 http://localhost:9003 delivered message 0
+2022/05/16 08:34:25.669518 http://localhost:9004 delivered message 0
+2022/05/16 08:34:25.725310 http://localhost:9005 delivered message 0
+2022/05/16 08:34:25.732942 http://localhost:9006 delivered message 0
+2022/05/16 08:34:25.827995 broadcast started
+2022/05/16 08:34:26.701431 http://localhost:8080 delivered message 0
+2022/05/16 08:34:26.709144 http://localhost:9000 delivered message 0
+2022/05/16 08:34:26.716908 http://localhost:9001 delivered message 0
+2022/05/16 08:34:26.724602 http://localhost:9002 delivered message 0
+2022/05/16 08:34:26.732351 http://localhost:9003 delivered message 0
+2022/05/16 08:34:26.802061 http://localhost:9004 delivered message 0
+2022/05/16 08:34:26.858153 http://localhost:9005 delivered message 0
+2022/05/16 08:34:26.865912 http://localhost:9006 delivered message 0
+2022/05/16 08:34:26.958470 broadcast started
+2022/05/16 08:34:27.834106 http://localhost:8080 delivered message 0
+2022/05/16 08:34:27.841916 http://localhost:9000 delivered message 0
+2022/05/16 08:34:27.849723 http://localhost:9001 delivered message 0
+2022/05/16 08:34:27.857570 http://localhost:9002 delivered message 0
+2022/05/16 08:34:27.865288 http://localhost:9003 delivered message 0
+2022/05/16 08:34:27.935127 http://localhost:9004 delivered message 0
+2022/05/16 08:34:27.991476 http://localhost:9005 delivered message 0
+2022/05/16 08:34:27.999628 http://localhost:9006 delivered message 0
+2022/05/16 08:34:28.092720 broadcast started
+2022/05/16 08:34:28.966721 http://localhost:8080 delivered message 0
+2022/05/16 08:34:28.974824 http://localhost:9000 delivered message 0
+2022/05/16 08:34:28.982754 http://localhost:9001 delivered message 0
+2022/05/16 08:34:28.990177 http://localhost:9002 delivered message 0
+2022/05/16 08:34:28.997734 http://localhost:9003 delivered message 0
+2022/05/16 08:34:29.066308 http://localhost:9004 delivered message 0
+2022/05/16 08:34:29.121612 http://localhost:9005 delivered message 0
+2022/05/16 08:34:29.129205 http://localhost:9006 delivered message 0
+2022/05/16 08:34:29.224203 broadcast started
+2022/05/16 08:34:30.098137 http://localhost:8080 delivered message 0
+2022/05/16 08:34:30.105719 http://localhost:9000 delivered message 0
+2022/05/16 08:34:30.113316 http://localhost:9001 delivered message 0
+2022/05/16 08:34:30.120963 http://localhost:9002 delivered message 0
+2022/05/16 08:34:30.128701 http://localhost:9003 delivered message 0
+2022/05/16 08:34:30.198553 http://localhost:9004 delivered message 0
+2022/05/16 08:34:30.255096 http://localhost:9005 delivered message 0
+2022/05/16 08:34:30.263211 http://localhost:9006 delivered message 0
+2022/05/16 08:34:30.355285 broadcast started
+2022/05/16 08:34:31.224917 http://localhost:8080 delivered message 0
+2022/05/16 08:34:31.233844 http://localhost:9000 delivered message 0
+2022/05/16 08:34:31.241899 http://localhost:9001 delivered message 0
+2022/05/16 08:34:31.249695 http://localhost:9002 delivered message 0
+2022/05/16 08:34:31.257496 http://localhost:9003 delivered message 0
+2022/05/16 08:34:31.326644 http://localhost:9004 delivered message 0
+2022/05/16 08:34:31.382961 http://localhost:9005 delivered message 0
+2022/05/16 08:34:31.390578 http://localhost:9006 delivered message 0
+2022/05/16 08:34:31.481749 broadcast started
+2022/05/16 08:34:32.352822 http://localhost:8080 delivered message 0
+2022/05/16 08:34:32.360509 http://localhost:9000 delivered message 0
+2022/05/16 08:34:32.368174 http://localhost:9001 delivered message 0
+2022/05/16 08:34:32.375980 http://localhost:9002 delivered message 0
+2022/05/16 08:34:32.383579 http://localhost:9003 delivered message 0
+2022/05/16 08:34:32.453289 http://localhost:9004 delivered message 0
+2022/05/16 08:34:32.508270 http://localhost:9005 delivered message 0
+2022/05/16 08:34:32.516172 http://localhost:9006 delivered message 0
+2022/05/16 08:34:32.611315 broadcast started
+2022/05/16 08:34:33.488783 http://localhost:8080 delivered message 0
+2022/05/16 08:34:33.496552 http://localhost:9000 delivered message 0
+2022/05/16 08:34:33.504325 http://localhost:9001 delivered message 0
+2022/05/16 08:34:33.512034 http://localhost:9002 delivered message 0
+2022/05/16 08:34:33.519659 http://localhost:9003 delivered message 0
+2022/05/16 08:34:33.589075 http://localhost:9004 delivered message 0
+2022/05/16 08:34:33.645435 http://localhost:9005 delivered message 0
+2022/05/16 08:34:33.653261 http://localhost:9006 delivered message 0
+2022/05/16 08:34:33.745305 broadcast started
+2022/05/16 08:34:34.620697 http://localhost:8080 delivered message 0
+2022/05/16 08:34:34.628350 http://localhost:9000 delivered message 0
+2022/05/16 08:34:34.635866 http://localhost:9001 delivered message 0
+2022/05/16 08:34:34.643327 http://localhost:9002 delivered message 0
+2022/05/16 08:34:34.650705 http://localhost:9003 delivered message 0
+2022/05/16 08:34:34.719142 http://localhost:9004 delivered message 0
+2022/05/16 08:34:34.775246 http://localhost:9005 delivered message 0
+2022/05/16 08:34:34.783004 http://localhost:9006 delivered message 0
+2022/05/16 08:34:34.876198 broadcast started
+2022/05/16 08:34:35.751412 http://localhost:8080 delivered message 0
+2022/05/16 08:34:35.759507 http://localhost:9000 delivered message 0
+2022/05/16 08:34:35.767730 http://localhost:9001 delivered message 0
+2022/05/16 08:34:35.775358 http://localhost:9002 delivered message 0
+2022/05/16 08:34:35.783015 http://localhost:9003 delivered message 0
+2022/05/16 08:34:35.852468 http://localhost:9004 delivered message 0
+2022/05/16 08:34:35.908059 http://localhost:9005 delivered message 0
+2022/05/16 08:34:35.915995 http://localhost:9006 delivered message 0
+2022/05/16 08:34:36.009371 broadcast started
+2022/05/16 08:34:36.912917 http://localhost:8080 delivered message 0
+2022/05/16 08:34:36.921417 http://localhost:9000 delivered message 0
+2022/05/16 08:34:36.929085 http://localhost:9001 delivered message 0
+2022/05/16 08:34:36.936852 http://localhost:9002 delivered message 0
+2022/05/16 08:34:36.944968 http://localhost:9003 delivered message 0
+2022/05/16 08:34:37.013954 http://localhost:9004 delivered message 0
+2022/05/16 08:34:37.071184 http://localhost:9005 delivered message 0
+2022/05/16 08:34:37.078902 http://localhost:9006 delivered message 0
+2022/05/16 08:34:37.171961 broadcast started
+2022/05/16 08:34:38.051151 http://localhost:8080 delivered message 0
+2022/05/16 08:34:38.058776 http://localhost:9000 delivered message 0
+2022/05/16 08:34:38.066229 http://localhost:9001 delivered message 0
+2022/05/16 08:34:38.073654 http://localhost:9002 delivered message 0
+2022/05/16 08:34:38.081473 http://localhost:9003 delivered message 0
+2022/05/16 08:34:38.150998 http://localhost:9004 delivered message 0
+2022/05/16 08:34:38.207231 http://localhost:9005 delivered message 0
+2022/05/16 08:34:38.214658 http://localhost:9006 delivered message 0
+2022/05/16 08:34:38.307958 broadcast started
+2022/05/16 08:34:39.183505 http://localhost:8080 delivered message 0
+2022/05/16 08:34:39.191197 http://localhost:9000 delivered message 0
+2022/05/16 08:34:39.198667 http://localhost:9001 delivered message 0
+2022/05/16 08:34:39.206425 http://localhost:9002 delivered message 0
+2022/05/16 08:34:39.214042 http://localhost:9003 delivered message 0
+2022/05/16 08:34:39.283515 http://localhost:9004 delivered message 0
+2022/05/16 08:34:39.339731 http://localhost:9005 delivered message 0
+2022/05/16 08:34:39.347280 http://localhost:9006 delivered message 0
+2022/05/16 08:34:39.441235 broadcast started
+2022/05/16 08:34:40.316960 http://localhost:8080 delivered message 0
+2022/05/16 08:34:40.324675 http://localhost:9000 delivered message 0
+2022/05/16 08:34:40.332708 http://localhost:9001 delivered message 0
+2022/05/16 08:34:40.340347 http://localhost:9002 delivered message 0
+2022/05/16 08:34:40.348061 http://localhost:9003 delivered message 0
+2022/05/16 08:34:40.417738 http://localhost:9004 delivered message 0
+2022/05/16 08:34:40.474458 http://localhost:9005 delivered message 0
+2022/05/16 08:34:40.482134 http://localhost:9006 delivered message 0
+2022/05/16 08:34:40.578219 broadcast started
+2022/05/16 08:34:41.445588 http://localhost:8080 delivered message 0
+2022/05/16 08:34:41.453123 http://localhost:9000 delivered message 0
+2022/05/16 08:34:41.460632 http://localhost:9001 delivered message 0
+2022/05/16 08:34:41.468280 http://localhost:9002 delivered message 0
+2022/05/16 08:34:41.475464 http://localhost:9003 delivered message 0
+2022/05/16 08:34:41.544068 http://localhost:9004 delivered message 0
+2022/05/16 08:34:41.601161 http://localhost:9005 delivered message 0
+2022/05/16 08:34:41.608800 http://localhost:9006 delivered message 0
+2022/05/16 08:34:41.701596 broadcast started
+2022/05/16 08:34:42.578579 http://localhost:8080 delivered message 0
+2022/05/16 08:34:42.586280 http://localhost:9000 delivered message 0
+2022/05/16 08:34:42.594139 http://localhost:9001 delivered message 0
+2022/05/16 08:34:42.601757 http://localhost:9002 delivered message 0
+2022/05/16 08:34:42.609504 http://localhost:9003 delivered message 0
+2022/05/16 08:34:42.678958 http://localhost:9004 delivered message 0
+2022/05/16 08:34:42.735124 http://localhost:9005 delivered message 0
+2022/05/16 08:34:42.743100 http://localhost:9006 delivered message 0
+2022/05/16 08:34:42.835782 broadcast started
+2022/05/16 08:34:43.709260 http://localhost:8080 delivered message 0
+2022/05/16 08:34:43.716827 http://localhost:9000 delivered message 0
+2022/05/16 08:34:43.724469 http://localhost:9001 delivered message 0
+2022/05/16 08:34:43.732378 http://localhost:9002 delivered message 0
+2022/05/16 08:34:43.740761 http://localhost:9003 delivered message 0
+2022/05/16 08:34:43.809692 http://localhost:9004 delivered message 0
+2022/05/16 08:34:43.866435 http://localhost:9005 delivered message 0
+2022/05/16 08:34:43.874327 http://localhost:9006 delivered message 0
+2022/05/16 08:34:43.967470 broadcast started
+2022/05/16 08:34:44.878581 http://localhost:8080 delivered message 0
+2022/05/16 08:34:44.887155 http://localhost:9000 delivered message 0
+2022/05/16 08:34:44.895343 http://localhost:9001 delivered message 0
+2022/05/16 08:34:44.903687 http://localhost:9002 delivered message 0
+2022/05/16 08:34:44.911736 http://localhost:9003 delivered message 0
+2022/05/16 08:34:44.981091 http://localhost:9004 delivered message 0
+2022/05/16 08:34:45.042068 http://localhost:9005 delivered message 0
+2022/05/16 08:34:45.049769 http://localhost:9006 delivered message 0
+2022/05/16 08:34:45.145029 broadcast started
+2022/05/16 08:34:46.069722 http://localhost:8080 delivered message 0
+2022/05/16 08:34:46.077517 http://localhost:9000 delivered message 0
+2022/05/16 08:34:46.085592 http://localhost:9001 delivered message 0
+2022/05/16 08:34:46.093615 http://localhost:9002 delivered message 0
+2022/05/16 08:34:46.101237 http://localhost:9003 delivered message 0
+2022/05/16 08:34:46.170492 http://localhost:9004 delivered message 0
+2022/05/16 08:34:46.226953 http://localhost:9005 delivered message 0
+2022/05/16 08:34:46.234494 http://localhost:9006 delivered message 0
+2022/05/16 08:34:46.327692 broadcast started
+2022/05/16 08:34:47.205073 http://localhost:8080 delivered message 0
+2022/05/16 08:34:47.212774 http://localhost:9000 delivered message 0
+2022/05/16 08:34:47.220495 http://localhost:9001 delivered message 0
+2022/05/16 08:34:47.228182 http://localhost:9002 delivered message 0
+2022/05/16 08:34:47.235871 http://localhost:9003 delivered message 0
+2022/05/16 08:34:47.304969 http://localhost:9004 delivered message 0
+2022/05/16 08:34:47.381440 http://localhost:9005 delivered message 0
+2022/05/16 08:34:47.389129 http://localhost:9006 delivered message 0
+2022/05/16 08:34:47.482152 broadcast started
+2022/05/16 08:34:48.355522 http://localhost:8080 delivered message 0
+2022/05/16 08:34:48.362868 http://localhost:9000 delivered message 0
+2022/05/16 08:34:48.370132 http://localhost:9001 delivered message 0
+2022/05/16 08:34:48.377650 http://localhost:9002 delivered message 0
+2022/05/16 08:34:48.385147 http://localhost:9003 delivered message 0
+2022/05/16 08:34:48.455227 http://localhost:9004 delivered message 0
+2022/05/16 08:34:48.510731 http://localhost:9005 delivered message 0
+2022/05/16 08:34:48.518360 http://localhost:9006 delivered message 0
+2022/05/16 08:34:48.612019 broadcast started
+2022/05/16 08:34:49.485800 http://localhost:8080 delivered message 0
+2022/05/16 08:34:49.493917 http://localhost:9000 delivered message 0
+2022/05/16 08:34:49.502011 http://localhost:9001 delivered message 0
+2022/05/16 08:34:49.509742 http://localhost:9002 delivered message 0
+2022/05/16 08:34:49.516926 http://localhost:9003 delivered message 0
+2022/05/16 08:34:49.585342 http://localhost:9004 delivered message 0
+2022/05/16 08:34:49.641061 http://localhost:9005 delivered message 0
+2022/05/16 08:34:49.648913 http://localhost:9006 delivered message 0
+2022/05/16 08:34:49.742423 broadcast started
+2022/05/16 08:34:50.614839 http://localhost:8080 delivered message 0
+2022/05/16 08:34:50.622724 http://localhost:9000 delivered message 0
+2022/05/16 08:34:50.630446 http://localhost:9001 delivered message 0
+2022/05/16 08:34:50.638295 http://localhost:9002 delivered message 0
+2022/05/16 08:34:50.645884 http://localhost:9003 delivered message 0
+2022/05/16 08:34:50.715328 http://localhost:9004 delivered message 0
+2022/05/16 08:34:50.788269 http://localhost:9005 delivered message 0
+2022/05/16 08:34:50.796086 http://localhost:9006 delivered message 0
+2022/05/16 08:34:50.888417 broadcast started
+2022/05/16 08:34:51.773159 http://localhost:8080 delivered message 0
+2022/05/16 08:34:51.781553 http://localhost:9000 delivered message 0
+2022/05/16 08:34:51.789505 http://localhost:9001 delivered message 0
+2022/05/16 08:34:51.796925 http://localhost:9002 delivered message 0
+2022/05/16 08:34:51.804552 http://localhost:9003 delivered message 0
+2022/05/16 08:34:51.872790 http://localhost:9004 delivered message 0
+2022/05/16 08:34:51.927220 http://localhost:9005 delivered message 0
+2022/05/16 08:34:51.934774 http://localhost:9006 delivered message 0
+2022/05/16 08:34:52.028414 broadcast started
+2022/05/16 08:34:52.904193 http://localhost:8080 delivered message 0
+2022/05/16 08:34:52.911893 http://localhost:9000 delivered message 0
+2022/05/16 08:34:52.919324 http://localhost:9001 delivered message 0
+2022/05/16 08:34:52.926729 http://localhost:9002 delivered message 0
+2022/05/16 08:34:52.934048 http://localhost:9003 delivered message 0
+2022/05/16 08:34:53.002703 http://localhost:9004 delivered message 0
+2022/05/16 08:34:53.067107 http://localhost:9005 delivered message 0
+2022/05/16 08:34:53.074669 http://localhost:9006 delivered message 0
+2022/05/16 08:34:53.169023 broadcast started
+2022/05/16 08:34:54.045737 http://localhost:8080 delivered message 0
+2022/05/16 08:34:54.053429 http://localhost:9000 delivered message 0
+2022/05/16 08:34:54.061202 http://localhost:9001 delivered message 0
+2022/05/16 08:34:54.068965 http://localhost:9002 delivered message 0
+2022/05/16 08:34:54.076484 http://localhost:9003 delivered message 0
+2022/05/16 08:34:54.145971 http://localhost:9004 delivered message 0
+2022/05/16 08:34:54.203026 http://localhost:9005 delivered message 0
+2022/05/16 08:34:54.210619 http://localhost:9006 delivered message 0
+2022/05/16 08:34:54.318635 broadcast started
+2022/05/16 08:34:55.199472 http://localhost:8080 delivered message 0
+2022/05/16 08:34:55.206754 http://localhost:9000 delivered message 0
+2022/05/16 08:34:55.214449 http://localhost:9001 delivered message 0
+2022/05/16 08:34:55.222104 http://localhost:9002 delivered message 0
+2022/05/16 08:34:55.229558 http://localhost:9003 delivered message 0
+2022/05/16 08:34:55.298727 http://localhost:9004 delivered message 0
+2022/05/16 08:34:55.354393 http://localhost:9005 delivered message 0
+2022/05/16 08:34:55.362280 http://localhost:9006 delivered message 0
+2022/05/16 08:34:55.455676 broadcast started
+2022/05/16 08:34:56.333542 http://localhost:8080 delivered message 0
+2022/05/16 08:34:56.341101 http://localhost:9000 delivered message 0
+2022/05/16 08:34:56.348696 http://localhost:9001 delivered message 0
+2022/05/16 08:34:56.356107 http://localhost:9002 delivered message 0
+2022/05/16 08:34:56.363742 http://localhost:9003 delivered message 0
+2022/05/16 08:34:56.432571 http://localhost:9004 delivered message 0
+2022/05/16 08:34:56.488931 http://localhost:9005 delivered message 0
+2022/05/16 08:34:56.496598 http://localhost:9006 delivered message 0
+2022/05/16 08:34:56.591099 broadcast started
+2022/05/16 08:34:57.466116 http://localhost:8080 delivered message 0
+2022/05/16 08:34:57.473774 http://localhost:9000 delivered message 0
+2022/05/16 08:34:57.481431 http://localhost:9001 delivered message 0
+2022/05/16 08:34:57.488962 http://localhost:9002 delivered message 0
+2022/05/16 08:34:57.496400 http://localhost:9003 delivered message 0
+2022/05/16 08:34:57.565146 http://localhost:9004 delivered message 0
+2022/05/16 08:34:57.622162 http://localhost:9005 delivered message 0
+2022/05/16 08:34:57.630039 http://localhost:9006 delivered message 0
+2022/05/16 08:34:57.724401 broadcast started
+2022/05/16 08:34:58.600075 http://localhost:8080 delivered message 0
+2022/05/16 08:34:58.608158 http://localhost:9000 delivered message 0
+2022/05/16 08:34:58.615881 http://localhost:9001 delivered message 0
+2022/05/16 08:34:58.623430 http://localhost:9002 delivered message 0
+2022/05/16 08:34:58.631063 http://localhost:9003 delivered message 0
+2022/05/16 08:34:58.699792 http://localhost:9004 delivered message 0
+2022/05/16 08:34:58.756100 http://localhost:9005 delivered message 0
+2022/05/16 08:34:58.763683 http://localhost:9006 delivered message 0
+2022/05/16 08:34:58.858827 broadcast started
+2022/05/16 08:34:59.732130 http://localhost:8080 delivered message 0
+2022/05/16 08:34:59.740082 http://localhost:9000 delivered message 0
+2022/05/16 08:34:59.747841 http://localhost:9001 delivered message 0
+2022/05/16 08:34:59.755623 http://localhost:9002 delivered message 0
+2022/05/16 08:34:59.763427 http://localhost:9003 delivered message 0
+2022/05/16 08:34:59.832796 http://localhost:9004 delivered message 0
+2022/05/16 08:34:59.889106 http://localhost:9005 delivered message 0
+2022/05/16 08:34:59.896807 http://localhost:9006 delivered message 0
+2022/05/16 08:34:59.991499 broadcast started
+2022/05/16 08:35:00.866479 http://localhost:8080 delivered message 0
+2022/05/16 08:35:00.874149 http://localhost:9000 delivered message 0
+2022/05/16 08:35:00.882157 http://localhost:9001 delivered message 0
+2022/05/16 08:35:00.890150 http://localhost:9002 delivered message 0
+2022/05/16 08:35:00.898099 http://localhost:9003 delivered message 0
+2022/05/16 08:35:00.966673 http://localhost:9004 delivered message 0
+2022/05/16 08:35:01.024045 http://localhost:9005 delivered message 0
+2022/05/16 08:35:01.031859 http://localhost:9006 delivered message 0
+2022/05/16 08:35:01.125213 broadcast started
+2022/05/16 08:35:01.996713 http://localhost:8080 delivered message 0
+2022/05/16 08:35:02.004552 http://localhost:9000 delivered message 0
+2022/05/16 08:35:02.012747 http://localhost:9001 delivered message 0
+2022/05/16 08:35:02.020261 http://localhost:9002 delivered message 0
+2022/05/16 08:35:02.027760 http://localhost:9003 delivered message 0
+2022/05/16 08:35:02.095063 http://localhost:9004 delivered message 0
+2022/05/16 08:35:02.149135 http://localhost:9005 delivered message 0
+2022/05/16 08:35:02.156680 http://localhost:9006 delivered message 0
+2022/05/16 08:35:02.249551 broadcast started
+2022/05/16 08:35:03.122795 http://localhost:8080 delivered message 0
+2022/05/16 08:35:03.130536 http://localhost:9000 delivered message 0
+2022/05/16 08:35:03.138195 http://localhost:9001 delivered message 0
+2022/05/16 08:35:03.145977 http://localhost:9002 delivered message 0
+2022/05/16 08:35:03.153626 http://localhost:9003 delivered message 0
+2022/05/16 08:35:03.223245 http://localhost:9004 delivered message 0
+2022/05/16 08:35:03.279534 http://localhost:9005 delivered message 0
+2022/05/16 08:35:03.287377 http://localhost:9006 delivered message 0
+2022/05/16 08:35:03.401637 broadcast started
+2022/05/16 08:35:04.276268 http://localhost:8080 delivered message 0
+2022/05/16 08:35:04.283677 http://localhost:9000 delivered message 0
+2022/05/16 08:35:04.291162 http://localhost:9001 delivered message 0
+2022/05/16 08:35:04.298611 http://localhost:9002 delivered message 0
+2022/05/16 08:35:04.306248 http://localhost:9003 delivered message 0
+2022/05/16 08:35:04.375293 http://localhost:9004 delivered message 0
+2022/05/16 08:35:04.431025 http://localhost:9005 delivered message 0
+2022/05/16 08:35:04.438721 http://localhost:9006 delivered message 0
+2022/05/16 08:35:04.531248 broadcast started
+2022/05/16 08:35:05.408620 http://localhost:8080 delivered message 0
+2022/05/16 08:35:05.416320 http://localhost:9000 delivered message 0
+2022/05/16 08:35:05.423942 http://localhost:9001 delivered message 0
+2022/05/16 08:35:05.431687 http://localhost:9002 delivered message 0
+2022/05/16 08:35:05.439421 http://localhost:9003 delivered message 0
+2022/05/16 08:35:05.508942 http://localhost:9004 delivered message 0
+2022/05/16 08:35:05.564995 http://localhost:9005 delivered message 0
+2022/05/16 08:35:05.573168 http://localhost:9006 delivered message 0
+2022/05/16 08:35:05.666892 broadcast started
+2022/05/16 08:35:06.548814 http://localhost:8080 delivered message 0
+2022/05/16 08:35:06.556425 http://localhost:9000 delivered message 0
+2022/05/16 08:35:06.563677 http://localhost:9001 delivered message 0
+2022/05/16 08:35:06.571281 http://localhost:9002 delivered message 0
+2022/05/16 08:35:06.578923 http://localhost:9003 delivered message 0
+2022/05/16 08:35:06.647679 http://localhost:9004 delivered message 0
+2022/05/16 08:35:06.705028 http://localhost:9005 delivered message 0
+2022/05/16 08:35:06.712768 http://localhost:9006 delivered message 0
+2022/05/16 08:35:06.807631 broadcast started
+2022/05/16 08:35:07.679407 http://localhost:8080 delivered message 0
+2022/05/16 08:35:07.687139 http://localhost:9000 delivered message 0
+2022/05/16 08:35:07.694916 http://localhost:9001 delivered message 0
+2022/05/16 08:35:07.702574 http://localhost:9002 delivered message 0
+2022/05/16 08:35:07.710242 http://localhost:9003 delivered message 0
+2022/05/16 08:35:07.779570 http://localhost:9004 delivered message 0
+2022/05/16 08:35:07.835880 http://localhost:9005 delivered message 0
+2022/05/16 08:35:07.843688 http://localhost:9006 delivered message 0
+2022/05/16 08:35:07.935895 broadcast started
+2022/05/16 08:35:08.810853 http://localhost:8080 delivered message 0
+2022/05/16 08:35:08.819013 http://localhost:9000 delivered message 0
+2022/05/16 08:35:08.826718 http://localhost:9001 delivered message 0
+2022/05/16 08:35:08.834414 http://localhost:9002 delivered message 0
+2022/05/16 08:35:08.842112 http://localhost:9003 delivered message 0
+2022/05/16 08:35:08.912069 http://localhost:9004 delivered message 0
+2022/05/16 08:35:08.967441 http://localhost:9005 delivered message 0
+2022/05/16 08:35:08.975092 http://localhost:9006 delivered message 0
+2022/05/16 08:35:09.068760 broadcast started
+2022/05/16 08:35:09.943076 http://localhost:8080 delivered message 0
+2022/05/16 08:35:09.950606 http://localhost:9000 delivered message 0
+2022/05/16 08:35:09.958292 http://localhost:9001 delivered message 0
+2022/05/16 08:35:09.966102 http://localhost:9002 delivered message 0
+2022/05/16 08:35:09.974170 http://localhost:9003 delivered message 0
+2022/05/16 08:35:10.043403 http://localhost:9004 delivered message 0
+2022/05/16 08:35:10.100262 http://localhost:9005 delivered message 0
+2022/05/16 08:35:10.107937 http://localhost:9006 delivered message 0
+2022/05/16 08:35:10.201284 broadcast started
+2022/05/16 08:35:11.076054 http://localhost:8080 delivered message 0
+2022/05/16 08:35:11.083640 http://localhost:9000 delivered message 0
+2022/05/16 08:35:11.091122 http://localhost:9001 delivered message 0
+2022/05/16 08:35:11.098591 http://localhost:9002 delivered message 0
+2022/05/16 08:35:11.106386 http://localhost:9003 delivered message 0
+2022/05/16 08:35:11.175426 http://localhost:9004 delivered message 0
+2022/05/16 08:35:11.232701 http://localhost:9005 delivered message 0
+2022/05/16 08:35:11.240441 http://localhost:9006 delivered message 0
+2022/05/16 08:35:11.334275 broadcast started
+2022/05/16 08:35:12.209096 http://localhost:8080 delivered message 0
+2022/05/16 08:35:12.216724 http://localhost:9000 delivered message 0
+2022/05/16 08:35:12.224616 http://localhost:9001 delivered message 0
+2022/05/16 08:35:12.232670 http://localhost:9002 delivered message 0
+2022/05/16 08:35:12.240780 http://localhost:9003 delivered message 0
+2022/05/16 08:35:12.309885 http://localhost:9004 delivered message 0
+2022/05/16 08:35:12.368104 http://localhost:9005 delivered message 0
+2022/05/16 08:35:12.375829 http://localhost:9006 delivered message 0
+2022/05/16 08:35:12.491579 broadcast started
+2022/05/16 08:35:13.354740 http://localhost:8080 delivered message 0
+2022/05/16 08:35:13.362743 http://localhost:9000 delivered message 0
+2022/05/16 08:35:13.370660 http://localhost:9001 delivered message 0
+2022/05/16 08:35:13.378561 http://localhost:9002 delivered message 0
+2022/05/16 08:35:13.385967 http://localhost:9003 delivered message 0
+2022/05/16 08:35:13.454911 http://localhost:9004 delivered message 0
+2022/05/16 08:35:13.511057 http://localhost:9005 delivered message 0
+2022/05/16 08:35:13.518693 http://localhost:9006 delivered message 0
+2022/05/16 08:35:13.611947 broadcast started
+2022/05/16 08:35:14.486480 http://localhost:8080 delivered message 0
+2022/05/16 08:35:14.494151 http://localhost:9000 delivered message 0
+2022/05/16 08:35:14.501875 http://localhost:9001 delivered message 0
+2022/05/16 08:35:14.509564 http://localhost:9002 delivered message 0
+2022/05/16 08:35:14.517177 http://localhost:9003 delivered message 0
+2022/05/16 08:35:14.587143 http://localhost:9004 delivered message 0
+2022/05/16 08:35:14.641677 http://localhost:9005 delivered message 0
+2022/05/16 08:35:14.649459 http://localhost:9006 delivered message 0
+2022/05/16 08:35:14.743663 broadcast started
+2022/05/16 08:35:15.617563 http://localhost:8080 delivered message 0
+2022/05/16 08:35:15.625379 http://localhost:9000 delivered message 0
+2022/05/16 08:35:15.633251 http://localhost:9001 delivered message 0
+2022/05/16 08:35:15.640964 http://localhost:9002 delivered message 0
+2022/05/16 08:35:15.648537 http://localhost:9003 delivered message 0
+2022/05/16 08:35:15.717851 http://localhost:9004 delivered message 0
+2022/05/16 08:35:15.773773 http://localhost:9005 delivered message 0
+2022/05/16 08:35:15.781344 http://localhost:9006 delivered message 0
+2022/05/16 08:35:15.875705 broadcast started
+2022/05/16 08:35:16.749628 http://localhost:8080 delivered message 0
+2022/05/16 08:35:16.757409 http://localhost:9000 delivered message 0
+2022/05/16 08:35:16.765222 http://localhost:9001 delivered message 0
+2022/05/16 08:35:16.772934 http://localhost:9002 delivered message 0
+2022/05/16 08:35:16.780547 http://localhost:9003 delivered message 0
+2022/05/16 08:35:16.849644 http://localhost:9004 delivered message 0
+2022/05/16 08:35:16.905863 http://localhost:9005 delivered message 0
+2022/05/16 08:35:16.913532 http://localhost:9006 delivered message 0
+2022/05/16 08:35:17.008813 broadcast started
+2022/05/16 08:35:17.881549 http://localhost:8080 delivered message 0
+2022/05/16 08:35:17.889303 http://localhost:9000 delivered message 0
+2022/05/16 08:35:17.897065 http://localhost:9001 delivered message 0
+2022/05/16 08:35:17.904757 http://localhost:9002 delivered message 0
+2022/05/16 08:35:17.912479 http://localhost:9003 delivered message 0
+2022/05/16 08:35:17.981569 http://localhost:9004 delivered message 0
+2022/05/16 08:35:18.036960 http://localhost:9005 delivered message 0
+2022/05/16 08:35:18.044649 http://localhost:9006 delivered message 0
+2022/05/16 08:35:18.137456 broadcast started
+2022/05/16 08:35:19.009492 http://localhost:8080 delivered message 0
+2022/05/16 08:35:19.017203 http://localhost:9000 delivered message 0
+2022/05/16 08:35:19.024878 http://localhost:9001 delivered message 0
+2022/05/16 08:35:19.032730 http://localhost:9002 delivered message 0
+2022/05/16 08:35:19.040640 http://localhost:9003 delivered message 0
+2022/05/16 08:35:19.109965 http://localhost:9004 delivered message 0
+2022/05/16 08:35:19.165716 http://localhost:9005 delivered message 0
+2022/05/16 08:35:19.173572 http://localhost:9006 delivered message 0
+2022/05/16 08:35:19.284680 broadcast started
+2022/05/16 08:35:20.160707 http://localhost:8080 delivered message 0
+2022/05/16 08:35:20.168364 http://localhost:9000 delivered message 0
+2022/05/16 08:35:20.176077 http://localhost:9001 delivered message 0
+2022/05/16 08:35:20.183759 http://localhost:9002 delivered message 0
+2022/05/16 08:35:20.191352 http://localhost:9003 delivered message 0
+2022/05/16 08:35:20.261307 http://localhost:9004 delivered message 0
+2022/05/16 08:35:20.322035 http://localhost:9005 delivered message 0
+2022/05/16 08:35:20.330150 http://localhost:9006 delivered message 0
+2022/05/16 08:35:20.425661 broadcast started
+2022/05/16 08:35:21.303516 http://localhost:8080 delivered message 0
+2022/05/16 08:35:21.311608 http://localhost:9000 delivered message 0
+2022/05/16 08:35:21.319446 http://localhost:9001 delivered message 0
+2022/05/16 08:35:21.327179 http://localhost:9002 delivered message 0
+2022/05/16 08:35:21.334805 http://localhost:9003 delivered message 0
+2022/05/16 08:35:21.404550 http://localhost:9004 delivered message 0
+2022/05/16 08:35:21.460240 http://localhost:9005 delivered message 0
+2022/05/16 08:35:21.467793 http://localhost:9006 delivered message 0
+2022/05/16 08:35:21.562188 broadcast started
+2022/05/16 08:35:22.433530 http://localhost:8080 delivered message 0
+2022/05/16 08:35:22.441345 http://localhost:9000 delivered message 0
+2022/05/16 08:35:22.449278 http://localhost:9001 delivered message 0
+2022/05/16 08:35:22.456961 http://localhost:9002 delivered message 0
+2022/05/16 08:35:22.464561 http://localhost:9003 delivered message 0
+2022/05/16 08:35:22.533806 http://localhost:9004 delivered message 0
+2022/05/16 08:35:22.590774 http://localhost:9005 delivered message 0
+2022/05/16 08:35:22.598444 http://localhost:9006 delivered message 0
+2022/05/16 08:35:22.691617 broadcast started
+2022/05/16 08:35:23.560796 http://localhost:8080 delivered message 0
+2022/05/16 08:35:23.569229 http://localhost:9000 delivered message 0
+2022/05/16 08:35:23.576754 http://localhost:9001 delivered message 0
+2022/05/16 08:35:23.584519 http://localhost:9002 delivered message 0
+2022/05/16 08:35:23.591864 http://localhost:9003 delivered message 0
+2022/05/16 08:35:23.660099 http://localhost:9004 delivered message 0
+2022/05/16 08:35:23.714793 http://localhost:9005 delivered message 0
+2022/05/16 08:35:23.722429 http://localhost:9006 delivered message 0
+2022/05/16 08:35:23.815762 broadcast started
+2022/05/16 08:35:24.692373 http://localhost:8080 delivered message 0
+2022/05/16 08:35:24.700070 http://localhost:9000 delivered message 0
+2022/05/16 08:35:24.707701 http://localhost:9001 delivered message 0
+2022/05/16 08:35:24.715295 http://localhost:9002 delivered message 0
+2022/05/16 08:35:24.722925 http://localhost:9003 delivered message 0
+2022/05/16 08:35:24.792213 http://localhost:9004 delivered message 0
+2022/05/16 08:35:24.848005 http://localhost:9005 delivered message 0
+2022/05/16 08:35:24.856105 http://localhost:9006 delivered message 0
+2022/05/16 08:35:24.950375 broadcast started
+2022/05/16 08:35:25.831844 http://localhost:8080 delivered message 0
+2022/05/16 08:35:25.839462 http://localhost:9000 delivered message 0
+2022/05/16 08:35:25.846910 http://localhost:9001 delivered message 0
+2022/05/16 08:35:25.854458 http://localhost:9002 delivered message 0
+2022/05/16 08:35:25.861933 http://localhost:9003 delivered message 0
+2022/05/16 08:35:25.931042 http://localhost:9004 delivered message 0
+2022/05/16 08:35:25.987318 http://localhost:9005 delivered message 0
+2022/05/16 08:35:25.995297 http://localhost:9006 delivered message 0
+2022/05/16 08:35:26.087126 broadcast started
+2022/05/16 08:35:26.961247 http://localhost:8080 delivered message 0
+2022/05/16 08:35:26.968925 http://localhost:9000 delivered message 0
+2022/05/16 08:35:26.976813 http://localhost:9001 delivered message 0
+2022/05/16 08:35:26.984667 http://localhost:9002 delivered message 0
+2022/05/16 08:35:26.991882 http://localhost:9003 delivered message 0
+2022/05/16 08:35:27.059475 http://localhost:9004 delivered message 0
+2022/05/16 08:35:27.116514 http://localhost:9005 delivered message 0
+2022/05/16 08:35:27.124185 http://localhost:9006 delivered message 0
+2022/05/16 08:35:27.218190 broadcast started
+2022/05/16 08:35:28.089779 http://localhost:8080 delivered message 0
+2022/05/16 08:35:28.097825 http://localhost:9000 delivered message 0
+2022/05/16 08:35:28.105599 http://localhost:9001 delivered message 0
+2022/05/16 08:35:28.113235 http://localhost:9002 delivered message 0
+2022/05/16 08:35:28.120884 http://localhost:9003 delivered message 0
+2022/05/16 08:35:28.190478 http://localhost:9004 delivered message 0
+2022/05/16 08:35:28.247030 http://localhost:9005 delivered message 0
+2022/05/16 08:35:28.254669 http://localhost:9006 delivered message 0
+2022/05/16 08:35:28.347602 broadcast started
+2022/05/16 08:35:29.217934 http://localhost:8080 delivered message 0
+2022/05/16 08:35:29.225705 http://localhost:9000 delivered message 0
+2022/05/16 08:35:29.233688 http://localhost:9001 delivered message 0
+2022/05/16 08:35:29.241554 http://localhost:9002 delivered message 0
+2022/05/16 08:35:29.249309 http://localhost:9003 delivered message 0
+2022/05/16 08:35:29.317763 http://localhost:9004 delivered message 0
+2022/05/16 08:35:29.373926 http://localhost:9005 delivered message 0
+2022/05/16 08:35:29.381524 http://localhost:9006 delivered message 0
+2022/05/16 08:35:29.475997 broadcast started
+2022/05/16 08:35:30.349744 http://localhost:8080 delivered message 0
+2022/05/16 08:35:30.357732 http://localhost:9000 delivered message 0
+2022/05/16 08:35:30.365534 http://localhost:9001 delivered message 0
+2022/05/16 08:35:30.373385 http://localhost:9002 delivered message 0
+2022/05/16 08:35:30.380993 http://localhost:9003 delivered message 0
+2022/05/16 08:35:30.450659 http://localhost:9004 delivered message 0
+2022/05/16 08:35:30.507098 http://localhost:9005 delivered message 0
+2022/05/16 08:35:30.514682 http://localhost:9006 delivered message 0
+2022/05/16 08:35:30.608678 broadcast started
+2022/05/16 08:35:31.479934 http://localhost:8080 delivered message 0
+2022/05/16 08:35:31.488044 http://localhost:9000 delivered message 0
+2022/05/16 08:35:31.495589 http://localhost:9001 delivered message 0
+2022/05/16 08:35:31.503192 http://localhost:9002 delivered message 0
+2022/05/16 08:35:31.510679 http://localhost:9003 delivered message 0
+2022/05/16 08:35:31.580019 http://localhost:9004 delivered message 0
+2022/05/16 08:35:31.636837 http://localhost:9005 delivered message 0
+2022/05/16 08:35:31.644873 http://localhost:9006 delivered message 0
+2022/05/16 08:35:31.737795 broadcast started
+2022/05/16 08:35:32.612110 http://localhost:8080 delivered message 0
+2022/05/16 08:35:32.619890 http://localhost:9000 delivered message 0
+2022/05/16 08:35:32.627369 http://localhost:9001 delivered message 0
+2022/05/16 08:35:32.634791 http://localhost:9002 delivered message 0
+2022/05/16 08:35:32.642268 http://localhost:9003 delivered message 0
+2022/05/16 08:35:32.711612 http://localhost:9004 delivered message 0
+2022/05/16 08:35:32.767052 http://localhost:9005 delivered message 0
+2022/05/16 08:35:32.774636 http://localhost:9006 delivered message 0
+2022/05/16 08:35:32.868331 broadcast started
+2022/05/16 08:35:33.735314 http://localhost:8080 delivered message 0
+2022/05/16 08:35:33.743417 http://localhost:9000 delivered message 0
+2022/05/16 08:35:33.751738 http://localhost:9001 delivered message 0
+2022/05/16 08:35:33.759349 http://localhost:9002 delivered message 0
+2022/05/16 08:35:33.766549 http://localhost:9003 delivered message 0
+2022/05/16 08:35:33.834465 http://localhost:9004 delivered message 0
+2022/05/16 08:35:33.890418 http://localhost:9005 delivered message 0
+2022/05/16 08:35:33.898080 http://localhost:9006 delivered message 0
+2022/05/16 08:35:33.991547 broadcast started
+2022/05/16 08:35:34.865982 http://localhost:8080 delivered message 0
+2022/05/16 08:35:34.873540 http://localhost:9000 delivered message 0
+2022/05/16 08:35:34.881255 http://localhost:9001 delivered message 0
+2022/05/16 08:35:34.889139 http://localhost:9002 delivered message 0
+2022/05/16 08:35:34.896926 http://localhost:9003 delivered message 0
+2022/05/16 08:35:34.967139 http://localhost:9004 delivered message 0
+2022/05/16 08:35:35.021674 http://localhost:9005 delivered message 0
+2022/05/16 08:35:35.029728 http://localhost:9006 delivered message 0
+2022/05/16 08:35:35.122300 broadcast started
+2022/05/16 08:35:35.997896 http://localhost:8080 delivered message 0
+2022/05/16 08:35:36.006520 http://localhost:9000 delivered message 0
+2022/05/16 08:35:36.015133 http://localhost:9001 delivered message 0
+2022/05/16 08:35:36.023024 http://localhost:9002 delivered message 0
+2022/05/16 08:35:36.030778 http://localhost:9003 delivered message 0
+2022/05/16 08:35:36.099766 http://localhost:9004 delivered message 0
+2022/05/16 08:35:36.156136 http://localhost:9005 delivered message 0
+2022/05/16 08:35:36.163776 http://localhost:9006 delivered message 0
+2022/05/16 08:35:36.259047 broadcast started
+2022/05/16 08:35:37.148543 http://localhost:8080 delivered message 0
+2022/05/16 08:35:37.156417 http://localhost:9000 delivered message 0
+2022/05/16 08:35:37.164241 http://localhost:9001 delivered message 0
+2022/05/16 08:35:37.171824 http://localhost:9002 delivered message 0
+2022/05/16 08:35:37.179488 http://localhost:9003 delivered message 0
+2022/05/16 08:35:37.249674 http://localhost:9004 delivered message 0
+2022/05/16 08:35:37.305891 http://localhost:9005 delivered message 0
+2022/05/16 08:35:37.313591 http://localhost:9006 delivered message 0
+2022/05/16 08:35:37.410294 broadcast started
+2022/05/16 08:35:38.280402 http://localhost:8080 delivered message 0
+2022/05/16 08:35:38.288448 http://localhost:9000 delivered message 0
+2022/05/16 08:35:38.296141 http://localhost:9001 delivered message 0
+2022/05/16 08:35:38.303880 http://localhost:9002 delivered message 0
+2022/05/16 08:35:38.311594 http://localhost:9003 delivered message 0
+2022/05/16 08:35:38.381273 http://localhost:9004 delivered message 0
+2022/05/16 08:35:38.437283 http://localhost:9005 delivered message 0
+2022/05/16 08:35:38.444938 http://localhost:9006 delivered message 0
+2022/05/16 08:35:38.537650 broadcast started
+2022/05/16 08:35:39.410229 http://localhost:8080 delivered message 0
+2022/05/16 08:35:39.417864 http://localhost:9000 delivered message 0
+2022/05/16 08:35:39.425481 http://localhost:9001 delivered message 0
+2022/05/16 08:35:39.433141 http://localhost:9002 delivered message 0
+2022/05/16 08:35:39.440851 http://localhost:9003 delivered message 0
+2022/05/16 08:35:39.510885 http://localhost:9004 delivered message 0
+2022/05/16 08:35:39.566560 http://localhost:9005 delivered message 0
+2022/05/16 08:35:39.574592 http://localhost:9006 delivered message 0
+2022/05/16 08:35:39.667911 broadcast started
+2022/05/16 08:35:40.542249 http://localhost:8080 delivered message 0
+2022/05/16 08:35:40.549996 http://localhost:9000 delivered message 0
+2022/05/16 08:35:40.557681 http://localhost:9001 delivered message 0
+2022/05/16 08:35:40.565328 http://localhost:9002 delivered message 0
+2022/05/16 08:35:40.573366 http://localhost:9003 delivered message 0
+2022/05/16 08:35:40.642693 http://localhost:9004 delivered message 0
+2022/05/16 08:35:40.700213 http://localhost:9005 delivered message 0
+2022/05/16 08:35:40.707736 http://localhost:9006 delivered message 0
+2022/05/16 08:35:40.800264 broadcast started
+2022/05/16 08:35:41.669979 http://localhost:8080 delivered message 0
+2022/05/16 08:35:41.677850 http://localhost:9000 delivered message 0
+2022/05/16 08:35:41.685811 http://localhost:9001 delivered message 0
+2022/05/16 08:35:41.694141 http://localhost:9002 delivered message 0
+2022/05/16 08:35:41.701836 http://localhost:9003 delivered message 0
+2022/05/16 08:35:41.770886 http://localhost:9004 delivered message 0
+2022/05/16 08:35:41.826996 http://localhost:9005 delivered message 0
+2022/05/16 08:35:41.834395 http://localhost:9006 delivered message 0
+2022/05/16 08:35:41.933287 broadcast started
+2022/05/16 08:35:42.807046 http://localhost:8080 delivered message 0
+2022/05/16 08:35:42.814957 http://localhost:9000 delivered message 0
+2022/05/16 08:35:42.823035 http://localhost:9001 delivered message 0
+2022/05/16 08:35:42.830610 http://localhost:9002 delivered message 0
+2022/05/16 08:35:42.838526 http://localhost:9003 delivered message 0
+2022/05/16 08:35:42.907608 http://localhost:9004 delivered message 0
+2022/05/16 08:35:42.964079 http://localhost:9005 delivered message 0
+2022/05/16 08:35:42.971708 http://localhost:9006 delivered message 0
+2022/05/16 08:35:43.066324 broadcast started
+2022/05/16 08:35:43.932487 http://localhost:8080 delivered message 0
+2022/05/16 08:35:43.940361 http://localhost:9000 delivered message 0
+2022/05/16 08:35:43.948176 http://localhost:9001 delivered message 0
+2022/05/16 08:35:43.955656 http://localhost:9002 delivered message 0
+2022/05/16 08:35:43.963332 http://localhost:9003 delivered message 0
+2022/05/16 08:35:44.031213 http://localhost:9004 delivered message 0
+2022/05/16 08:35:44.084609 http://localhost:9005 delivered message 0
+2022/05/16 08:35:44.092191 http://localhost:9006 delivered message 0
+2022/05/16 08:35:44.185861 broadcast started
+2022/05/16 08:35:45.060994 http://localhost:8080 delivered message 0
+2022/05/16 08:35:45.068688 http://localhost:9000 delivered message 0
+2022/05/16 08:35:45.076445 http://localhost:9001 delivered message 0
+2022/05/16 08:35:45.084078 http://localhost:9002 delivered message 0
+2022/05/16 08:35:45.091746 http://localhost:9003 delivered message 0
+2022/05/16 08:35:45.161701 http://localhost:9004 delivered message 0
+2022/05/16 08:35:45.218220 http://localhost:9005 delivered message 0
+2022/05/16 08:35:45.225997 http://localhost:9006 delivered message 0
+2022/05/16 08:35:45.318607 broadcast started
+2022/05/16 08:35:46.193414 http://localhost:8080 delivered message 0
+2022/05/16 08:35:46.201187 http://localhost:9000 delivered message 0
+2022/05/16 08:35:46.209007 http://localhost:9001 delivered message 0
+2022/05/16 08:35:46.216734 http://localhost:9002 delivered message 0
+2022/05/16 08:35:46.224414 http://localhost:9003 delivered message 0
+2022/05/16 08:35:46.294381 http://localhost:9004 delivered message 0
+2022/05/16 08:35:46.350273 http://localhost:9005 delivered message 0
+2022/05/16 08:35:46.357790 http://localhost:9006 delivered message 0
+2022/05/16 08:35:46.451617 broadcast started
+2022/05/16 08:35:47.324721 http://localhost:8080 delivered message 0
+2022/05/16 08:35:47.332728 http://localhost:9000 delivered message 0
+2022/05/16 08:35:47.340743 http://localhost:9001 delivered message 0
+2022/05/16 08:35:47.348823 http://localhost:9002 delivered message 0
+2022/05/16 08:35:47.356424 http://localhost:9003 delivered message 0
+2022/05/16 08:35:47.424871 http://localhost:9004 delivered message 0
+2022/05/16 08:35:47.481201 http://localhost:9005 delivered message 0
+2022/05/16 08:35:47.488918 http://localhost:9006 delivered message 0
+2022/05/16 08:35:47.583448 broadcast started
+2022/05/16 08:35:48.456882 http://localhost:8080 delivered message 0
+2022/05/16 08:35:48.464694 http://localhost:9000 delivered message 0
+2022/05/16 08:35:48.472812 http://localhost:9001 delivered message 0
+2022/05/16 08:35:48.480496 http://localhost:9002 delivered message 0
+2022/05/16 08:35:48.488417 http://localhost:9003 delivered message 0
+2022/05/16 08:35:48.557919 http://localhost:9004 delivered message 0
+2022/05/16 08:35:48.614056 http://localhost:9005 delivered message 0
+2022/05/16 08:35:48.621672 http://localhost:9006 delivered message 0
+2022/05/16 08:35:48.714090 broadcast started
+2022/05/16 08:35:49.585469 http://localhost:8080 delivered message 0
+2022/05/16 08:35:49.593343 http://localhost:9000 delivered message 0
+2022/05/16 08:35:49.600868 http://localhost:9001 delivered message 0
+2022/05/16 08:35:49.608482 http://localhost:9002 delivered message 0
+2022/05/16 08:35:49.616181 http://localhost:9003 delivered message 0
+2022/05/16 08:35:49.685849 http://localhost:9004 delivered message 0
+2022/05/16 08:35:49.741623 http://localhost:9005 delivered message 0
+2022/05/16 08:35:49.749694 http://localhost:9006 delivered message 0
+2022/05/16 08:35:49.844329 broadcast started
+2022/05/16 08:35:50.719915 http://localhost:8080 delivered message 0
+2022/05/16 08:35:50.727583 http://localhost:9000 delivered message 0
+2022/05/16 08:35:50.735350 http://localhost:9001 delivered message 0
+2022/05/16 08:35:50.743007 http://localhost:9002 delivered message 0
+2022/05/16 08:35:50.750620 http://localhost:9003 delivered message 0
+2022/05/16 08:35:50.820472 http://localhost:9004 delivered message 0
+2022/05/16 08:35:50.890612 http://localhost:9005 delivered message 0
+2022/05/16 08:35:50.898421 http://localhost:9006 delivered message 0
+2022/05/16 08:35:50.992415 broadcast started
+2022/05/16 08:35:51.874364 http://localhost:8080 delivered message 0
+2022/05/16 08:35:51.882178 http://localhost:9000 delivered message 0
+2022/05/16 08:35:51.890068 http://localhost:9001 delivered message 0
+2022/05/16 08:35:51.897679 http://localhost:9002 delivered message 0
+2022/05/16 08:35:51.905705 http://localhost:9003 delivered message 0
+2022/05/16 08:35:51.974634 http://localhost:9004 delivered message 0
+2022/05/16 08:35:52.032887 http://localhost:9005 delivered message 0
+2022/05/16 08:35:52.040706 http://localhost:9006 delivered message 0
+2022/05/16 08:35:52.134670 broadcast started
+2022/05/16 08:35:53.052141 http://localhost:8080 delivered message 0
+2022/05/16 08:35:53.060275 http://localhost:9000 delivered message 0
+2022/05/16 08:35:53.068136 http://localhost:9001 delivered message 0
+2022/05/16 08:35:53.076659 http://localhost:9002 delivered message 0
+2022/05/16 08:35:53.084455 http://localhost:9003 delivered message 0
+2022/05/16 08:35:53.151790 http://localhost:9004 delivered message 0
+2022/05/16 08:35:53.205888 http://localhost:9005 delivered message 0
+2022/05/16 08:35:53.213120 http://localhost:9006 delivered message 0
+2022/05/16 08:35:53.301527 broadcast started
+2022/05/16 08:35:54.169908 http://localhost:8080 delivered message 0
+2022/05/16 08:35:54.177720 http://localhost:9000 delivered message 0
+2022/05/16 08:35:54.185434 http://localhost:9001 delivered message 0
+2022/05/16 08:35:54.193587 http://localhost:9002 delivered message 0
+2022/05/16 08:35:54.201460 http://localhost:9003 delivered message 0
+2022/05/16 08:35:54.269265 http://localhost:9004 delivered message 0
+2022/05/16 08:35:54.323438 http://localhost:9005 delivered message 0
+2022/05/16 08:35:54.331040 http://localhost:9006 delivered message 0
+2022/05/16 08:35:54.422911 broadcast started
+2022/05/16 08:35:55.291233 http://localhost:8080 delivered message 0
+2022/05/16 08:35:55.299451 http://localhost:9000 delivered message 0
+2022/05/16 08:35:55.307449 http://localhost:9001 delivered message 0
+2022/05/16 08:35:55.315124 http://localhost:9002 delivered message 0
+2022/05/16 08:35:55.323038 http://localhost:9003 delivered message 0
+2022/05/16 08:35:55.393148 http://localhost:9004 delivered message 0
+2022/05/16 08:35:55.450975 http://localhost:9005 delivered message 0
+2022/05/16 08:35:55.459032 http://localhost:9006 delivered message 0
+2022/05/16 08:35:55.554287 broadcast started
+2022/05/16 08:35:56.406873 http://localhost:8080 delivered message 0
+2022/05/16 08:35:56.414627 http://localhost:9000 delivered message 0
+2022/05/16 08:35:56.422202 http://localhost:9001 delivered message 0
+2022/05/16 08:35:56.429883 http://localhost:9002 delivered message 0
+2022/05/16 08:35:56.437526 http://localhost:9003 delivered message 0
+2022/05/16 08:35:56.506996 http://localhost:9004 delivered message 0
+2022/05/16 08:35:56.564078 http://localhost:9005 delivered message 0
+2022/05/16 08:35:56.571845 http://localhost:9006 delivered message 0
+2022/05/16 08:35:56.663538 broadcast started
+2022/05/16 08:35:57.540263 http://localhost:8080 delivered message 0
+2022/05/16 08:35:57.548147 http://localhost:9000 delivered message 0
+2022/05/16 08:35:57.556069 http://localhost:9001 delivered message 0
+2022/05/16 08:35:57.563721 http://localhost:9002 delivered message 0
+2022/05/16 08:35:57.571538 http://localhost:9003 delivered message 0
+2022/05/16 08:35:57.640897 http://localhost:9004 delivered message 0
+2022/05/16 08:35:57.696142 http://localhost:9005 delivered message 0
+2022/05/16 08:35:57.703699 http://localhost:9006 delivered message 0
+2022/05/16 08:35:57.795454 broadcast started
+2022/05/16 08:35:58.669052 http://localhost:8080 delivered message 0
+2022/05/16 08:35:58.676808 http://localhost:9000 delivered message 0
+2022/05/16 08:35:58.684369 http://localhost:9001 delivered message 0
+2022/05/16 08:35:58.692302 http://localhost:9002 delivered message 0
+2022/05/16 08:35:58.700260 http://localhost:9003 delivered message 0
+2022/05/16 08:35:58.769508 http://localhost:9004 delivered message 0
+2022/05/16 08:35:58.825817 http://localhost:9005 delivered message 0
+2022/05/16 08:35:58.833334 http://localhost:9006 delivered message 0
+2022/05/16 08:35:58.925779 broadcast started
+2022/05/16 08:35:59.799723 http://localhost:8080 delivered message 0
+2022/05/16 08:35:59.807507 http://localhost:9000 delivered message 0
+2022/05/16 08:35:59.815429 http://localhost:9001 delivered message 0
+2022/05/16 08:35:59.822936 http://localhost:9002 delivered message 0
+2022/05/16 08:35:59.830553 http://localhost:9003 delivered message 0
+2022/05/16 08:35:59.899348 http://localhost:9004 delivered message 0
+2022/05/16 08:35:59.955870 http://localhost:9005 delivered message 0
+2022/05/16 08:35:59.963537 http://localhost:9006 delivered message 0
+2022/05/16 08:36:00.055907 broadcast started
+2022/05/16 08:36:00.929688 http://localhost:8080 delivered message 0
+2022/05/16 08:36:00.937373 http://localhost:9000 delivered message 0
+2022/05/16 08:36:00.945024 http://localhost:9001 delivered message 0
+2022/05/16 08:36:00.952849 http://localhost:9002 delivered message 0
+2022/05/16 08:36:00.960784 http://localhost:9003 delivered message 0
+2022/05/16 08:36:01.029533 http://localhost:9004 delivered message 0
+2022/05/16 08:36:01.086549 http://localhost:9005 delivered message 0
+2022/05/16 08:36:01.094292 http://localhost:9006 delivered message 0
+2022/05/16 08:36:01.187510 broadcast started
+2022/05/16 08:36:02.063708 http://localhost:8080 delivered message 0
+2022/05/16 08:36:02.071449 http://localhost:9000 delivered message 0
+2022/05/16 08:36:02.079194 http://localhost:9001 delivered message 0
+2022/05/16 08:36:02.087085 http://localhost:9002 delivered message 0
+2022/05/16 08:36:02.095173 http://localhost:9003 delivered message 0
+2022/05/16 08:36:02.163580 http://localhost:9004 delivered message 0
+2022/05/16 08:36:02.219282 http://localhost:9005 delivered message 0
+2022/05/16 08:36:02.226986 http://localhost:9006 delivered message 0
+2022/05/16 08:36:02.325747 broadcast started
+2022/05/16 08:36:03.197756 http://localhost:8080 delivered message 0
+2022/05/16 08:36:03.205432 http://localhost:9000 delivered message 0
+2022/05/16 08:36:03.213172 http://localhost:9001 delivered message 0
+2022/05/16 08:36:03.221306 http://localhost:9002 delivered message 0
+2022/05/16 08:36:03.229354 http://localhost:9003 delivered message 0
+2022/05/16 08:36:03.298209 http://localhost:9004 delivered message 0
+2022/05/16 08:36:03.355044 http://localhost:9005 delivered message 0
+2022/05/16 08:36:03.362649 http://localhost:9006 delivered message 0
+2022/05/16 08:36:03.461318 broadcast started
+2022/05/16 08:36:04.339554 http://localhost:8080 delivered message 0
+2022/05/16 08:36:04.347028 http://localhost:9000 delivered message 0
+2022/05/16 08:36:04.354663 http://localhost:9001 delivered message 0
+2022/05/16 08:36:04.362235 http://localhost:9002 delivered message 0
+2022/05/16 08:36:04.369861 http://localhost:9003 delivered message 0
+2022/05/16 08:36:04.439077 http://localhost:9004 delivered message 0
+2022/05/16 08:36:04.495443 http://localhost:9005 delivered message 0
+2022/05/16 08:36:04.503023 http://localhost:9006 delivered message 0
+2022/05/16 08:36:04.594067 broadcast started
+2022/05/16 08:36:05.456388 http://localhost:8080 delivered message 0
+2022/05/16 08:36:05.464201 http://localhost:9000 delivered message 0
+2022/05/16 08:36:05.472041 http://localhost:9001 delivered message 0
+2022/05/16 08:36:05.480116 http://localhost:9002 delivered message 0
+2022/05/16 08:36:05.488298 http://localhost:9003 delivered message 0
+2022/05/16 08:36:05.557071 http://localhost:9004 delivered message 0
+2022/05/16 08:36:05.613948 http://localhost:9005 delivered message 0
+2022/05/16 08:36:05.621633 http://localhost:9006 delivered message 0
+2022/05/16 08:36:05.714479 broadcast started
+2022/05/16 08:36:06.610977 http://localhost:8080 delivered message 0
+2022/05/16 08:36:06.618903 http://localhost:9000 delivered message 0
+2022/05/16 08:36:06.627066 http://localhost:9001 delivered message 0
+2022/05/16 08:36:06.635263 http://localhost:9002 delivered message 0
+2022/05/16 08:36:06.643052 http://localhost:9003 delivered message 0
+2022/05/16 08:36:06.712019 http://localhost:9004 delivered message 0
+2022/05/16 08:36:06.769009 http://localhost:9005 delivered message 0
+2022/05/16 08:36:06.776713 http://localhost:9006 delivered message 0
+2022/05/16 08:36:06.870315 broadcast started
+2022/05/16 08:36:07.740806 http://localhost:8080 delivered message 0
+2022/05/16 08:36:07.748996 http://localhost:9000 delivered message 0
+2022/05/16 08:36:07.757172 http://localhost:9001 delivered message 0
+2022/05/16 08:36:07.764821 http://localhost:9002 delivered message 0
+2022/05/16 08:36:07.772574 http://localhost:9003 delivered message 0
+2022/05/16 08:36:07.842134 http://localhost:9004 delivered message 0
+2022/05/16 08:36:07.898605 http://localhost:9005 delivered message 0
+2022/05/16 08:36:07.906364 http://localhost:9006 delivered message 0
+2022/05/16 08:36:08.000624 broadcast started
+2022/05/16 08:36:08.874756 http://localhost:8080 delivered message 0
+2022/05/16 08:36:08.882508 http://localhost:9000 delivered message 0
+2022/05/16 08:36:08.890285 http://localhost:9001 delivered message 0
+2022/05/16 08:36:08.897948 http://localhost:9002 delivered message 0
+2022/05/16 08:36:08.906055 http://localhost:9003 delivered message 0
+2022/05/16 08:36:08.975195 http://localhost:9004 delivered message 0
+2022/05/16 08:36:09.032965 http://localhost:9005 delivered message 0
+2022/05/16 08:36:09.040823 http://localhost:9006 delivered message 0
+2022/05/16 08:36:09.134758 broadcast started
+2022/05/16 08:36:10.007041 http://localhost:8080 delivered message 0
+2022/05/16 08:36:10.014744 http://localhost:9000 delivered message 0
+2022/05/16 08:36:10.022594 http://localhost:9001 delivered message 0
+2022/05/16 08:36:10.030856 http://localhost:9002 delivered message 0
+2022/05/16 08:36:10.038766 http://localhost:9003 delivered message 0
+2022/05/16 08:36:10.110916 http://localhost:9004 delivered message 0
+2022/05/16 08:36:10.167972 http://localhost:9005 delivered message 0
+2022/05/16 08:36:10.176114 http://localhost:9006 delivered message 0
+2022/05/16 08:36:10.268473 broadcast started
+2022/05/16 08:36:11.144685 http://localhost:8080 delivered message 0
+2022/05/16 08:36:11.154914 http://localhost:9000 delivered message 0
+2022/05/16 08:36:11.163045 http://localhost:9001 delivered message 0
+2022/05/16 08:36:11.170538 http://localhost:9002 delivered message 0
+2022/05/16 08:36:11.178076 http://localhost:9003 delivered message 0
+2022/05/16 08:36:11.246685 http://localhost:9004 delivered message 0
+2022/05/16 08:36:11.307200 http://localhost:9005 delivered message 0
+2022/05/16 08:36:11.314810 http://localhost:9006 delivered message 0
+2022/05/16 08:36:11.409737 broadcast started
+2022/05/16 08:36:12.281794 http://localhost:8080 delivered message 0
+2022/05/16 08:36:12.289722 http://localhost:9000 delivered message 0
+2022/05/16 08:36:12.297445 http://localhost:9001 delivered message 0
+2022/05/16 08:36:12.305483 http://localhost:9002 delivered message 0
+2022/05/16 08:36:12.313079 http://localhost:9003 delivered message 0
+2022/05/16 08:36:12.382682 http://localhost:9004 delivered message 0
+2022/05/16 08:36:12.439813 http://localhost:9005 delivered message 0
+2022/05/16 08:36:12.447830 http://localhost:9006 delivered message 0
+2022/05/16 08:36:12.541830 broadcast started
+2022/05/16 08:36:13.414890 http://localhost:8080 delivered message 0
+2022/05/16 08:36:13.423162 http://localhost:9000 delivered message 0
+2022/05/16 08:36:13.430839 http://localhost:9001 delivered message 0
+2022/05/16 08:36:13.438519 http://localhost:9002 delivered message 0
+2022/05/16 08:36:13.446159 http://localhost:9003 delivered message 0
+2022/05/16 08:36:13.515456 http://localhost:9004 delivered message 0
+2022/05/16 08:36:13.571110 http://localhost:9005 delivered message 0
+2022/05/16 08:36:13.578744 http://localhost:9006 delivered message 0
+2022/05/16 08:36:13.673331 broadcast started
+2022/05/16 08:36:14.549962 http://localhost:8080 delivered message 0
+2022/05/16 08:36:14.557444 http://localhost:9000 delivered message 0
+2022/05/16 08:36:14.565381 http://localhost:9001 delivered message 0
+2022/05/16 08:36:14.573092 http://localhost:9002 delivered message 0
+2022/05/16 08:36:14.580864 http://localhost:9003 delivered message 0
+2022/05/16 08:36:14.650990 http://localhost:9004 delivered message 0
+2022/05/16 08:36:14.708259 http://localhost:9005 delivered message 0
+2022/05/16 08:36:14.715810 http://localhost:9006 delivered message 0
+2022/05/16 08:36:14.809233 broadcast started
+2022/05/16 08:36:15.672867 http://localhost:8080 delivered message 0
+2022/05/16 08:36:15.680774 http://localhost:9000 delivered message 0
+2022/05/16 08:36:15.688806 http://localhost:9001 delivered message 0
+2022/05/16 08:36:15.696895 http://localhost:9002 delivered message 0
+2022/05/16 08:36:15.704773 http://localhost:9003 delivered message 0
+2022/05/16 08:36:15.773610 http://localhost:9004 delivered message 0
+2022/05/16 08:36:15.830331 http://localhost:9005 delivered message 0
+2022/05/16 08:36:15.838123 http://localhost:9006 delivered message 0
+2022/05/16 08:36:15.930666 broadcast started
+2022/05/16 08:36:16.804558 http://localhost:8080 delivered message 0
+2022/05/16 08:36:16.812407 http://localhost:9000 delivered message 0
+2022/05/16 08:36:16.820480 http://localhost:9001 delivered message 0
+2022/05/16 08:36:16.828385 http://localhost:9002 delivered message 0
+2022/05/16 08:36:16.836040 http://localhost:9003 delivered message 0
+2022/05/16 08:36:16.905079 http://localhost:9004 delivered message 0
+2022/05/16 08:36:16.961960 http://localhost:9005 delivered message 0
+2022/05/16 08:36:16.969595 http://localhost:9006 delivered message 0
+2022/05/16 08:36:17.063419 broadcast started
+2022/05/16 08:36:17.936122 http://localhost:8080 delivered message 0
+2022/05/16 08:36:17.943885 http://localhost:9000 delivered message 0
+2022/05/16 08:36:17.951548 http://localhost:9001 delivered message 0
+2022/05/16 08:36:17.959179 http://localhost:9002 delivered message 0
+2022/05/16 08:36:17.966731 http://localhost:9003 delivered message 0
+2022/05/16 08:36:18.037283 http://localhost:9004 delivered message 0
+2022/05/16 08:36:18.092813 http://localhost:9005 delivered message 0
+2022/05/16 08:36:18.100269 http://localhost:9006 delivered message 0
+2022/05/16 08:36:18.193568 broadcast started
+2022/05/16 08:36:19.063197 http://localhost:8080 delivered message 0
+2022/05/16 08:36:19.071048 http://localhost:9000 delivered message 0
+2022/05/16 08:36:19.079011 http://localhost:9001 delivered message 0
+2022/05/16 08:36:19.087429 http://localhost:9002 delivered message 0
+2022/05/16 08:36:19.095063 http://localhost:9003 delivered message 0
+2022/05/16 08:36:19.164756 http://localhost:9004 delivered message 0
+2022/05/16 08:36:19.221151 http://localhost:9005 delivered message 0
+2022/05/16 08:36:19.228783 http://localhost:9006 delivered message 0
+2022/05/16 08:36:19.322210 broadcast started
+2022/05/16 08:36:20.228015 http://localhost:8080 delivered message 0
+2022/05/16 08:36:20.235847 http://localhost:9000 delivered message 0
+2022/05/16 08:36:20.243610 http://localhost:9001 delivered message 0
+2022/05/16 08:36:20.251196 http://localhost:9002 delivered message 0
+2022/05/16 08:36:20.258930 http://localhost:9003 delivered message 0
+2022/05/16 08:36:20.328950 http://localhost:9004 delivered message 0
+2022/05/16 08:36:20.384791 http://localhost:9005 delivered message 0
+2022/05/16 08:36:20.392391 http://localhost:9006 delivered message 0
+2022/05/16 08:36:20.484087 broadcast started
+2022/05/16 08:36:21.352865 http://localhost:8080 delivered message 0
+2022/05/16 08:36:21.360580 http://localhost:9000 delivered message 0
+2022/05/16 08:36:21.368566 http://localhost:9001 delivered message 0
+2022/05/16 08:36:21.376708 http://localhost:9002 delivered message 0
+2022/05/16 08:36:21.384787 http://localhost:9003 delivered message 0
+2022/05/16 08:36:21.453301 http://localhost:9004 delivered message 0
+2022/05/16 08:36:21.509907 http://localhost:9005 delivered message 0
+2022/05/16 08:36:21.517412 http://localhost:9006 delivered message 0
+2022/05/16 08:36:21.610984 broadcast started
+2022/05/16 08:36:22.487490 http://localhost:8080 delivered message 0
+2022/05/16 08:36:22.495519 http://localhost:9000 delivered message 0
+2022/05/16 08:36:22.503950 http://localhost:9001 delivered message 0
+2022/05/16 08:36:22.511693 http://localhost:9002 delivered message 0
+2022/05/16 08:36:22.519327 http://localhost:9003 delivered message 0
+2022/05/16 08:36:22.586743 http://localhost:9004 delivered message 0
+2022/05/16 08:36:22.643251 http://localhost:9005 delivered message 0
+2022/05/16 08:36:22.650749 http://localhost:9006 delivered message 0
+2022/05/16 08:36:22.744367 broadcast started
+2022/05/16 08:36:23.611414 http://localhost:8080 delivered message 0
+2022/05/16 08:36:23.618740 http://localhost:9000 delivered message 0
+2022/05/16 08:36:23.626045 http://localhost:9001 delivered message 0
+2022/05/16 08:36:23.633445 http://localhost:9002 delivered message 0
+2022/05/16 08:36:23.640751 http://localhost:9003 delivered message 0
+2022/05/16 08:36:23.709153 http://localhost:9004 delivered message 0
+2022/05/16 08:36:23.766695 http://localhost:9005 delivered message 0
+2022/05/16 08:36:23.774310 http://localhost:9006 delivered message 0
+2022/05/16 08:36:23.868105 broadcast started
+2022/05/16 08:36:24.739363 http://localhost:8080 delivered message 0
+2022/05/16 08:36:24.747081 http://localhost:9000 delivered message 0
+2022/05/16 08:36:24.754904 http://localhost:9001 delivered message 0
+2022/05/16 08:36:24.762627 http://localhost:9002 delivered message 0
+2022/05/16 08:36:24.770402 http://localhost:9003 delivered message 0
+2022/05/16 08:36:24.839754 http://localhost:9004 delivered message 0
+2022/05/16 08:36:24.895756 http://localhost:9005 delivered message 0
+2022/05/16 08:36:24.903612 http://localhost:9006 delivered message 0
+2022/05/16 08:36:24.996457 broadcast started
+2022/05/16 08:36:25.868478 http://localhost:8080 delivered message 0
+2022/05/16 08:36:25.876235 http://localhost:9000 delivered message 0
+2022/05/16 08:36:25.883830 http://localhost:9001 delivered message 0
+2022/05/16 08:36:25.891414 http://localhost:9002 delivered message 0
+2022/05/16 08:36:25.899062 http://localhost:9003 delivered message 0
+2022/05/16 08:36:25.968721 http://localhost:9004 delivered message 0
+2022/05/16 08:36:26.024503 http://localhost:9005 delivered message 0
+2022/05/16 08:36:26.032698 http://localhost:9006 delivered message 0
+2022/05/16 08:36:26.128146 broadcast started
+2022/05/16 08:36:26.996183 http://localhost:8080 delivered message 0
+2022/05/16 08:36:27.003879 http://localhost:9000 delivered message 0
+2022/05/16 08:36:27.011663 http://localhost:9001 delivered message 0
+2022/05/16 08:36:27.019389 http://localhost:9002 delivered message 0
+2022/05/16 08:36:27.027177 http://localhost:9003 delivered message 0
+2022/05/16 08:36:27.096503 http://localhost:9004 delivered message 0
+2022/05/16 08:36:27.152520 http://localhost:9005 delivered message 0
+2022/05/16 08:36:27.160180 http://localhost:9006 delivered message 0
+2022/05/16 08:36:27.253698 broadcast started
+2022/05/16 08:36:28.127311 http://localhost:8080 delivered message 0
+2022/05/16 08:36:28.134940 http://localhost:9000 delivered message 0
+2022/05/16 08:36:28.142642 http://localhost:9001 delivered message 0
+2022/05/16 08:36:28.150259 http://localhost:9002 delivered message 0
+2022/05/16 08:36:28.157926 http://localhost:9003 delivered message 0
+2022/05/16 08:36:28.228239 http://localhost:9004 delivered message 0
+2022/05/16 08:36:28.284443 http://localhost:9005 delivered message 0
+2022/05/16 08:36:28.292145 http://localhost:9006 delivered message 0
+2022/05/16 08:36:28.384538 broadcast started
+2022/05/16 08:36:29.261300 http://localhost:8080 delivered message 0
+2022/05/16 08:36:29.269348 http://localhost:9000 delivered message 0
+2022/05/16 08:36:29.277273 http://localhost:9001 delivered message 0
+2022/05/16 08:36:29.284979 http://localhost:9002 delivered message 0
+2022/05/16 08:36:29.292640 http://localhost:9003 delivered message 0
+2022/05/16 08:36:29.362858 http://localhost:9004 delivered message 0
+2022/05/16 08:36:29.417555 http://localhost:9005 delivered message 0
+2022/05/16 08:36:29.425200 http://localhost:9006 delivered message 0
+2022/05/16 08:36:29.518232 broadcast started
+2022/05/16 08:36:30.393302 http://localhost:8080 delivered message 0
+2022/05/16 08:36:30.400921 http://localhost:9000 delivered message 0
+2022/05/16 08:36:30.408572 http://localhost:9001 delivered message 0
+2022/05/16 08:36:30.416254 http://localhost:9002 delivered message 0
+2022/05/16 08:36:30.424294 http://localhost:9003 delivered message 0
+2022/05/16 08:36:30.493134 http://localhost:9004 delivered message 0
+2022/05/16 08:36:30.549562 http://localhost:9005 delivered message 0
+2022/05/16 08:36:30.557262 http://localhost:9006 delivered message 0
+2022/05/16 08:36:30.649944 broadcast started
+2022/05/16 08:36:31.520940 http://localhost:8080 delivered message 0
+2022/05/16 08:36:31.528626 http://localhost:9000 delivered message 0
+2022/05/16 08:36:31.536100 http://localhost:9001 delivered message 0
+2022/05/16 08:36:31.543677 http://localhost:9002 delivered message 0
+2022/05/16 08:36:31.551145 http://localhost:9003 delivered message 0
+2022/05/16 08:36:31.620875 http://localhost:9004 delivered message 0
+2022/05/16 08:36:31.677458 http://localhost:9005 delivered message 0
+2022/05/16 08:36:31.685103 http://localhost:9006 delivered message 0
+2022/05/16 08:36:31.778069 broadcast started
+2022/05/16 08:36:32.649964 http://localhost:8080 delivered message 0
+2022/05/16 08:36:32.657626 http://localhost:9000 delivered message 0
+2022/05/16 08:36:32.665353 http://localhost:9001 delivered message 0
+2022/05/16 08:36:32.673090 http://localhost:9002 delivered message 0
+2022/05/16 08:36:32.680666 http://localhost:9003 delivered message 0
+2022/05/16 08:36:32.750001 http://localhost:9004 delivered message 0
+2022/05/16 08:36:32.805895 http://localhost:9005 delivered message 0
+2022/05/16 08:36:32.813830 http://localhost:9006 delivered message 0
+2022/05/16 08:36:32.910914 broadcast started
+2022/05/16 08:36:33.779599 http://localhost:8080 delivered message 0
+2022/05/16 08:36:33.787384 http://localhost:9000 delivered message 0
+2022/05/16 08:36:33.795105 http://localhost:9001 delivered message 0
+2022/05/16 08:36:33.802771 http://localhost:9002 delivered message 0
+2022/05/16 08:36:33.810438 http://localhost:9003 delivered message 0
+2022/05/16 08:36:33.880064 http://localhost:9004 delivered message 0
+2022/05/16 08:36:33.936814 http://localhost:9005 delivered message 0
+2022/05/16 08:36:33.944823 http://localhost:9006 delivered message 0
+2022/05/16 08:36:34.037007 broadcast started
+2022/05/16 08:36:34.923012 http://localhost:8080 delivered message 0
+2022/05/16 08:36:34.930684 http://localhost:9000 delivered message 0
+2022/05/16 08:36:34.938566 http://localhost:9001 delivered message 0
+2022/05/16 08:36:34.946274 http://localhost:9002 delivered message 0
+2022/05/16 08:36:34.954510 http://localhost:9003 delivered message 0
+2022/05/16 08:36:35.022754 http://localhost:9004 delivered message 0
+2022/05/16 08:36:35.080406 http://localhost:9005 delivered message 0
+2022/05/16 08:36:35.088941 http://localhost:9006 delivered message 0
+2022/05/16 08:36:35.181973 broadcast started
+2022/05/16 08:36:36.073474 http://localhost:8080 delivered message 0
+2022/05/16 08:36:36.081122 http://localhost:9000 delivered message 0
+2022/05/16 08:36:36.088583 http://localhost:9001 delivered message 0
+2022/05/16 08:36:36.096143 http://localhost:9002 delivered message 0
+2022/05/16 08:36:36.103962 http://localhost:9003 delivered message 0
+2022/05/16 08:36:36.171836 http://localhost:9004 delivered message 0
+2022/05/16 08:36:36.227408 http://localhost:9005 delivered message 0
+2022/05/16 08:36:36.235005 http://localhost:9006 delivered message 0
+2022/05/16 08:36:36.328268 broadcast started
+2022/05/16 08:36:37.251174 http://localhost:8080 delivered message 0
+2022/05/16 08:36:37.258892 http://localhost:9000 delivered message 0
+2022/05/16 08:36:37.266474 http://localhost:9001 delivered message 0
+2022/05/16 08:36:37.274256 http://localhost:9002 delivered message 0
+2022/05/16 08:36:37.282095 http://localhost:9003 delivered message 0
+2022/05/16 08:36:37.351543 http://localhost:9004 delivered message 0
+2022/05/16 08:36:37.407443 http://localhost:9005 delivered message 0
+2022/05/16 08:36:37.414931 http://localhost:9006 delivered message 0
+2022/05/16 08:36:37.509172 broadcast started
+2022/05/16 08:36:38.379912 http://localhost:8080 delivered message 0
+2022/05/16 08:36:38.387589 http://localhost:9000 delivered message 0
+2022/05/16 08:36:38.395339 http://localhost:9001 delivered message 0
+2022/05/16 08:36:38.403000 http://localhost:9002 delivered message 0
+2022/05/16 08:36:38.410606 http://localhost:9003 delivered message 0
+2022/05/16 08:36:38.480871 http://localhost:9004 delivered message 0
+2022/05/16 08:36:38.535756 http://localhost:9005 delivered message 0
+2022/05/16 08:36:38.543444 http://localhost:9006 delivered message 0
+2022/05/16 08:36:38.636911 broadcast started
+2022/05/16 08:36:39.508341 http://localhost:8080 delivered message 0
+2022/05/16 08:36:39.516219 http://localhost:9000 delivered message 0
+2022/05/16 08:36:39.524032 http://localhost:9001 delivered message 0
+2022/05/16 08:36:39.531581 http://localhost:9002 delivered message 0
+2022/05/16 08:36:39.539207 http://localhost:9003 delivered message 0
+2022/05/16 08:36:39.608742 http://localhost:9004 delivered message 0
+2022/05/16 08:36:39.664710 http://localhost:9005 delivered message 0
+2022/05/16 08:36:39.672427 http://localhost:9006 delivered message 0
+2022/05/16 08:36:39.764460 broadcast started
+2022/05/16 08:36:40.639326 http://localhost:8080 delivered message 0
+2022/05/16 08:36:40.647408 http://localhost:9000 delivered message 0
+2022/05/16 08:36:40.655132 http://localhost:9001 delivered message 0
+2022/05/16 08:36:40.662816 http://localhost:9002 delivered message 0
+2022/05/16 08:36:40.670466 http://localhost:9003 delivered message 0
+2022/05/16 08:36:40.740942 http://localhost:9004 delivered message 0
+2022/05/16 08:36:40.798805 http://localhost:9005 delivered message 0
+2022/05/16 08:36:40.806620 http://localhost:9006 delivered message 0
+2022/05/16 08:36:40.900214 broadcast started
+2022/05/16 08:36:41.772282 http://localhost:8080 delivered message 0
+2022/05/16 08:36:41.779959 http://localhost:9000 delivered message 0
+2022/05/16 08:36:41.787787 http://localhost:9001 delivered message 0
+2022/05/16 08:36:41.795451 http://localhost:9002 delivered message 0
+2022/05/16 08:36:41.803469 http://localhost:9003 delivered message 0
+2022/05/16 08:36:41.872812 http://localhost:9004 delivered message 0
+2022/05/16 08:36:41.930182 http://localhost:9005 delivered message 0
+2022/05/16 08:36:41.937820 http://localhost:9006 delivered message 0
+2022/05/16 08:36:42.030808 broadcast started
+2022/05/16 08:36:42.902802 http://localhost:8080 delivered message 0
+2022/05/16 08:36:42.910616 http://localhost:9000 delivered message 0
+2022/05/16 08:36:42.918208 http://localhost:9001 delivered message 0
+2022/05/16 08:36:42.926035 http://localhost:9002 delivered message 0
+2022/05/16 08:36:42.933969 http://localhost:9003 delivered message 0
+2022/05/16 08:36:43.003400 http://localhost:9004 delivered message 0
+2022/05/16 08:36:43.060776 http://localhost:9005 delivered message 0
+2022/05/16 08:36:43.068342 http://localhost:9006 delivered message 0
+2022/05/16 08:36:43.160952 broadcast started
+2022/05/16 08:36:44.032582 http://localhost:8080 delivered message 0
+2022/05/16 08:36:44.040243 http://localhost:9000 delivered message 0
+2022/05/16 08:36:44.047973 http://localhost:9001 delivered message 0
+2022/05/16 08:36:44.055819 http://localhost:9002 delivered message 0
+2022/05/16 08:36:44.063615 http://localhost:9003 delivered message 0
+2022/05/16 08:36:44.133028 http://localhost:9004 delivered message 0
+2022/05/16 08:36:44.189480 http://localhost:9005 delivered message 0
+2022/05/16 08:36:44.197043 http://localhost:9006 delivered message 0
+2022/05/16 08:36:44.291550 broadcast started
+2022/05/16 08:36:45.169034 http://localhost:8080 delivered message 0
+2022/05/16 08:36:45.177290 http://localhost:9000 delivered message 0
+2022/05/16 08:36:45.185008 http://localhost:9001 delivered message 0
+2022/05/16 08:36:45.192716 http://localhost:9002 delivered message 0
+2022/05/16 08:36:45.200324 http://localhost:9003 delivered message 0
+2022/05/16 08:36:45.269778 http://localhost:9004 delivered message 0
+2022/05/16 08:36:45.326424 http://localhost:9005 delivered message 0
+2022/05/16 08:36:45.334021 http://localhost:9006 delivered message 0
+2022/05/16 08:36:45.427994 broadcast started
+2022/05/16 08:36:46.301895 http://localhost:8080 delivered message 0
+2022/05/16 08:36:46.309377 http://localhost:9000 delivered message 0
+2022/05/16 08:36:46.316807 http://localhost:9001 delivered message 0
+2022/05/16 08:36:46.324234 http://localhost:9002 delivered message 0
+2022/05/16 08:36:46.331807 http://localhost:9003 delivered message 0
+2022/05/16 08:36:46.399321 http://localhost:9004 delivered message 0
+2022/05/16 08:36:46.451833 http://localhost:9005 delivered message 0
+2022/05/16 08:36:46.459021 http://localhost:9006 delivered message 0
+2022/05/16 08:36:46.546969 broadcast started
+2022/05/16 08:36:47.418847 http://localhost:8080 delivered message 0
+2022/05/16 08:36:47.426579 http://localhost:9000 delivered message 0
+2022/05/16 08:36:47.434188 http://localhost:9001 delivered message 0
+2022/05/16 08:36:47.441952 http://localhost:9002 delivered message 0
+2022/05/16 08:36:47.449952 http://localhost:9003 delivered message 0
+2022/05/16 08:36:47.519223 http://localhost:9004 delivered message 0
+2022/05/16 08:36:47.575661 http://localhost:9005 delivered message 0
+2022/05/16 08:36:47.583407 http://localhost:9006 delivered message 0
+2022/05/16 08:36:47.677452 broadcast started
+2022/05/16 08:36:48.562864 http://localhost:8080 delivered message 0
+2022/05/16 08:36:48.570638 http://localhost:9000 delivered message 0
+2022/05/16 08:36:48.578356 http://localhost:9001 delivered message 0
+2022/05/16 08:36:48.586152 http://localhost:9002 delivered message 0
+2022/05/16 08:36:48.593890 http://localhost:9003 delivered message 0
+2022/05/16 08:36:48.663044 http://localhost:9004 delivered message 0
+2022/05/16 08:36:48.719953 http://localhost:9005 delivered message 0
+2022/05/16 08:36:48.727614 http://localhost:9006 delivered message 0
+2022/05/16 08:36:48.820625 broadcast started
+2022/05/16 08:36:49.691241 http://localhost:8080 delivered message 0
+2022/05/16 08:36:49.698985 http://localhost:9000 delivered message 0
+2022/05/16 08:36:49.706918 http://localhost:9001 delivered message 0
+2022/05/16 08:36:49.714625 http://localhost:9002 delivered message 0
+2022/05/16 08:36:49.722404 http://localhost:9003 delivered message 0
+2022/05/16 08:36:49.791751 http://localhost:9004 delivered message 0
+2022/05/16 08:36:49.847746 http://localhost:9005 delivered message 0
+2022/05/16 08:36:49.856078 http://localhost:9006 delivered message 0
+2022/05/16 08:36:49.948456 broadcast started
+2022/05/16 08:36:50.822707 http://localhost:8080 delivered message 0
+2022/05/16 08:36:50.830554 http://localhost:9000 delivered message 0
+2022/05/16 08:36:50.838834 http://localhost:9001 delivered message 0
+2022/05/16 08:36:50.846964 http://localhost:9002 delivered message 0
+2022/05/16 08:36:50.854860 http://localhost:9003 delivered message 0
+2022/05/16 08:36:50.923641 http://localhost:9004 delivered message 0
+2022/05/16 08:36:50.980767 http://localhost:9005 delivered message 0
+2022/05/16 08:36:50.988518 http://localhost:9006 delivered message 0
+2022/05/16 08:36:51.081736 broadcast started
+2022/05/16 08:36:51.941928 http://localhost:8080 delivered message 0
+2022/05/16 08:36:51.949676 http://localhost:9000 delivered message 0
+2022/05/16 08:36:51.957418 http://localhost:9001 delivered message 0
+2022/05/16 08:36:51.965237 http://localhost:9002 delivered message 0
+2022/05/16 08:36:51.973118 http://localhost:9003 delivered message 0
+2022/05/16 08:36:52.042364 http://localhost:9004 delivered message 0
+2022/05/16 08:36:52.098870 http://localhost:9005 delivered message 0
+2022/05/16 08:36:52.106583 http://localhost:9006 delivered message 0
+2022/05/16 08:36:52.200098 broadcast started
+2022/05/16 08:36:53.072150 http://localhost:8080 delivered message 0
+2022/05/16 08:36:53.080331 http://localhost:9000 delivered message 0
+2022/05/16 08:36:53.089066 http://localhost:9001 delivered message 0
+2022/05/16 08:36:53.097308 http://localhost:9002 delivered message 0
+2022/05/16 08:36:53.104951 http://localhost:9003 delivered message 0
+2022/05/16 08:36:53.174026 http://localhost:9004 delivered message 0
+2022/05/16 08:36:53.230557 http://localhost:9005 delivered message 0
+2022/05/16 08:36:53.238295 http://localhost:9006 delivered message 0
+2022/05/16 08:36:53.331929 broadcast started
+2022/05/16 08:36:54.204390 http://localhost:8080 delivered message 0
+2022/05/16 08:36:54.212030 http://localhost:9000 delivered message 0
+2022/05/16 08:36:54.219730 http://localhost:9001 delivered message 0
+2022/05/16 08:36:54.227504 http://localhost:9002 delivered message 0
+2022/05/16 08:36:54.235078 http://localhost:9003 delivered message 0
+2022/05/16 08:36:54.304879 http://localhost:9004 delivered message 0
+2022/05/16 08:36:54.361114 http://localhost:9005 delivered message 0
+2022/05/16 08:36:54.368819 http://localhost:9006 delivered message 0
+2022/05/16 08:36:54.461042 broadcast started
+2022/05/16 08:36:55.335308 http://localhost:8080 delivered message 0
+2022/05/16 08:36:55.343366 http://localhost:9000 delivered message 0
+2022/05/16 08:36:55.351132 http://localhost:9001 delivered message 0
+2022/05/16 08:36:55.358704 http://localhost:9002 delivered message 0
+2022/05/16 08:36:55.366232 http://localhost:9003 delivered message 0
+2022/05/16 08:36:55.435681 http://localhost:9004 delivered message 0
+2022/05/16 08:36:55.490970 http://localhost:9005 delivered message 0
+2022/05/16 08:36:55.498742 http://localhost:9006 delivered message 0
+2022/05/16 08:36:55.593886 broadcast started
+2022/05/16 08:36:56.465656 http://localhost:8080 delivered message 0
+2022/05/16 08:36:56.473302 http://localhost:9000 delivered message 0
+2022/05/16 08:36:56.481199 http://localhost:9001 delivered message 0
+2022/05/16 08:36:56.489200 http://localhost:9002 delivered message 0
+2022/05/16 08:36:56.496874 http://localhost:9003 delivered message 0
+2022/05/16 08:36:56.565950 http://localhost:9004 delivered message 0
+2022/05/16 08:36:56.622678 http://localhost:9005 delivered message 0
+2022/05/16 08:36:56.630237 http://localhost:9006 delivered message 0
+2022/05/16 08:36:56.720426 broadcast started
+2022/05/16 08:36:57.587028 http://localhost:8080 delivered message 0
+2022/05/16 08:36:57.594590 http://localhost:9000 delivered message 0
+2022/05/16 08:36:57.602219 http://localhost:9001 delivered message 0
+2022/05/16 08:36:57.609896 http://localhost:9002 delivered message 0
+2022/05/16 08:36:57.617623 http://localhost:9003 delivered message 0
+2022/05/16 08:36:57.687287 http://localhost:9004 delivered message 0
+2022/05/16 08:36:57.742877 http://localhost:9005 delivered message 0
+2022/05/16 08:36:57.750386 http://localhost:9006 delivered message 0
+2022/05/16 08:36:57.844062 broadcast started
+2022/05/16 08:36:58.717796 http://localhost:8080 delivered message 0
+2022/05/16 08:36:58.725680 http://localhost:9000 delivered message 0
+2022/05/16 08:36:58.733184 http://localhost:9001 delivered message 0
+2022/05/16 08:36:58.740946 http://localhost:9002 delivered message 0
+2022/05/16 08:36:58.748692 http://localhost:9003 delivered message 0
+2022/05/16 08:36:58.818166 http://localhost:9004 delivered message 0
+2022/05/16 08:36:58.873810 http://localhost:9005 delivered message 0
+2022/05/16 08:36:58.881425 http://localhost:9006 delivered message 0
+2022/05/16 08:36:58.971529 broadcast started
+2022/05/16 08:36:59.846116 http://localhost:8080 delivered message 0
+2022/05/16 08:36:59.853951 http://localhost:9000 delivered message 0
+2022/05/16 08:36:59.861800 http://localhost:9001 delivered message 0
+2022/05/16 08:36:59.869782 http://localhost:9002 delivered message 0
+2022/05/16 08:36:59.877910 http://localhost:9003 delivered message 0
+2022/05/16 08:36:59.946391 http://localhost:9004 delivered message 0
+2022/05/16 08:37:00.003222 http://localhost:9005 delivered message 0
+2022/05/16 08:37:00.010864 http://localhost:9006 delivered message 0
+2022/05/16 08:37:00.103593 broadcast started
+2022/05/16 08:37:00.973105 http://localhost:8080 delivered message 0
+2022/05/16 08:37:00.980738 http://localhost:9000 delivered message 0
+2022/05/16 08:37:00.988789 http://localhost:9001 delivered message 0
+2022/05/16 08:37:00.996784 http://localhost:9002 delivered message 0
+2022/05/16 08:37:01.004440 http://localhost:9003 delivered message 0
+2022/05/16 08:37:01.073464 http://localhost:9004 delivered message 0
+2022/05/16 08:37:01.130283 http://localhost:9005 delivered message 0
+2022/05/16 08:37:01.138194 http://localhost:9006 delivered message 0
+2022/05/16 08:37:01.231831 broadcast started
+2022/05/16 08:37:02.105223 http://localhost:8080 delivered message 0
+2022/05/16 08:37:02.113321 http://localhost:9000 delivered message 0
+2022/05/16 08:37:02.121418 http://localhost:9001 delivered message 0
+2022/05/16 08:37:02.129119 http://localhost:9002 delivered message 0
+2022/05/16 08:37:02.136807 http://localhost:9003 delivered message 0
+2022/05/16 08:37:02.206350 http://localhost:9004 delivered message 0
+2022/05/16 08:37:02.262813 http://localhost:9005 delivered message 0
+2022/05/16 08:37:02.270471 http://localhost:9006 delivered message 0
+2022/05/16 08:37:02.365069 broadcast started
+2022/05/16 08:37:03.235841 http://localhost:8080 delivered message 0
+2022/05/16 08:37:03.243868 http://localhost:9000 delivered message 0
+2022/05/16 08:37:03.252064 http://localhost:9001 delivered message 0
+2022/05/16 08:37:03.259748 http://localhost:9002 delivered message 0
+2022/05/16 08:37:03.267334 http://localhost:9003 delivered message 0
+2022/05/16 08:37:03.336708 http://localhost:9004 delivered message 0
+2022/05/16 08:37:03.393077 http://localhost:9005 delivered message 0
+2022/05/16 08:37:03.400738 http://localhost:9006 delivered message 0
+2022/05/16 08:37:03.494863 broadcast started
+2022/05/16 08:37:04.365486 http://localhost:8080 delivered message 0
+2022/05/16 08:37:04.373412 http://localhost:9000 delivered message 0
+2022/05/16 08:37:04.381026 http://localhost:9001 delivered message 0
+2022/05/16 08:37:04.388828 http://localhost:9002 delivered message 0
+2022/05/16 08:37:04.396538 http://localhost:9003 delivered message 0
+2022/05/16 08:37:04.466536 http://localhost:9004 delivered message 0
+2022/05/16 08:37:04.523056 http://localhost:9005 delivered message 0
+2022/05/16 08:37:04.531595 http://localhost:9006 delivered message 0
+2022/05/16 08:37:04.630111 broadcast started
+2022/05/16 08:37:05.505102 http://localhost:8080 delivered message 0
+2022/05/16 08:37:05.512845 http://localhost:9000 delivered message 0
+2022/05/16 08:37:05.520691 http://localhost:9001 delivered message 0
+2022/05/16 08:37:05.528746 http://localhost:9002 delivered message 0
+2022/05/16 08:37:05.536888 http://localhost:9003 delivered message 0
+2022/05/16 08:37:05.606058 http://localhost:9004 delivered message 0
+2022/05/16 08:37:05.662898 http://localhost:9005 delivered message 0
+2022/05/16 08:37:05.670622 http://localhost:9006 delivered message 0
+2022/05/16 08:37:05.763206 broadcast started
+2022/05/16 08:37:06.633735 http://localhost:8080 delivered message 0
+2022/05/16 08:37:06.641549 http://localhost:9000 delivered message 0
+2022/05/16 08:37:06.649662 http://localhost:9001 delivered message 0
+2022/05/16 08:37:06.657598 http://localhost:9002 delivered message 0
+2022/05/16 08:37:06.665313 http://localhost:9003 delivered message 0
+2022/05/16 08:37:06.734059 http://localhost:9004 delivered message 0
+2022/05/16 08:37:06.790621 http://localhost:9005 delivered message 0
+2022/05/16 08:37:06.798146 http://localhost:9006 delivered message 0
+2022/05/16 08:37:06.910186 broadcast started
+2022/05/16 08:37:07.776753 http://localhost:8080 delivered message 0
+2022/05/16 08:37:07.784853 http://localhost:9000 delivered message 0
+2022/05/16 08:37:07.792586 http://localhost:9001 delivered message 0
+2022/05/16 08:37:07.800208 http://localhost:9002 delivered message 0
+2022/05/16 08:37:07.807894 http://localhost:9003 delivered message 0
+2022/05/16 08:37:07.877364 http://localhost:9004 delivered message 0
+2022/05/16 08:37:07.932776 http://localhost:9005 delivered message 0
+2022/05/16 08:37:07.940621 http://localhost:9006 delivered message 0
+2022/05/16 08:37:08.032249 broadcast started
+2022/05/16 08:37:08.905170 http://localhost:8080 delivered message 0
+2022/05/16 08:37:08.912909 http://localhost:9000 delivered message 0
+2022/05/16 08:37:08.920698 http://localhost:9001 delivered message 0
+2022/05/16 08:37:08.928614 http://localhost:9002 delivered message 0
+2022/05/16 08:37:08.936694 http://localhost:9003 delivered message 0
+2022/05/16 08:37:09.005898 http://localhost:9004 delivered message 0
+2022/05/16 08:37:09.059691 http://localhost:9005 delivered message 0
+2022/05/16 08:37:09.067056 http://localhost:9006 delivered message 0
+2022/05/16 08:37:09.161192 broadcast started
+2022/05/16 08:37:10.030740 http://localhost:8080 delivered message 0
+2022/05/16 08:37:10.038724 http://localhost:9000 delivered message 0
+2022/05/16 08:37:10.046533 http://localhost:9001 delivered message 0
+2022/05/16 08:37:10.054578 http://localhost:9002 delivered message 0
+2022/05/16 08:37:10.062634 http://localhost:9003 delivered message 0
+2022/05/16 08:37:10.131522 http://localhost:9004 delivered message 0
+2022/05/16 08:37:10.187875 http://localhost:9005 delivered message 0
+2022/05/16 08:37:10.195557 http://localhost:9006 delivered message 0
+2022/05/16 08:37:10.289009 broadcast started
+2022/05/16 08:37:11.161111 http://localhost:8080 delivered message 0
+2022/05/16 08:37:11.168717 http://localhost:9000 delivered message 0
+2022/05/16 08:37:11.176457 http://localhost:9001 delivered message 0
+2022/05/16 08:37:11.184178 http://localhost:9002 delivered message 0
+2022/05/16 08:37:11.192335 http://localhost:9003 delivered message 0
+2022/05/16 08:37:11.261658 http://localhost:9004 delivered message 0
+2022/05/16 08:37:11.318511 http://localhost:9005 delivered message 0
+2022/05/16 08:37:11.326111 http://localhost:9006 delivered message 0
+2022/05/16 08:37:11.419685 broadcast started
+2022/05/16 08:37:12.290464 http://localhost:8080 delivered message 0
+2022/05/16 08:37:12.298286 http://localhost:9000 delivered message 0
+2022/05/16 08:37:12.306078 http://localhost:9001 delivered message 0
+2022/05/16 08:37:12.313742 http://localhost:9002 delivered message 0
+2022/05/16 08:37:12.321658 http://localhost:9003 delivered message 0
+2022/05/16 08:37:12.390609 http://localhost:9004 delivered message 0
+2022/05/16 08:37:12.447734 http://localhost:9005 delivered message 0
+2022/05/16 08:37:12.455483 http://localhost:9006 delivered message 0
+2022/05/16 08:37:12.548349 broadcast started
+2022/05/16 08:37:13.423103 http://localhost:8080 delivered message 0
+2022/05/16 08:37:13.430808 http://localhost:9000 delivered message 0
+2022/05/16 08:37:13.438470 http://localhost:9001 delivered message 0
+2022/05/16 08:37:13.446130 http://localhost:9002 delivered message 0
+2022/05/16 08:37:13.453835 http://localhost:9003 delivered message 0
+2022/05/16 08:37:13.523666 http://localhost:9004 delivered message 0
+2022/05/16 08:37:13.579903 http://localhost:9005 delivered message 0
+2022/05/16 08:37:13.587316 http://localhost:9006 delivered message 0
+2022/05/16 08:37:13.679501 broadcast started
+2022/05/16 08:37:14.554813 http://localhost:8080 delivered message 0
+2022/05/16 08:37:14.562499 http://localhost:9000 delivered message 0
+2022/05/16 08:37:14.570273 http://localhost:9001 delivered message 0
+2022/05/16 08:37:14.578167 http://localhost:9002 delivered message 0
+2022/05/16 08:37:14.585751 http://localhost:9003 delivered message 0
+2022/05/16 08:37:14.655345 http://localhost:9004 delivered message 0
+2022/05/16 08:37:14.711596 http://localhost:9005 delivered message 0
+2022/05/16 08:37:14.719592 http://localhost:9006 delivered message 0
+2022/05/16 08:37:14.811570 broadcast started
+2022/05/16 08:37:15.684028 http://localhost:8080 delivered message 0
+2022/05/16 08:37:15.691905 http://localhost:9000 delivered message 0
+2022/05/16 08:37:15.699937 http://localhost:9001 delivered message 0
+2022/05/16 08:37:15.707814 http://localhost:9002 delivered message 0
+2022/05/16 08:37:15.715552 http://localhost:9003 delivered message 0
+2022/05/16 08:37:15.785503 http://localhost:9004 delivered message 0
+2022/05/16 08:37:15.841560 http://localhost:9005 delivered message 0
+2022/05/16 08:37:15.849118 http://localhost:9006 delivered message 0
+2022/05/16 08:37:15.943383 broadcast started
+2022/05/16 08:37:16.816158 http://localhost:8080 delivered message 0
+2022/05/16 08:37:16.823803 http://localhost:9000 delivered message 0
+2022/05/16 08:37:16.831555 http://localhost:9001 delivered message 0
+2022/05/16 08:37:16.839394 http://localhost:9002 delivered message 0
+2022/05/16 08:37:16.847104 http://localhost:9003 delivered message 0
+2022/05/16 08:37:16.916478 http://localhost:9004 delivered message 0
+2022/05/16 08:37:16.971911 http://localhost:9005 delivered message 0
+2022/05/16 08:37:16.979608 http://localhost:9006 delivered message 0
+2022/05/16 08:37:17.073465 broadcast started
+2022/05/16 08:37:17.937254 http://localhost:8080 delivered message 0
+2022/05/16 08:37:17.945267 http://localhost:9000 delivered message 0
+2022/05/16 08:37:17.952971 http://localhost:9001 delivered message 0
+2022/05/16 08:37:17.960589 http://localhost:9002 delivered message 0
+2022/05/16 08:37:17.968227 http://localhost:9003 delivered message 0
+2022/05/16 08:37:18.038649 http://localhost:9004 delivered message 0
+2022/05/16 08:37:18.093506 http://localhost:9005 delivered message 0
+2022/05/16 08:37:18.101013 http://localhost:9006 delivered message 0
+2022/05/16 08:37:18.193746 broadcast started
+2022/05/16 08:37:19.067715 http://localhost:8080 delivered message 0
+2022/05/16 08:37:19.075451 http://localhost:9000 delivered message 0
+2022/05/16 08:37:19.083181 http://localhost:9001 delivered message 0
+2022/05/16 08:37:19.090824 http://localhost:9002 delivered message 0
+2022/05/16 08:37:19.098609 http://localhost:9003 delivered message 0
+2022/05/16 08:37:19.168757 http://localhost:9004 delivered message 0
+2022/05/16 08:37:19.224590 http://localhost:9005 delivered message 0
+2022/05/16 08:37:19.232632 http://localhost:9006 delivered message 0
+2022/05/16 08:37:19.327027 broadcast started
+2022/05/16 08:37:20.199051 http://localhost:8080 delivered message 0
+2022/05/16 08:37:20.207007 http://localhost:9000 delivered message 0
+2022/05/16 08:37:20.214651 http://localhost:9001 delivered message 0
+2022/05/16 08:37:20.222407 http://localhost:9002 delivered message 0
+2022/05/16 08:37:20.230210 http://localhost:9003 delivered message 0
+2022/05/16 08:37:20.299484 http://localhost:9004 delivered message 0
+2022/05/16 08:37:20.356285 http://localhost:9005 delivered message 0
+2022/05/16 08:37:20.363811 http://localhost:9006 delivered message 0
+2022/05/16 08:37:20.458067 broadcast started
+2022/05/16 08:37:21.330404 http://localhost:8080 delivered message 0
+2022/05/16 08:37:21.338224 http://localhost:9000 delivered message 0
+2022/05/16 08:37:21.345972 http://localhost:9001 delivered message 0
+2022/05/16 08:37:21.353757 http://localhost:9002 delivered message 0
+2022/05/16 08:37:21.361454 http://localhost:9003 delivered message 0
+2022/05/16 08:37:21.430765 http://localhost:9004 delivered message 0
+2022/05/16 08:37:21.488002 http://localhost:9005 delivered message 0
+2022/05/16 08:37:21.495832 http://localhost:9006 delivered message 0
+2022/05/16 08:37:21.588335 broadcast started
+2022/05/16 08:37:22.448926 http://localhost:8080 delivered message 0
+2022/05/16 08:37:22.457011 http://localhost:9000 delivered message 0
+2022/05/16 08:37:22.464931 http://localhost:9001 delivered message 0
+2022/05/16 08:37:22.472889 http://localhost:9002 delivered message 0
+2022/05/16 08:37:22.480600 http://localhost:9003 delivered message 0
+2022/05/16 08:37:22.550030 http://localhost:9004 delivered message 0
+2022/05/16 08:37:22.606192 http://localhost:9005 delivered message 0
+2022/05/16 08:37:22.613670 http://localhost:9006 delivered message 0
+2022/05/16 08:37:22.706617 broadcast started
+2022/05/16 08:37:23.576391 http://localhost:8080 delivered message 0
+2022/05/16 08:37:23.583991 http://localhost:9000 delivered message 0
+2022/05/16 08:37:23.591782 http://localhost:9001 delivered message 0
+2022/05/16 08:37:23.599578 http://localhost:9002 delivered message 0
+2022/05/16 08:37:23.607503 http://localhost:9003 delivered message 0
+2022/05/16 08:37:23.676981 http://localhost:9004 delivered message 0
+2022/05/16 08:37:23.733922 http://localhost:9005 delivered message 0
+2022/05/16 08:37:23.741614 http://localhost:9006 delivered message 0
+2022/05/16 08:37:23.835067 broadcast started
+2022/05/16 08:37:24.708321 http://localhost:8080 delivered message 0
+2022/05/16 08:37:24.716117 http://localhost:9000 delivered message 0
+2022/05/16 08:37:24.724048 http://localhost:9001 delivered message 0
+2022/05/16 08:37:24.731632 http://localhost:9002 delivered message 0
+2022/05/16 08:37:24.739498 http://localhost:9003 delivered message 0
+2022/05/16 08:37:24.808978 http://localhost:9004 delivered message 0
+2022/05/16 08:37:24.865747 http://localhost:9005 delivered message 0
+2022/05/16 08:37:24.873467 http://localhost:9006 delivered message 0
+2022/05/16 08:37:24.965006 broadcast started
+2022/05/16 08:37:25.839263 http://localhost:8080 delivered message 0
+2022/05/16 08:37:25.847234 http://localhost:9000 delivered message 0
+2022/05/16 08:37:25.855085 http://localhost:9001 delivered message 0
+2022/05/16 08:37:25.862772 http://localhost:9002 delivered message 0
+2022/05/16 08:37:25.870525 http://localhost:9003 delivered message 0
+2022/05/16 08:37:25.939748 http://localhost:9004 delivered message 0
+2022/05/16 08:37:25.996420 http://localhost:9005 delivered message 0
+2022/05/16 08:37:26.004148 http://localhost:9006 delivered message 0
+2022/05/16 08:37:26.096664 broadcast started
+2022/05/16 08:37:26.968630 http://localhost:8080 delivered message 0
+2022/05/16 08:37:26.976450 http://localhost:9000 delivered message 0
+2022/05/16 08:37:26.984135 http://localhost:9001 delivered message 0
+2022/05/16 08:37:26.991811 http://localhost:9002 delivered message 0
+2022/05/16 08:37:26.999608 http://localhost:9003 delivered message 0
+2022/05/16 08:37:27.069153 http://localhost:9004 delivered message 0
+2022/05/16 08:37:27.125486 http://localhost:9005 delivered message 0
+2022/05/16 08:37:27.133027 http://localhost:9006 delivered message 0
+2022/05/16 08:37:27.223164 broadcast started
+2022/05/16 08:37:28.099628 http://localhost:8080 delivered message 0
+2022/05/16 08:37:28.107877 http://localhost:9000 delivered message 0
+2022/05/16 08:37:28.115800 http://localhost:9001 delivered message 0
+2022/05/16 08:37:28.123839 http://localhost:9002 delivered message 0
+2022/05/16 08:37:28.131940 http://localhost:9003 delivered message 0
+2022/05/16 08:37:28.200030 http://localhost:9004 delivered message 0
+2022/05/16 08:37:28.254521 http://localhost:9005 delivered message 0
+2022/05/16 08:37:28.262000 http://localhost:9006 delivered message 0
+2022/05/16 08:37:28.353809 broadcast started
+2022/05/16 08:37:29.227039 http://localhost:8080 delivered message 0
+2022/05/16 08:37:29.234683 http://localhost:9000 delivered message 0
+2022/05/16 08:37:29.242379 http://localhost:9001 delivered message 0
+2022/05/16 08:37:29.250010 http://localhost:9002 delivered message 0
+2022/05/16 08:37:29.257613 http://localhost:9003 delivered message 0
+2022/05/16 08:37:29.326911 http://localhost:9004 delivered message 0
+2022/05/16 08:37:29.383665 http://localhost:9005 delivered message 0
+2022/05/16 08:37:29.391276 http://localhost:9006 delivered message 0
+2022/05/16 08:37:29.484612 broadcast started
+2022/05/16 08:37:30.356958 http://localhost:8080 delivered message 0
+2022/05/16 08:37:30.364624 http://localhost:9000 delivered message 0
+2022/05/16 08:37:30.372367 http://localhost:9001 delivered message 0
+2022/05/16 08:37:30.379954 http://localhost:9002 delivered message 0
+2022/05/16 08:37:30.387820 http://localhost:9003 delivered message 0
+2022/05/16 08:37:30.457131 http://localhost:9004 delivered message 0
+2022/05/16 08:37:30.514318 http://localhost:9005 delivered message 0
+2022/05/16 08:37:30.522092 http://localhost:9006 delivered message 0
+2022/05/16 08:37:30.614697 broadcast started
+2022/05/16 08:37:31.488490 http://localhost:8080 delivered message 0
+2022/05/16 08:37:31.496152 http://localhost:9000 delivered message 0
+2022/05/16 08:37:31.504032 http://localhost:9001 delivered message 0
+2022/05/16 08:37:31.512120 http://localhost:9002 delivered message 0
+2022/05/16 08:37:31.519993 http://localhost:9003 delivered message 0
+2022/05/16 08:37:31.588807 http://localhost:9004 delivered message 0
+2022/05/16 08:37:31.644955 http://localhost:9005 delivered message 0
+2022/05/16 08:37:31.652719 http://localhost:9006 delivered message 0
+2022/05/16 08:37:31.744458 broadcast started
+2022/05/16 08:37:32.614961 http://localhost:8080 delivered message 0
+2022/05/16 08:37:32.622781 http://localhost:9000 delivered message 0
+2022/05/16 08:37:32.630608 http://localhost:9001 delivered message 0
+2022/05/16 08:37:32.638820 http://localhost:9002 delivered message 0
+2022/05/16 08:37:32.646631 http://localhost:9003 delivered message 0
+2022/05/16 08:37:32.714953 http://localhost:9004 delivered message 0
+2022/05/16 08:37:32.770665 http://localhost:9005 delivered message 0
+2022/05/16 08:37:32.778216 http://localhost:9006 delivered message 0
+2022/05/16 08:37:32.870436 broadcast started
+2022/05/16 08:37:33.743812 http://localhost:8080 delivered message 0
+2022/05/16 08:37:33.751936 http://localhost:9000 delivered message 0
+2022/05/16 08:37:33.759403 http://localhost:9001 delivered message 0
+2022/05/16 08:37:33.767003 http://localhost:9002 delivered message 0
+2022/05/16 08:37:33.774799 http://localhost:9003 delivered message 0
+2022/05/16 08:37:33.844968 http://localhost:9004 delivered message 0
+2022/05/16 08:37:33.899936 http://localhost:9005 delivered message 0
+2022/05/16 08:37:33.907667 http://localhost:9006 delivered message 0
+2022/05/16 08:37:34.001255 broadcast started
+2022/05/16 08:37:34.874100 http://localhost:8080 delivered message 0
+2022/05/16 08:37:34.881765 http://localhost:9000 delivered message 0
+2022/05/16 08:37:34.889597 http://localhost:9001 delivered message 0
+2022/05/16 08:37:34.897285 http://localhost:9002 delivered message 0
+2022/05/16 08:37:34.904932 http://localhost:9003 delivered message 0
+2022/05/16 08:37:34.974498 http://localhost:9004 delivered message 0
+2022/05/16 08:37:35.031068 http://localhost:9005 delivered message 0
+2022/05/16 08:37:35.038821 http://localhost:9006 delivered message 0
+2022/05/16 08:37:35.130148 broadcast started
+2022/05/16 08:37:36.005564 http://localhost:8080 delivered message 0
+2022/05/16 08:37:36.013375 http://localhost:9000 delivered message 0
+2022/05/16 08:37:36.020990 http://localhost:9001 delivered message 0
+2022/05/16 08:37:36.028563 http://localhost:9002 delivered message 0
+2022/05/16 08:37:36.036259 http://localhost:9003 delivered message 0
+2022/05/16 08:37:36.105443 http://localhost:9004 delivered message 0
+2022/05/16 08:37:36.161880 http://localhost:9005 delivered message 0
+2022/05/16 08:37:36.169322 http://localhost:9006 delivered message 0
+2022/05/16 08:37:36.262423 broadcast started
+2022/05/16 08:37:37.182273 http://localhost:8080 delivered message 0
+2022/05/16 08:37:37.190315 http://localhost:9000 delivered message 0
+2022/05/16 08:37:37.198358 http://localhost:9001 delivered message 0
+2022/05/16 08:37:37.206249 http://localhost:9002 delivered message 0
+2022/05/16 08:37:37.214035 http://localhost:9003 delivered message 0
+2022/05/16 08:37:37.282228 http://localhost:9004 delivered message 0
+2022/05/16 08:37:37.338826 http://localhost:9005 delivered message 0
+2022/05/16 08:37:37.346632 http://localhost:9006 delivered message 0
+2022/05/16 08:37:37.441088 broadcast started
+2022/05/16 08:37:38.313481 http://localhost:8080 delivered message 0
+2022/05/16 08:37:38.321573 http://localhost:9000 delivered message 0
+2022/05/16 08:37:38.329597 http://localhost:9001 delivered message 0
+2022/05/16 08:37:38.337370 http://localhost:9002 delivered message 0
+2022/05/16 08:37:38.344850 http://localhost:9003 delivered message 0
+2022/05/16 08:37:38.411837 http://localhost:9004 delivered message 0
+2022/05/16 08:37:38.488721 http://localhost:9005 delivered message 0
+2022/05/16 08:37:38.496158 http://localhost:9006 delivered message 0
+2022/05/16 08:37:38.590443 broadcast started
+2022/05/16 08:37:39.456123 http://localhost:8080 delivered message 0
+2022/05/16 08:37:39.463847 http://localhost:9000 delivered message 0
+2022/05/16 08:37:39.471502 http://localhost:9001 delivered message 0
+2022/05/16 08:37:39.479214 http://localhost:9002 delivered message 0
+2022/05/16 08:37:39.486897 http://localhost:9003 delivered message 0
+2022/05/16 08:37:39.556466 http://localhost:9004 delivered message 0
+2022/05/16 08:37:39.612723 http://localhost:9005 delivered message 0
+2022/05/16 08:37:39.620369 http://localhost:9006 delivered message 0
+2022/05/16 08:37:39.714876 broadcast started
+2022/05/16 08:37:40.582712 http://localhost:8080 delivered message 0
+2022/05/16 08:37:40.590382 http://localhost:9000 delivered message 0
+2022/05/16 08:37:40.598160 http://localhost:9001 delivered message 0
+2022/05/16 08:37:40.606069 http://localhost:9002 delivered message 0
+2022/05/16 08:37:40.613705 http://localhost:9003 delivered message 0
+2022/05/16 08:37:40.683201 http://localhost:9004 delivered message 0
+2022/05/16 08:37:40.737895 http://localhost:9005 delivered message 0
+2022/05/16 08:37:40.745463 http://localhost:9006 delivered message 0
+2022/05/16 08:37:40.839376 broadcast started
+2022/05/16 08:37:41.711361 http://localhost:8080 delivered message 0
+2022/05/16 08:37:41.719538 http://localhost:9000 delivered message 0
+2022/05/16 08:37:41.727130 http://localhost:9001 delivered message 0
+2022/05/16 08:37:41.734794 http://localhost:9002 delivered message 0
+2022/05/16 08:37:41.742361 http://localhost:9003 delivered message 0
+2022/05/16 08:37:41.812018 http://localhost:9004 delivered message 0
+2022/05/16 08:37:41.867875 http://localhost:9005 delivered message 0
+2022/05/16 08:37:41.875566 http://localhost:9006 delivered message 0
+2022/05/16 08:37:41.972103 broadcast started
+2022/05/16 08:37:42.848543 http://localhost:8080 delivered message 0
+2022/05/16 08:37:42.856194 http://localhost:9000 delivered message 0
+2022/05/16 08:37:42.863881 http://localhost:9001 delivered message 0
+2022/05/16 08:37:42.871634 http://localhost:9002 delivered message 0
+2022/05/16 08:37:42.879642 http://localhost:9003 delivered message 0
+2022/05/16 08:37:42.948715 http://localhost:9004 delivered message 0
+2022/05/16 08:37:43.005993 http://localhost:9005 delivered message 0
+2022/05/16 08:37:43.013618 http://localhost:9006 delivered message 0
+2022/05/16 08:37:43.106652 broadcast started
+2022/05/16 08:37:43.976960 http://localhost:8080 delivered message 0
+2022/05/16 08:37:43.984676 http://localhost:9000 delivered message 0
+2022/05/16 08:37:43.992419 http://localhost:9001 delivered message 0
+2022/05/16 08:37:44.000053 http://localhost:9002 delivered message 0
+2022/05/16 08:37:44.007882 http://localhost:9003 delivered message 0
+2022/05/16 08:37:44.077512 http://localhost:9004 delivered message 0
+2022/05/16 08:37:44.134406 http://localhost:9005 delivered message 0
+2022/05/16 08:37:44.142077 http://localhost:9006 delivered message 0
+2022/05/16 08:37:44.234943 broadcast started
+2022/05/16 08:37:45.114165 http://localhost:8080 delivered message 0
+2022/05/16 08:37:45.121910 http://localhost:9000 delivered message 0
+2022/05/16 08:37:45.129701 http://localhost:9001 delivered message 0
+2022/05/16 08:37:45.137381 http://localhost:9002 delivered message 0
+2022/05/16 08:37:45.145091 http://localhost:9003 delivered message 0
+2022/05/16 08:37:45.214465 http://localhost:9004 delivered message 0
+2022/05/16 08:37:45.270345 http://localhost:9005 delivered message 0
+2022/05/16 08:37:45.278208 http://localhost:9006 delivered message 0
+2022/05/16 08:37:45.369857 broadcast started
+2022/05/16 08:37:46.244669 http://localhost:8080 delivered message 0
+2022/05/16 08:37:46.252469 http://localhost:9000 delivered message 0
+2022/05/16 08:37:46.260201 http://localhost:9001 delivered message 0
+2022/05/16 08:37:46.267784 http://localhost:9002 delivered message 0
+2022/05/16 08:37:46.275423 http://localhost:9003 delivered message 0
+2022/05/16 08:37:46.345404 http://localhost:9004 delivered message 0
+2022/05/16 08:37:46.399895 http://localhost:9005 delivered message 0
+2022/05/16 08:37:46.407478 http://localhost:9006 delivered message 0
+2022/05/16 08:37:46.501836 broadcast started
+2022/05/16 08:37:47.372020 http://localhost:8080 delivered message 0
+2022/05/16 08:37:47.379757 http://localhost:9000 delivered message 0
+2022/05/16 08:37:47.387764 http://localhost:9001 delivered message 0
+2022/05/16 08:37:47.395825 http://localhost:9002 delivered message 0
+2022/05/16 08:37:47.404060 http://localhost:9003 delivered message 0
+2022/05/16 08:37:47.472907 http://localhost:9004 delivered message 0
+2022/05/16 08:37:47.529118 http://localhost:9005 delivered message 0
+2022/05/16 08:37:47.536805 http://localhost:9006 delivered message 0
+2022/05/16 08:37:47.629844 broadcast started
+2022/05/16 08:37:48.499268 http://localhost:8080 delivered message 0
+2022/05/16 08:37:48.507707 http://localhost:9000 delivered message 0
+2022/05/16 08:37:48.515688 http://localhost:9001 delivered message 0
+2022/05/16 08:37:48.523735 http://localhost:9002 delivered message 0
+2022/05/16 08:37:48.531596 http://localhost:9003 delivered message 0
+2022/05/16 08:37:48.600013 http://localhost:9004 delivered message 0
+2022/05/16 08:37:48.656590 http://localhost:9005 delivered message 0
+2022/05/16 08:37:48.664195 http://localhost:9006 delivered message 0
+2022/05/16 08:37:48.762508 broadcast started
+2022/05/16 08:37:49.623962 http://localhost:8080 delivered message 0
+2022/05/16 08:37:49.632118 http://localhost:9000 delivered message 0
+2022/05/16 08:37:49.640093 http://localhost:9001 delivered message 0
+2022/05/16 08:37:49.647992 http://localhost:9002 delivered message 0
+2022/05/16 08:37:49.655802 http://localhost:9003 delivered message 0
+2022/05/16 08:37:49.724797 http://localhost:9004 delivered message 0
+2022/05/16 08:37:49.781622 http://localhost:9005 delivered message 0
+2022/05/16 08:37:49.789410 http://localhost:9006 delivered message 0
+2022/05/16 08:37:49.882714 broadcast started
+2022/05/16 08:37:50.769242 http://localhost:8080 delivered message 0
+2022/05/16 08:37:50.777057 http://localhost:9000 delivered message 0
+2022/05/16 08:37:50.784629 http://localhost:9001 delivered message 0
+2022/05/16 08:37:50.792231 http://localhost:9002 delivered message 0
+2022/05/16 08:37:50.799801 http://localhost:9003 delivered message 0
+2022/05/16 08:37:50.868344 http://localhost:9004 delivered message 0
+2022/05/16 08:37:50.928311 http://localhost:9005 delivered message 0
+2022/05/16 08:37:50.936095 http://localhost:9006 delivered message 0
+2022/05/16 08:37:51.030299 broadcast started
+2022/05/16 08:37:51.962155 http://localhost:8080 delivered message 0
+2022/05/16 08:37:51.969909 http://localhost:9000 delivered message 0
+2022/05/16 08:37:51.977723 http://localhost:9001 delivered message 0
+2022/05/16 08:37:51.985435 http://localhost:9002 delivered message 0
+2022/05/16 08:37:51.993302 http://localhost:9003 delivered message 0
+2022/05/16 08:37:52.064074 http://localhost:9004 delivered message 0
+2022/05/16 08:37:52.120003 http://localhost:9005 delivered message 0
+2022/05/16 08:37:52.127543 http://localhost:9006 delivered message 0
+2022/05/16 08:37:52.241619 broadcast started
+2022/05/16 08:37:53.112221 http://localhost:8080 delivered message 0
+2022/05/16 08:37:53.120278 http://localhost:9000 delivered message 0
+2022/05/16 08:37:53.128424 http://localhost:9001 delivered message 0
+2022/05/16 08:37:53.136324 http://localhost:9002 delivered message 0
+2022/05/16 08:37:53.143992 http://localhost:9003 delivered message 0
+2022/05/16 08:37:53.213307 http://localhost:9004 delivered message 0
+2022/05/16 08:37:53.269316 http://localhost:9005 delivered message 0
+2022/05/16 08:37:53.276978 http://localhost:9006 delivered message 0
+2022/05/16 08:37:53.369068 broadcast started
+2022/05/16 08:37:54.240672 http://localhost:8080 delivered message 0
+2022/05/16 08:37:54.248439 http://localhost:9000 delivered message 0
+2022/05/16 08:37:54.256411 http://localhost:9001 delivered message 0
+2022/05/16 08:37:54.264155 http://localhost:9002 delivered message 0
+2022/05/16 08:37:54.271974 http://localhost:9003 delivered message 0
+2022/05/16 08:37:54.341167 http://localhost:9004 delivered message 0
+2022/05/16 08:37:54.397734 http://localhost:9005 delivered message 0
+2022/05/16 08:37:54.405738 http://localhost:9006 delivered message 0
+2022/05/16 08:37:54.495222 broadcast started
+2022/05/16 08:37:55.368010 http://localhost:8080 delivered message 0
+2022/05/16 08:37:55.375777 http://localhost:9000 delivered message 0
+2022/05/16 08:37:55.383549 http://localhost:9001 delivered message 0
+2022/05/16 08:37:55.391644 http://localhost:9002 delivered message 0
+2022/05/16 08:37:55.399727 http://localhost:9003 delivered message 0
+2022/05/16 08:37:55.468767 http://localhost:9004 delivered message 0
+2022/05/16 08:37:55.524704 http://localhost:9005 delivered message 0
+2022/05/16 08:37:55.532380 http://localhost:9006 delivered message 0
+2022/05/16 08:37:55.626185 broadcast started
+2022/05/16 08:37:56.499285 http://localhost:8080 delivered message 0
+2022/05/16 08:37:56.507080 http://localhost:9000 delivered message 0
+2022/05/16 08:37:56.514770 http://localhost:9001 delivered message 0
+2022/05/16 08:37:56.522941 http://localhost:9002 delivered message 0
+2022/05/16 08:37:56.531039 http://localhost:9003 delivered message 0
+2022/05/16 08:37:56.600258 http://localhost:9004 delivered message 0
+2022/05/16 08:37:56.657138 http://localhost:9005 delivered message 0
+2022/05/16 08:37:56.664758 http://localhost:9006 delivered message 0
+2022/05/16 08:37:56.758432 broadcast started
+2022/05/16 08:37:57.630437 http://localhost:8080 delivered message 0
+2022/05/16 08:37:57.638217 http://localhost:9000 delivered message 0
+2022/05/16 08:37:57.645945 http://localhost:9001 delivered message 0
+2022/05/16 08:37:57.653814 http://localhost:9002 delivered message 0
+2022/05/16 08:37:57.661823 http://localhost:9003 delivered message 0
+2022/05/16 08:37:57.730927 http://localhost:9004 delivered message 0
+2022/05/16 08:37:57.787877 http://localhost:9005 delivered message 0
+2022/05/16 08:37:57.795568 http://localhost:9006 delivered message 0
+2022/05/16 08:37:57.887882 broadcast started
+2022/05/16 08:37:58.760339 http://localhost:8080 delivered message 0
+2022/05/16 08:37:58.768025 http://localhost:9000 delivered message 0
+2022/05/16 08:37:58.775692 http://localhost:9001 delivered message 0
+2022/05/16 08:37:58.783361 http://localhost:9002 delivered message 0
+2022/05/16 08:37:58.791034 http://localhost:9003 delivered message 0
+2022/05/16 08:37:58.859771 http://localhost:9004 delivered message 0
+2022/05/16 08:37:58.916585 http://localhost:9005 delivered message 0
+2022/05/16 08:37:58.924262 http://localhost:9006 delivered message 0
+2022/05/16 08:37:59.018213 broadcast started
+2022/05/16 08:37:59.893025 http://localhost:8080 delivered message 0
+2022/05/16 08:37:59.900694 http://localhost:9000 delivered message 0
+2022/05/16 08:37:59.908343 http://localhost:9001 delivered message 0
+2022/05/16 08:37:59.916074 http://localhost:9002 delivered message 0
+2022/05/16 08:37:59.923763 http://localhost:9003 delivered message 0
+2022/05/16 08:37:59.993670 http://localhost:9004 delivered message 0
+2022/05/16 08:38:00.049697 http://localhost:9005 delivered message 0
+2022/05/16 08:38:00.057396 http://localhost:9006 delivered message 0
+2022/05/16 08:38:00.149803 broadcast started
+2022/05/16 08:38:01.020135 http://localhost:8080 delivered message 0
+2022/05/16 08:38:01.029015 http://localhost:9000 delivered message 0
+2022/05/16 08:38:01.036797 http://localhost:9001 delivered message 0
+2022/05/16 08:38:01.044397 http://localhost:9002 delivered message 0
+2022/05/16 08:38:01.052026 http://localhost:9003 delivered message 0
+2022/05/16 08:38:01.121345 http://localhost:9004 delivered message 0
+2022/05/16 08:38:01.178543 http://localhost:9005 delivered message 0
+2022/05/16 08:38:01.186659 http://localhost:9006 delivered message 0
+2022/05/16 08:38:01.278982 broadcast started
+2022/05/16 08:38:02.144900 http://localhost:8080 delivered message 0
+2022/05/16 08:38:02.152548 http://localhost:9000 delivered message 0
+2022/05/16 08:38:02.160253 http://localhost:9001 delivered message 0
+2022/05/16 08:38:02.167904 http://localhost:9002 delivered message 0
+2022/05/16 08:38:02.175871 http://localhost:9003 delivered message 0
+2022/05/16 08:38:02.245203 http://localhost:9004 delivered message 0
+2022/05/16 08:38:02.301209 http://localhost:9005 delivered message 0
+2022/05/16 08:38:02.308708 http://localhost:9006 delivered message 0
+2022/05/16 08:38:02.402006 broadcast started
+2022/05/16 08:38:03.274633 http://localhost:8080 delivered message 0
+2022/05/16 08:38:03.282489 http://localhost:9000 delivered message 0
+2022/05/16 08:38:03.290119 http://localhost:9001 delivered message 0
+2022/05/16 08:38:03.297740 http://localhost:9002 delivered message 0
+2022/05/16 08:38:03.305425 http://localhost:9003 delivered message 0
+2022/05/16 08:38:03.374869 http://localhost:9004 delivered message 0
+2022/05/16 08:38:03.431840 http://localhost:9005 delivered message 0
+2022/05/16 08:38:03.439599 http://localhost:9006 delivered message 0
+2022/05/16 08:38:03.531991 broadcast started
+2022/05/16 08:38:04.405339 http://localhost:8080 delivered message 0
+2022/05/16 08:38:04.413169 http://localhost:9000 delivered message 0
+2022/05/16 08:38:04.420753 http://localhost:9001 delivered message 0
+2022/05/16 08:38:04.428266 http://localhost:9002 delivered message 0
+2022/05/16 08:38:04.435940 http://localhost:9003 delivered message 0
+2022/05/16 08:38:04.505872 http://localhost:9004 delivered message 0
+2022/05/16 08:38:04.562739 http://localhost:9005 delivered message 0
+2022/05/16 08:38:04.570459 http://localhost:9006 delivered message 0
+2022/05/16 08:38:04.663304 broadcast started
+2022/05/16 08:38:05.531123 http://localhost:8080 delivered message 0
+2022/05/16 08:38:05.538823 http://localhost:9000 delivered message 0
+2022/05/16 08:38:05.546543 http://localhost:9001 delivered message 0
+2022/05/16 08:38:05.554373 http://localhost:9002 delivered message 0
+2022/05/16 08:38:05.562461 http://localhost:9003 delivered message 0
+2022/05/16 08:38:05.631208 http://localhost:9004 delivered message 0
+2022/05/16 08:38:05.688024 http://localhost:9005 delivered message 0
+2022/05/16 08:38:05.695722 http://localhost:9006 delivered message 0
+2022/05/16 08:38:05.788594 broadcast started
+2022/05/16 08:38:06.659190 http://localhost:8080 delivered message 0
+2022/05/16 08:38:06.666805 http://localhost:9000 delivered message 0
+2022/05/16 08:38:06.674487 http://localhost:9001 delivered message 0
+2022/05/16 08:38:06.682054 http://localhost:9002 delivered message 0
+2022/05/16 08:38:06.689957 http://localhost:9003 delivered message 0
+2022/05/16 08:38:06.759225 http://localhost:9004 delivered message 0
+2022/05/16 08:38:06.815964 http://localhost:9005 delivered message 0
+2022/05/16 08:38:06.823779 http://localhost:9006 delivered message 0
+2022/05/16 08:38:06.916261 broadcast started
+2022/05/16 08:38:07.791806 http://localhost:8080 delivered message 0
+2022/05/16 08:38:07.799675 http://localhost:9000 delivered message 0
+2022/05/16 08:38:07.807210 http://localhost:9001 delivered message 0
+2022/05/16 08:38:07.814830 http://localhost:9002 delivered message 0
+2022/05/16 08:38:07.822700 http://localhost:9003 delivered message 0
+2022/05/16 08:38:07.891925 http://localhost:9004 delivered message 0
+2022/05/16 08:38:07.948696 http://localhost:9005 delivered message 0
+2022/05/16 08:38:07.956653 http://localhost:9006 delivered message 0
+2022/05/16 08:38:08.049024 broadcast started
+2022/05/16 08:38:08.927001 http://localhost:8080 delivered message 0
+2022/05/16 08:38:08.934683 http://localhost:9000 delivered message 0
+2022/05/16 08:38:08.942295 http://localhost:9001 delivered message 0
+2022/05/16 08:38:08.949966 http://localhost:9002 delivered message 0
+2022/05/16 08:38:08.957578 http://localhost:9003 delivered message 0
+2022/05/16 08:38:09.027398 http://localhost:9004 delivered message 0
+2022/05/16 08:38:09.084250 http://localhost:9005 delivered message 0
+2022/05/16 08:38:09.091872 http://localhost:9006 delivered message 0
+2022/05/16 08:38:09.184354 broadcast started
+2022/05/16 08:38:10.048682 http://localhost:8080 delivered message 0
+2022/05/16 08:38:10.056503 http://localhost:9000 delivered message 0
+2022/05/16 08:38:10.064343 http://localhost:9001 delivered message 0
+2022/05/16 08:38:10.072074 http://localhost:9002 delivered message 0
+2022/05/16 08:38:10.079862 http://localhost:9003 delivered message 0
+2022/05/16 08:38:10.148906 http://localhost:9004 delivered message 0
+2022/05/16 08:38:10.205527 http://localhost:9005 delivered message 0
+2022/05/16 08:38:10.213175 http://localhost:9006 delivered message 0
+2022/05/16 08:38:10.307064 broadcast started
+2022/05/16 08:38:11.177724 http://localhost:8080 delivered message 0
+2022/05/16 08:38:11.185380 http://localhost:9000 delivered message 0
+2022/05/16 08:38:11.193074 http://localhost:9001 delivered message 0
+2022/05/16 08:38:11.200653 http://localhost:9002 delivered message 0
+2022/05/16 08:38:11.208281 http://localhost:9003 delivered message 0
+2022/05/16 08:38:11.278021 http://localhost:9004 delivered message 0
+2022/05/16 08:38:11.334806 http://localhost:9005 delivered message 0
+2022/05/16 08:38:11.342564 http://localhost:9006 delivered message 0
+2022/05/16 08:38:11.435515 broadcast started
+2022/05/16 08:38:12.309743 http://localhost:8080 delivered message 0
+2022/05/16 08:38:12.317558 http://localhost:9000 delivered message 0
+2022/05/16 08:38:12.325191 http://localhost:9001 delivered message 0
+2022/05/16 08:38:12.332902 http://localhost:9002 delivered message 0
+2022/05/16 08:38:12.340514 http://localhost:9003 delivered message 0
+2022/05/16 08:38:12.409829 http://localhost:9004 delivered message 0
+2022/05/16 08:38:12.465701 http://localhost:9005 delivered message 0
+2022/05/16 08:38:12.473263 http://localhost:9006 delivered message 0
+2022/05/16 08:38:12.567131 broadcast started
+2022/05/16 08:38:13.441073 http://localhost:8080 delivered message 0
+2022/05/16 08:38:13.448903 http://localhost:9000 delivered message 0
+2022/05/16 08:38:13.456914 http://localhost:9001 delivered message 0
+2022/05/16 08:38:13.464912 http://localhost:9002 delivered message 0
+2022/05/16 08:38:13.473108 http://localhost:9003 delivered message 0
+2022/05/16 08:38:13.541702 http://localhost:9004 delivered message 0
+2022/05/16 08:38:13.597872 http://localhost:9005 delivered message 0
+2022/05/16 08:38:13.605561 http://localhost:9006 delivered message 0
+2022/05/16 08:38:13.698673 broadcast started
+2022/05/16 08:38:14.565436 http://localhost:8080 delivered message 0
+2022/05/16 08:38:14.573580 http://localhost:9000 delivered message 0
+2022/05/16 08:38:14.581738 http://localhost:9001 delivered message 0
+2022/05/16 08:38:14.589730 http://localhost:9002 delivered message 0
+2022/05/16 08:38:14.597384 http://localhost:9003 delivered message 0
+2022/05/16 08:38:14.666255 http://localhost:9004 delivered message 0
+2022/05/16 08:38:14.723421 http://localhost:9005 delivered message 0
+2022/05/16 08:38:14.731026 http://localhost:9006 delivered message 0
+2022/05/16 08:38:14.824972 broadcast started
+2022/05/16 08:38:15.695828 http://localhost:8080 delivered message 0
+2022/05/16 08:38:15.703562 http://localhost:9000 delivered message 0
+2022/05/16 08:38:15.711424 http://localhost:9001 delivered message 0
+2022/05/16 08:38:15.719078 http://localhost:9002 delivered message 0
+2022/05/16 08:38:15.726717 http://localhost:9003 delivered message 0
+2022/05/16 08:38:15.796920 http://localhost:9004 delivered message 0
+2022/05/16 08:38:15.852506 http://localhost:9005 delivered message 0
+2022/05/16 08:38:15.860162 http://localhost:9006 delivered message 0
+2022/05/16 08:38:15.954208 broadcast started
+2022/05/16 08:38:16.829399 http://localhost:8080 delivered message 0
+2022/05/16 08:38:16.837148 http://localhost:9000 delivered message 0
+2022/05/16 08:38:16.844882 http://localhost:9001 delivered message 0
+2022/05/16 08:38:16.852494 http://localhost:9002 delivered message 0
+2022/05/16 08:38:16.860101 http://localhost:9003 delivered message 0
+2022/05/16 08:38:16.929906 http://localhost:9004 delivered message 0
+2022/05/16 08:38:16.984953 http://localhost:9005 delivered message 0
+2022/05/16 08:38:16.992548 http://localhost:9006 delivered message 0
+2022/05/16 08:38:17.085211 broadcast started
+2022/05/16 08:38:17.958816 http://localhost:8080 delivered message 0
+2022/05/16 08:38:17.966589 http://localhost:9000 delivered message 0
+2022/05/16 08:38:17.974255 http://localhost:9001 delivered message 0
+2022/05/16 08:38:17.981864 http://localhost:9002 delivered message 0
+2022/05/16 08:38:17.989662 http://localhost:9003 delivered message 0
+2022/05/16 08:38:18.058698 http://localhost:9004 delivered message 0
+2022/05/16 08:38:18.115097 http://localhost:9005 delivered message 0
+2022/05/16 08:38:18.122914 http://localhost:9006 delivered message 0
+2022/05/16 08:38:18.216389 broadcast started
+2022/05/16 08:38:19.089561 http://localhost:8080 delivered message 0
+2022/05/16 08:38:19.097195 http://localhost:9000 delivered message 0
+2022/05/16 08:38:19.104887 http://localhost:9001 delivered message 0
+2022/05/16 08:38:19.112576 http://localhost:9002 delivered message 0
+2022/05/16 08:38:19.120223 http://localhost:9003 delivered message 0
+2022/05/16 08:38:19.189959 http://localhost:9004 delivered message 0
+2022/05/16 08:38:19.246621 http://localhost:9005 delivered message 0
+2022/05/16 08:38:19.254669 http://localhost:9006 delivered message 0
+2022/05/16 08:38:19.347219 broadcast started
+2022/05/16 08:38:20.216067 http://localhost:8080 delivered message 0
+2022/05/16 08:38:20.223835 http://localhost:9000 delivered message 0
+2022/05/16 08:38:20.231543 http://localhost:9001 delivered message 0
+2022/05/16 08:38:20.239189 http://localhost:9002 delivered message 0
+2022/05/16 08:38:20.246849 http://localhost:9003 delivered message 0
+2022/05/16 08:38:20.314600 http://localhost:9004 delivered message 0
+2022/05/16 08:38:20.370722 http://localhost:9005 delivered message 0
+2022/05/16 08:38:20.378139 http://localhost:9006 delivered message 0
+2022/05/16 08:38:20.469294 broadcast started
+2022/05/16 08:38:21.339994 http://localhost:8080 delivered message 0
+2022/05/16 08:38:21.347779 http://localhost:9000 delivered message 0
+2022/05/16 08:38:21.355578 http://localhost:9001 delivered message 0
+2022/05/16 08:38:21.363206 http://localhost:9002 delivered message 0
+2022/05/16 08:38:21.370982 http://localhost:9003 delivered message 0
+2022/05/16 08:38:21.440848 http://localhost:9004 delivered message 0
+2022/05/16 08:38:21.498199 http://localhost:9005 delivered message 0
+2022/05/16 08:38:21.505627 http://localhost:9006 delivered message 0
+2022/05/16 08:38:21.597742 broadcast started
+2022/05/16 08:38:22.471652 http://localhost:8080 delivered message 0
+2022/05/16 08:38:22.479278 http://localhost:9000 delivered message 0
+2022/05/16 08:38:22.486899 http://localhost:9001 delivered message 0
+2022/05/16 08:38:22.494715 http://localhost:9002 delivered message 0
+2022/05/16 08:38:22.502285 http://localhost:9003 delivered message 0
+2022/05/16 08:38:22.571457 http://localhost:9004 delivered message 0
+2022/05/16 08:38:22.627066 http://localhost:9005 delivered message 0
+2022/05/16 08:38:22.634530 http://localhost:9006 delivered message 0
+2022/05/16 08:38:22.728219 broadcast started
+2022/05/16 08:38:23.601318 http://localhost:8080 delivered message 0
+2022/05/16 08:38:23.608986 http://localhost:9000 delivered message 0
+2022/05/16 08:38:23.616683 http://localhost:9001 delivered message 0
+2022/05/16 08:38:23.624414 http://localhost:9002 delivered message 0
+2022/05/16 08:38:23.632026 http://localhost:9003 delivered message 0
+2022/05/16 08:38:23.701801 http://localhost:9004 delivered message 0
+2022/05/16 08:38:23.757361 http://localhost:9005 delivered message 0
+2022/05/16 08:38:23.765135 http://localhost:9006 delivered message 0
+2022/05/16 08:38:23.859019 broadcast started
+2022/05/16 08:38:24.733631 http://localhost:8080 delivered message 0
+2022/05/16 08:38:24.741323 http://localhost:9000 delivered message 0
+2022/05/16 08:38:24.749101 http://localhost:9001 delivered message 0
+2022/05/16 08:38:24.756912 http://localhost:9002 delivered message 0
+2022/05/16 08:38:24.764498 http://localhost:9003 delivered message 0
+2022/05/16 08:38:24.833695 http://localhost:9004 delivered message 0
+2022/05/16 08:38:24.890235 http://localhost:9005 delivered message 0
+2022/05/16 08:38:24.898279 http://localhost:9006 delivered message 0
+2022/05/16 08:38:24.991442 broadcast started
+2022/05/16 08:38:25.864362 http://localhost:8080 delivered message 0
+2022/05/16 08:38:25.872778 http://localhost:9000 delivered message 0
+2022/05/16 08:38:25.880555 http://localhost:9001 delivered message 0
+2022/05/16 08:38:25.888219 http://localhost:9002 delivered message 0
+2022/05/16 08:38:25.895888 http://localhost:9003 delivered message 0
+2022/05/16 08:38:25.965261 http://localhost:9004 delivered message 0
+2022/05/16 08:38:26.020114 http://localhost:9005 delivered message 0
+2022/05/16 08:38:26.027600 http://localhost:9006 delivered message 0
+2022/05/16 08:38:26.120065 broadcast started
+2022/05/16 08:38:26.992396 http://localhost:8080 delivered message 0
+2022/05/16 08:38:27.000068 http://localhost:9000 delivered message 0
+2022/05/16 08:38:27.007937 http://localhost:9001 delivered message 0
+2022/05/16 08:38:27.016097 http://localhost:9002 delivered message 0
+2022/05/16 08:38:27.024165 http://localhost:9003 delivered message 0
+2022/05/16 08:38:27.093000 http://localhost:9004 delivered message 0
+2022/05/16 08:38:27.149820 http://localhost:9005 delivered message 0
+2022/05/16 08:38:27.157424 http://localhost:9006 delivered message 0
+2022/05/16 08:38:27.251291 broadcast started
+2022/05/16 08:38:28.124977 http://localhost:8080 delivered message 0
+2022/05/16 08:38:28.132992 http://localhost:9000 delivered message 0
+2022/05/16 08:38:28.141124 http://localhost:9001 delivered message 0
+2022/05/16 08:38:28.149085 http://localhost:9002 delivered message 0
+2022/05/16 08:38:28.156965 http://localhost:9003 delivered message 0
+2022/05/16 08:38:28.226595 http://localhost:9004 delivered message 0
+2022/05/16 08:38:28.283047 http://localhost:9005 delivered message 0
+2022/05/16 08:38:28.290884 http://localhost:9006 delivered message 0
+2022/05/16 08:38:28.384318 broadcast started
+2022/05/16 08:38:29.255013 http://localhost:8080 delivered message 0
+2022/05/16 08:38:29.263000 http://localhost:9000 delivered message 0
+2022/05/16 08:38:29.270704 http://localhost:9001 delivered message 0
+2022/05/16 08:38:29.278496 http://localhost:9002 delivered message 0
+2022/05/16 08:38:29.286109 http://localhost:9003 delivered message 0
+2022/05/16 08:38:29.355896 http://localhost:9004 delivered message 0
+2022/05/16 08:38:29.412557 http://localhost:9005 delivered message 0
+2022/05/16 08:38:29.420277 http://localhost:9006 delivered message 0
+2022/05/16 08:38:29.513535 broadcast started
+2022/05/16 08:38:30.389052 http://localhost:8080 delivered message 0
+2022/05/16 08:38:30.396821 http://localhost:9000 delivered message 0
+2022/05/16 08:38:30.405022 http://localhost:9001 delivered message 0
+2022/05/16 08:38:30.413174 http://localhost:9002 delivered message 0
+2022/05/16 08:38:30.420876 http://localhost:9003 delivered message 0
+2022/05/16 08:38:30.488947 http://localhost:9004 delivered message 0
+2022/05/16 08:38:30.543118 http://localhost:9005 delivered message 0
+2022/05/16 08:38:30.550499 http://localhost:9006 delivered message 0
+2022/05/16 08:38:30.665918 broadcast started
+2022/05/16 08:38:31.535895 http://localhost:8080 delivered message 0
+2022/05/16 08:38:31.543788 http://localhost:9000 delivered message 0
+2022/05/16 08:38:31.551426 http://localhost:9001 delivered message 0
+2022/05/16 08:38:31.559135 http://localhost:9002 delivered message 0
+2022/05/16 08:38:31.566691 http://localhost:9003 delivered message 0
+2022/05/16 08:38:31.637287 http://localhost:9004 delivered message 0
+2022/05/16 08:38:31.692616 http://localhost:9005 delivered message 0
+2022/05/16 08:38:31.700237 http://localhost:9006 delivered message 0
+2022/05/16 08:38:31.792222 broadcast started
+2022/05/16 08:38:32.664826 http://localhost:8080 delivered message 0
+2022/05/16 08:38:32.672660 http://localhost:9000 delivered message 0
+2022/05/16 08:38:32.680607 http://localhost:9001 delivered message 0
+2022/05/16 08:38:32.688848 http://localhost:9002 delivered message 0
+2022/05/16 08:38:32.696416 http://localhost:9003 delivered message 0
+2022/05/16 08:38:32.765178 http://localhost:9004 delivered message 0
+2022/05/16 08:38:32.820214 http://localhost:9005 delivered message 0
+2022/05/16 08:38:32.827808 http://localhost:9006 delivered message 0
+2022/05/16 08:38:32.920814 broadcast started
+2022/05/16 08:38:33.793769 http://localhost:8080 delivered message 0
+2022/05/16 08:38:33.801802 http://localhost:9000 delivered message 0
+2022/05/16 08:38:33.809603 http://localhost:9001 delivered message 0
+2022/05/16 08:38:33.817197 http://localhost:9002 delivered message 0
+2022/05/16 08:38:33.824894 http://localhost:9003 delivered message 0
+2022/05/16 08:38:33.894499 http://localhost:9004 delivered message 0
+2022/05/16 08:38:33.950808 http://localhost:9005 delivered message 0
+2022/05/16 08:38:33.958429 http://localhost:9006 delivered message 0
+2022/05/16 08:38:34.052619 broadcast started
+2022/05/16 08:38:34.928041 http://localhost:8080 delivered message 0
+2022/05/16 08:38:34.935758 http://localhost:9000 delivered message 0
+2022/05/16 08:38:34.943430 http://localhost:9001 delivered message 0
+2022/05/16 08:38:34.951002 http://localhost:9002 delivered message 0
+2022/05/16 08:38:34.958819 http://localhost:9003 delivered message 0
+2022/05/16 08:38:35.028428 http://localhost:9004 delivered message 0
+2022/05/16 08:38:35.085464 http://localhost:9005 delivered message 0
+2022/05/16 08:38:35.093204 http://localhost:9006 delivered message 0
+2022/05/16 08:38:35.186032 broadcast started
+2022/05/16 08:38:36.060507 http://localhost:8080 delivered message 0
+2022/05/16 08:38:36.068129 http://localhost:9000 delivered message 0
+2022/05/16 08:38:36.075809 http://localhost:9001 delivered message 0
+2022/05/16 08:38:36.083288 http://localhost:9002 delivered message 0
+2022/05/16 08:38:36.091173 http://localhost:9003 delivered message 0
+2022/05/16 08:38:36.161634 http://localhost:9004 delivered message 0
+2022/05/16 08:38:36.218274 http://localhost:9005 delivered message 0
+2022/05/16 08:38:36.226099 http://localhost:9006 delivered message 0
+2022/05/16 08:38:36.318835 broadcast started
+2022/05/16 08:38:37.233639 http://localhost:8080 delivered message 0
+2022/05/16 08:38:37.242121 http://localhost:9000 delivered message 0
+2022/05/16 08:38:37.249906 http://localhost:9001 delivered message 0
+2022/05/16 08:38:37.257567 http://localhost:9002 delivered message 0
+2022/05/16 08:38:37.265481 http://localhost:9003 delivered message 0
+2022/05/16 08:38:37.334742 http://localhost:9004 delivered message 0
+2022/05/16 08:38:37.390612 http://localhost:9005 delivered message 0
+2022/05/16 08:38:37.398341 http://localhost:9006 delivered message 0
+2022/05/16 08:38:37.494979 broadcast started
+2022/05/16 08:38:38.373945 http://localhost:8080 delivered message 0
+2022/05/16 08:38:38.382851 http://localhost:9000 delivered message 0
+2022/05/16 08:38:38.390843 http://localhost:9001 delivered message 0
+2022/05/16 08:38:38.398614 http://localhost:9002 delivered message 0
+2022/05/16 08:38:38.406470 http://localhost:9003 delivered message 0
+2022/05/16 08:38:38.476018 http://localhost:9004 delivered message 0
+2022/05/16 08:38:38.532787 http://localhost:9005 delivered message 0
+2022/05/16 08:38:38.540527 http://localhost:9006 delivered message 0
+2022/05/16 08:38:38.633705 broadcast started
+2022/05/16 08:38:39.508564 http://localhost:8080 delivered message 0
+2022/05/16 08:38:39.516236 http://localhost:9000 delivered message 0
+2022/05/16 08:38:39.523900 http://localhost:9001 delivered message 0
+2022/05/16 08:38:39.531577 http://localhost:9002 delivered message 0
+2022/05/16 08:38:39.539662 http://localhost:9003 delivered message 0
+2022/05/16 08:38:39.608338 http://localhost:9004 delivered message 0
+2022/05/16 08:38:39.665489 http://localhost:9005 delivered message 0
+2022/05/16 08:38:39.673191 http://localhost:9006 delivered message 0
+2022/05/16 08:38:39.766109 broadcast started
+2022/05/16 08:38:40.639648 http://localhost:8080 delivered message 0
+2022/05/16 08:38:40.647377 http://localhost:9000 delivered message 0
+2022/05/16 08:38:40.655082 http://localhost:9001 delivered message 0
+2022/05/16 08:38:40.662758 http://localhost:9002 delivered message 0
+2022/05/16 08:38:40.670476 http://localhost:9003 delivered message 0
+2022/05/16 08:38:40.740059 http://localhost:9004 delivered message 0
+2022/05/16 08:38:40.794121 http://localhost:9005 delivered message 0
+2022/05/16 08:38:40.801408 http://localhost:9006 delivered message 0
+2022/05/16 08:38:40.892667 broadcast started
+2022/05/16 08:38:41.758871 http://localhost:8080 delivered message 0
+2022/05/16 08:38:41.766710 http://localhost:9000 delivered message 0
+2022/05/16 08:38:41.774386 http://localhost:9001 delivered message 0
+2022/05/16 08:38:41.782047 http://localhost:9002 delivered message 0
+2022/05/16 08:38:41.789953 http://localhost:9003 delivered message 0
+2022/05/16 08:38:41.858409 http://localhost:9004 delivered message 0
+2022/05/16 08:38:41.915207 http://localhost:9005 delivered message 0
+2022/05/16 08:38:41.923605 http://localhost:9006 delivered message 0
+2022/05/16 08:38:42.018526 broadcast started
+2022/05/16 08:38:42.892833 http://localhost:8080 delivered message 0
+2022/05/16 08:38:42.900616 http://localhost:9000 delivered message 0
+2022/05/16 08:38:42.908577 http://localhost:9001 delivered message 0
+2022/05/16 08:38:42.916424 http://localhost:9002 delivered message 0
+2022/05/16 08:38:42.924286 http://localhost:9003 delivered message 0
+2022/05/16 08:38:42.992526 http://localhost:9004 delivered message 0
+2022/05/16 08:38:43.049207 http://localhost:9005 delivered message 0
+2022/05/16 08:38:43.057030 http://localhost:9006 delivered message 0
+2022/05/16 08:38:43.151439 broadcast started
+2022/05/16 08:38:44.033381 http://localhost:8080 delivered message 0
+2022/05/16 08:38:44.041608 http://localhost:9000 delivered message 0
+2022/05/16 08:38:44.049500 http://localhost:9001 delivered message 0
+2022/05/16 08:38:44.057123 http://localhost:9002 delivered message 0
+2022/05/16 08:38:44.064838 http://localhost:9003 delivered message 0
+2022/05/16 08:38:44.135341 http://localhost:9004 delivered message 0
+2022/05/16 08:38:44.191412 http://localhost:9005 delivered message 0
+2022/05/16 08:38:44.199785 http://localhost:9006 delivered message 0
+2022/05/16 08:38:44.294392 broadcast started
+2022/05/16 08:38:45.179303 http://localhost:8080 delivered message 0
+2022/05/16 08:38:45.186919 http://localhost:9000 delivered message 0
+2022/05/16 08:38:45.194675 http://localhost:9001 delivered message 0
+2022/05/16 08:38:45.202303 http://localhost:9002 delivered message 0
+2022/05/16 08:38:45.209873 http://localhost:9003 delivered message 0
+2022/05/16 08:38:45.279690 http://localhost:9004 delivered message 0
+2022/05/16 08:38:45.335569 http://localhost:9005 delivered message 0
+2022/05/16 08:38:45.343227 http://localhost:9006 delivered message 0
+2022/05/16 08:38:45.436164 broadcast started
+2022/05/16 08:38:46.310105 http://localhost:8080 delivered message 0
+2022/05/16 08:38:46.318075 http://localhost:9000 delivered message 0
+2022/05/16 08:38:46.325707 http://localhost:9001 delivered message 0
+2022/05/16 08:38:46.333391 http://localhost:9002 delivered message 0
+2022/05/16 08:38:46.341160 http://localhost:9003 delivered message 0
+2022/05/16 08:38:46.411201 http://localhost:9004 delivered message 0
+2022/05/16 08:38:46.467612 http://localhost:9005 delivered message 0
+2022/05/16 08:38:46.475243 http://localhost:9006 delivered message 0
+2022/05/16 08:38:46.567787 broadcast started
+2022/05/16 08:38:47.440438 http://localhost:8080 delivered message 0
+2022/05/16 08:38:47.448183 http://localhost:9000 delivered message 0
+2022/05/16 08:38:47.456052 http://localhost:9001 delivered message 0
+2022/05/16 08:38:47.463724 http://localhost:9002 delivered message 0
+2022/05/16 08:38:47.471581 http://localhost:9003 delivered message 0
+2022/05/16 08:38:47.540751 http://localhost:9004 delivered message 0
+2022/05/16 08:38:47.597548 http://localhost:9005 delivered message 0
+2022/05/16 08:38:47.605357 http://localhost:9006 delivered message 0
+2022/05/16 08:38:47.696941 broadcast started
+2022/05/16 08:38:48.571758 http://localhost:8080 delivered message 0
+2022/05/16 08:38:48.579488 http://localhost:9000 delivered message 0
+2022/05/16 08:38:48.587257 http://localhost:9001 delivered message 0
+2022/05/16 08:38:48.594764 http://localhost:9002 delivered message 0
+2022/05/16 08:38:48.602316 http://localhost:9003 delivered message 0
+2022/05/16 08:38:48.672412 http://localhost:9004 delivered message 0
+2022/05/16 08:38:48.729490 http://localhost:9005 delivered message 0
+2022/05/16 08:38:48.737191 http://localhost:9006 delivered message 0
+2022/05/16 08:38:48.830050 broadcast started
+2022/05/16 08:38:49.702111 http://localhost:8080 delivered message 0
+2022/05/16 08:38:49.709859 http://localhost:9000 delivered message 0
+2022/05/16 08:38:49.717633 http://localhost:9001 delivered message 0
+2022/05/16 08:38:49.725356 http://localhost:9002 delivered message 0
+2022/05/16 08:38:49.733046 http://localhost:9003 delivered message 0
+2022/05/16 08:38:49.802694 http://localhost:9004 delivered message 0
+2022/05/16 08:38:49.859471 http://localhost:9005 delivered message 0
+2022/05/16 08:38:49.867132 http://localhost:9006 delivered message 0
+2022/05/16 08:38:49.958732 broadcast started
+2022/05/16 08:38:50.832785 http://localhost:8080 delivered message 0
+2022/05/16 08:38:50.840980 http://localhost:9000 delivered message 0
+2022/05/16 08:38:50.848671 http://localhost:9001 delivered message 0
+2022/05/16 08:38:50.856441 http://localhost:9002 delivered message 0
+2022/05/16 08:38:50.864050 http://localhost:9003 delivered message 0
+2022/05/16 08:38:50.933160 http://localhost:9004 delivered message 0
+2022/05/16 08:38:50.988112 http://localhost:9005 delivered message 0
+2022/05/16 08:38:50.995755 http://localhost:9006 delivered message 0
+2022/05/16 08:38:51.089734 broadcast started
+2022/05/16 08:38:51.956378 http://localhost:8080 delivered message 0
+2022/05/16 08:38:51.963952 http://localhost:9000 delivered message 0
+2022/05/16 08:38:51.971714 http://localhost:9001 delivered message 0
+2022/05/16 08:38:51.979362 http://localhost:9002 delivered message 0
+2022/05/16 08:38:51.987255 http://localhost:9003 delivered message 0
+2022/05/16 08:38:52.057349 http://localhost:9004 delivered message 0
+2022/05/16 08:38:52.113575 http://localhost:9005 delivered message 0
+2022/05/16 08:38:52.121266 http://localhost:9006 delivered message 0
+2022/05/16 08:38:52.222432 broadcast started
+2022/05/16 08:38:53.116128 http://localhost:8080 delivered message 0
+2022/05/16 08:38:53.123851 http://localhost:9000 delivered message 0
+2022/05/16 08:38:53.131547 http://localhost:9001 delivered message 0
+2022/05/16 08:38:53.139539 http://localhost:9002 delivered message 0
+2022/05/16 08:38:53.147542 http://localhost:9003 delivered message 0
+2022/05/16 08:38:53.218102 http://localhost:9004 delivered message 0
+2022/05/16 08:38:53.274534 http://localhost:9005 delivered message 0
+2022/05/16 08:38:53.282333 http://localhost:9006 delivered message 0
+2022/05/16 08:38:53.376262 broadcast started
+2022/05/16 08:38:54.248514 http://localhost:8080 delivered message 0
+2022/05/16 08:38:54.256356 http://localhost:9000 delivered message 0
+2022/05/16 08:38:54.264095 http://localhost:9001 delivered message 0
+2022/05/16 08:38:54.272150 http://localhost:9002 delivered message 0
+2022/05/16 08:38:54.279945 http://localhost:9003 delivered message 0
+2022/05/16 08:38:54.349071 http://localhost:9004 delivered message 0
+2022/05/16 08:38:54.406015 http://localhost:9005 delivered message 0
+2022/05/16 08:38:54.413657 http://localhost:9006 delivered message 0
+2022/05/16 08:38:54.506186 broadcast started
+2022/05/16 08:38:55.375356 http://localhost:8080 delivered message 0
+2022/05/16 08:38:55.383080 http://localhost:9000 delivered message 0
+2022/05/16 08:38:55.390981 http://localhost:9001 delivered message 0
+2022/05/16 08:38:55.398775 http://localhost:9002 delivered message 0
+2022/05/16 08:38:55.406572 http://localhost:9003 delivered message 0
+2022/05/16 08:38:55.475816 http://localhost:9004 delivered message 0
+2022/05/16 08:38:55.532358 http://localhost:9005 delivered message 0
+2022/05/16 08:38:55.540458 http://localhost:9006 delivered message 0
+2022/05/16 08:38:55.633436 broadcast started
+2022/05/16 08:38:56.507391 http://localhost:8080 delivered message 0
+2022/05/16 08:38:56.515469 http://localhost:9000 delivered message 0
+2022/05/16 08:38:56.523539 http://localhost:9001 delivered message 0
+2022/05/16 08:38:56.531157 http://localhost:9002 delivered message 0
+2022/05/16 08:38:56.538951 http://localhost:9003 delivered message 0
+2022/05/16 08:38:56.607570 http://localhost:9004 delivered message 0
+2022/05/16 08:38:56.663502 http://localhost:9005 delivered message 0
+2022/05/16 08:38:56.671159 http://localhost:9006 delivered message 0
+2022/05/16 08:38:56.763949 broadcast started
+2022/05/16 08:38:57.638153 http://localhost:8080 delivered message 0
+2022/05/16 08:38:57.645894 http://localhost:9000 delivered message 0
+2022/05/16 08:38:57.653644 http://localhost:9001 delivered message 0
+2022/05/16 08:38:57.661415 http://localhost:9002 delivered message 0
+2022/05/16 08:38:57.669188 http://localhost:9003 delivered message 0
+2022/05/16 08:38:57.739149 http://localhost:9004 delivered message 0
+2022/05/16 08:38:57.795611 http://localhost:9005 delivered message 0
+2022/05/16 08:38:57.803205 http://localhost:9006 delivered message 0
+2022/05/16 08:38:57.895307 broadcast started
+2022/05/16 08:38:58.766588 http://localhost:8080 delivered message 0
+2022/05/16 08:38:58.774418 http://localhost:9000 delivered message 0
+2022/05/16 08:38:58.782201 http://localhost:9001 delivered message 0
+2022/05/16 08:38:58.790224 http://localhost:9002 delivered message 0
+2022/05/16 08:38:58.798193 http://localhost:9003 delivered message 0
+2022/05/16 08:38:58.866607 http://localhost:9004 delivered message 0
+2022/05/16 08:38:58.923170 http://localhost:9005 delivered message 0
+2022/05/16 08:38:58.930753 http://localhost:9006 delivered message 0
+2022/05/16 08:38:59.024005 broadcast started
+2022/05/16 08:38:59.893909 http://localhost:8080 delivered message 0
+2022/05/16 08:38:59.901549 http://localhost:9000 delivered message 0
+2022/05/16 08:38:59.909185 http://localhost:9001 delivered message 0
+2022/05/16 08:38:59.916845 http://localhost:9002 delivered message 0
+2022/05/16 08:38:59.924714 http://localhost:9003 delivered message 0
+2022/05/16 08:38:59.993918 http://localhost:9004 delivered message 0
+2022/05/16 08:39:00.050281 http://localhost:9005 delivered message 0
+2022/05/16 08:39:00.057969 http://localhost:9006 delivered message 0
+2022/05/16 08:39:00.151335 broadcast started
+2022/05/16 08:39:01.024862 http://localhost:8080 delivered message 0
+2022/05/16 08:39:01.032715 http://localhost:9000 delivered message 0
+2022/05/16 08:39:01.040404 http://localhost:9001 delivered message 0
+2022/05/16 08:39:01.048061 http://localhost:9002 delivered message 0
+2022/05/16 08:39:01.055695 http://localhost:9003 delivered message 0
+2022/05/16 08:39:01.124673 http://localhost:9004 delivered message 0
+2022/05/16 08:39:01.181592 http://localhost:9005 delivered message 0
+2022/05/16 08:39:01.189442 http://localhost:9006 delivered message 0
+2022/05/16 08:39:01.282567 broadcast started
+2022/05/16 08:39:02.152952 http://localhost:8080 delivered message 0
+2022/05/16 08:39:02.160866 http://localhost:9000 delivered message 0
+2022/05/16 08:39:02.168569 http://localhost:9001 delivered message 0
+2022/05/16 08:39:02.176355 http://localhost:9002 delivered message 0
+2022/05/16 08:39:02.184023 http://localhost:9003 delivered message 0
+2022/05/16 08:39:02.253469 http://localhost:9004 delivered message 0
+2022/05/16 08:39:02.311379 http://localhost:9005 delivered message 0
+2022/05/16 08:39:02.320625 http://localhost:9006 delivered message 0
+2022/05/16 08:39:02.413085 broadcast started
+2022/05/16 08:39:03.285905 http://localhost:8080 delivered message 0
+2022/05/16 08:39:03.293658 http://localhost:9000 delivered message 0
+2022/05/16 08:39:03.301266 http://localhost:9001 delivered message 0
+2022/05/16 08:39:03.309003 http://localhost:9002 delivered message 0
+2022/05/16 08:39:03.316805 http://localhost:9003 delivered message 0
+2022/05/16 08:39:03.386280 http://localhost:9004 delivered message 0
+2022/05/16 08:39:03.442678 http://localhost:9005 delivered message 0
+2022/05/16 08:39:03.450267 http://localhost:9006 delivered message 0
+2022/05/16 08:39:03.544451 broadcast started
+2022/05/16 08:39:04.416661 http://localhost:8080 delivered message 0
+2022/05/16 08:39:04.424438 http://localhost:9000 delivered message 0
+2022/05/16 08:39:04.432116 http://localhost:9001 delivered message 0
+2022/05/16 08:39:04.439967 http://localhost:9002 delivered message 0
+2022/05/16 08:39:04.447616 http://localhost:9003 delivered message 0
+2022/05/16 08:39:04.516863 http://localhost:9004 delivered message 0
+2022/05/16 08:39:04.573932 http://localhost:9005 delivered message 0
+2022/05/16 08:39:04.581505 http://localhost:9006 delivered message 0
+2022/05/16 08:39:04.674968 broadcast started
+2022/05/16 08:39:05.547213 http://localhost:8080 delivered message 0
+2022/05/16 08:39:05.554875 http://localhost:9000 delivered message 0
+2022/05/16 08:39:05.562602 http://localhost:9001 delivered message 0
+2022/05/16 08:39:05.570159 http://localhost:9002 delivered message 0
+2022/05/16 08:39:05.577745 http://localhost:9003 delivered message 0
+2022/05/16 08:39:05.647332 http://localhost:9004 delivered message 0
+2022/05/16 08:39:05.703906 http://localhost:9005 delivered message 0
+2022/05/16 08:39:05.711666 http://localhost:9006 delivered message 0
+2022/05/16 08:39:05.803662 broadcast started
+2022/05/16 08:39:06.676263 http://localhost:8080 delivered message 0
+2022/05/16 08:39:06.684585 http://localhost:9000 delivered message 0
+2022/05/16 08:39:06.692211 http://localhost:9001 delivered message 0
+2022/05/16 08:39:06.699896 http://localhost:9002 delivered message 0
+2022/05/16 08:39:06.707544 http://localhost:9003 delivered message 0
+2022/05/16 08:39:06.777329 http://localhost:9004 delivered message 0
+2022/05/16 08:39:06.833633 http://localhost:9005 delivered message 0
+2022/05/16 08:39:06.841360 http://localhost:9006 delivered message 0
+2022/05/16 08:39:06.943352 broadcast started
+2022/05/16 08:39:07.817078 http://localhost:8080 delivered message 0
+2022/05/16 08:39:07.824729 http://localhost:9000 delivered message 0
+2022/05/16 08:39:07.832600 http://localhost:9001 delivered message 0
+2022/05/16 08:39:07.840442 http://localhost:9002 delivered message 0
+2022/05/16 08:39:07.848390 http://localhost:9003 delivered message 0
+2022/05/16 08:39:07.918309 http://localhost:9004 delivered message 0
+2022/05/16 08:39:07.975173 http://localhost:9005 delivered message 0
+2022/05/16 08:39:07.982972 http://localhost:9006 delivered message 0
+2022/05/16 08:39:08.077186 broadcast started
+2022/05/16 08:39:08.949622 http://localhost:8080 delivered message 0
+2022/05/16 08:39:08.957323 http://localhost:9000 delivered message 0
+2022/05/16 08:39:08.965049 http://localhost:9001 delivered message 0
+2022/05/16 08:39:08.972694 http://localhost:9002 delivered message 0
+2022/05/16 08:39:08.980453 http://localhost:9003 delivered message 0
+2022/05/16 08:39:09.049677 http://localhost:9004 delivered message 0
+2022/05/16 08:39:09.106760 http://localhost:9005 delivered message 0
+2022/05/16 08:39:09.114795 http://localhost:9006 delivered message 0
+2022/05/16 08:39:09.206647 broadcast started
+2022/05/16 08:39:10.081268 http://localhost:8080 delivered message 0
+2022/05/16 08:39:10.089520 http://localhost:9000 delivered message 0
+2022/05/16 08:39:10.097677 http://localhost:9001 delivered message 0
+2022/05/16 08:39:10.105100 http://localhost:9002 delivered message 0
+2022/05/16 08:39:10.112735 http://localhost:9003 delivered message 0
+2022/05/16 08:39:10.180649 http://localhost:9004 delivered message 0
+2022/05/16 08:39:10.236843 http://localhost:9005 delivered message 0
+2022/05/16 08:39:10.244552 http://localhost:9006 delivered message 0
+2022/05/16 08:39:10.337918 broadcast started
+2022/05/16 08:39:11.207264 http://localhost:8080 delivered message 0
+2022/05/16 08:39:11.214961 http://localhost:9000 delivered message 0
+2022/05/16 08:39:11.222764 http://localhost:9001 delivered message 0
+2022/05/16 08:39:11.230415 http://localhost:9002 delivered message 0
+2022/05/16 08:39:11.238111 http://localhost:9003 delivered message 0
+2022/05/16 08:39:11.307344 http://localhost:9004 delivered message 0
+2022/05/16 08:39:11.364158 http://localhost:9005 delivered message 0
+2022/05/16 08:39:11.372074 http://localhost:9006 delivered message 0
+2022/05/16 08:39:11.464399 broadcast started
+2022/05/16 08:39:12.329216 http://localhost:8080 delivered message 0
+2022/05/16 08:39:12.337475 http://localhost:9000 delivered message 0
+2022/05/16 08:39:12.345294 http://localhost:9001 delivered message 0
+2022/05/16 08:39:12.352716 http://localhost:9002 delivered message 0
+2022/05/16 08:39:12.360215 http://localhost:9003 delivered message 0
+2022/05/16 08:39:12.427390 http://localhost:9004 delivered message 0
+2022/05/16 08:39:12.483772 http://localhost:9005 delivered message 0
+2022/05/16 08:39:12.491279 http://localhost:9006 delivered message 0
+2022/05/16 08:39:12.582981 broadcast started
+2022/05/16 08:39:13.452624 http://localhost:8080 delivered message 0
+2022/05/16 08:39:13.460346 http://localhost:9000 delivered message 0
+2022/05/16 08:39:13.467912 http://localhost:9001 delivered message 0
+2022/05/16 08:39:13.475491 http://localhost:9002 delivered message 0
+2022/05/16 08:39:13.483202 http://localhost:9003 delivered message 0
+2022/05/16 08:39:13.552731 http://localhost:9004 delivered message 0
+2022/05/16 08:39:13.609792 http://localhost:9005 delivered message 0
+2022/05/16 08:39:13.617330 http://localhost:9006 delivered message 0
+2022/05/16 08:39:13.710875 broadcast started
+2022/05/16 08:39:14.584678 http://localhost:8080 delivered message 0
+2022/05/16 08:39:14.592312 http://localhost:9000 delivered message 0
+2022/05/16 08:39:14.599963 http://localhost:9001 delivered message 0
+2022/05/16 08:39:14.607793 http://localhost:9002 delivered message 0
+2022/05/16 08:39:14.615423 http://localhost:9003 delivered message 0
+2022/05/16 08:39:14.684644 http://localhost:9004 delivered message 0
+2022/05/16 08:39:14.741619 http://localhost:9005 delivered message 0
+2022/05/16 08:39:14.749625 http://localhost:9006 delivered message 0
+2022/05/16 08:39:14.842643 broadcast started
+2022/05/16 08:39:15.717765 http://localhost:8080 delivered message 0
+2022/05/16 08:39:15.725961 http://localhost:9000 delivered message 0
+2022/05/16 08:39:15.733693 http://localhost:9001 delivered message 0
+2022/05/16 08:39:15.741375 http://localhost:9002 delivered message 0
+2022/05/16 08:39:15.749122 http://localhost:9003 delivered message 0
+2022/05/16 08:39:15.818770 http://localhost:9004 delivered message 0
+2022/05/16 08:39:15.875458 http://localhost:9005 delivered message 0
+2022/05/16 08:39:15.883129 http://localhost:9006 delivered message 0
+2022/05/16 08:39:15.977034 broadcast started
+2022/05/16 08:39:16.849376 http://localhost:8080 delivered message 0
+2022/05/16 08:39:16.857292 http://localhost:9000 delivered message 0
+2022/05/16 08:39:16.864949 http://localhost:9001 delivered message 0
+2022/05/16 08:39:16.872695 http://localhost:9002 delivered message 0
+2022/05/16 08:39:16.880697 http://localhost:9003 delivered message 0
+2022/05/16 08:39:16.949886 http://localhost:9004 delivered message 0
+2022/05/16 08:39:17.006930 http://localhost:9005 delivered message 0
+2022/05/16 08:39:17.014513 http://localhost:9006 delivered message 0
+2022/05/16 08:39:17.108575 broadcast started
+2022/05/16 08:39:17.979790 http://localhost:8080 delivered message 0
+2022/05/16 08:39:17.987308 http://localhost:9000 delivered message 0
+2022/05/16 08:39:17.994924 http://localhost:9001 delivered message 0
+2022/05/16 08:39:18.002538 http://localhost:9002 delivered message 0
+2022/05/16 08:39:18.010091 http://localhost:9003 delivered message 0
+2022/05/16 08:39:18.079386 http://localhost:9004 delivered message 0
+2022/05/16 08:39:18.136064 http://localhost:9005 delivered message 0
+2022/05/16 08:39:18.143736 http://localhost:9006 delivered message 0
+2022/05/16 08:39:18.236521 broadcast started
+2022/05/16 08:39:19.111188 http://localhost:8080 delivered message 0
+2022/05/16 08:39:19.118861 http://localhost:9000 delivered message 0
+2022/05/16 08:39:19.126548 http://localhost:9001 delivered message 0
+2022/05/16 08:39:19.134122 http://localhost:9002 delivered message 0
+2022/05/16 08:39:19.141780 http://localhost:9003 delivered message 0
+2022/05/16 08:39:19.212057 http://localhost:9004 delivered message 0
+2022/05/16 08:39:19.268491 http://localhost:9005 delivered message 0
+2022/05/16 08:39:19.276256 http://localhost:9006 delivered message 0
+2022/05/16 08:39:19.367547 broadcast started
+2022/05/16 08:39:20.241918 http://localhost:8080 delivered message 0
+2022/05/16 08:39:20.249963 http://localhost:9000 delivered message 0
+2022/05/16 08:39:20.257732 http://localhost:9001 delivered message 0
+2022/05/16 08:39:20.265335 http://localhost:9002 delivered message 0
+2022/05/16 08:39:20.273005 http://localhost:9003 delivered message 0
+2022/05/16 08:39:20.341970 http://localhost:9004 delivered message 0
+2022/05/16 08:39:20.398414 http://localhost:9005 delivered message 0
+2022/05/16 08:39:20.406361 http://localhost:9006 delivered message 0
+2022/05/16 08:39:20.500942 broadcast started
+2022/05/16 08:39:21.371110 http://localhost:8080 delivered message 0
+2022/05/16 08:39:21.378867 http://localhost:9000 delivered message 0
+2022/05/16 08:39:21.386496 http://localhost:9001 delivered message 0
+2022/05/16 08:39:21.394167 http://localhost:9002 delivered message 0
+2022/05/16 08:39:21.401722 http://localhost:9003 delivered message 0
+2022/05/16 08:39:21.471504 http://localhost:9004 delivered message 0
+2022/05/16 08:39:21.527669 http://localhost:9005 delivered message 0
+2022/05/16 08:39:21.535097 http://localhost:9006 delivered message 0
+2022/05/16 08:39:21.627767 broadcast started
+2022/05/16 08:39:22.499100 http://localhost:8080 delivered message 0
+2022/05/16 08:39:22.506842 http://localhost:9000 delivered message 0
+2022/05/16 08:39:22.514539 http://localhost:9001 delivered message 0
+2022/05/16 08:39:22.522332 http://localhost:9002 delivered message 0
+2022/05/16 08:39:22.530006 http://localhost:9003 delivered message 0
+2022/05/16 08:39:22.600084 http://localhost:9004 delivered message 0
+2022/05/16 08:39:22.654951 http://localhost:9005 delivered message 0
+2022/05/16 08:39:22.662694 http://localhost:9006 delivered message 0
+2022/05/16 08:39:22.767253 broadcast started
+2022/05/16 08:39:23.671346 http://localhost:8080 delivered message 0
+2022/05/16 08:39:23.679391 http://localhost:9000 delivered message 0
+2022/05/16 08:39:23.687177 http://localhost:9001 delivered message 0
+2022/05/16 08:39:23.695306 http://localhost:9002 delivered message 0
+2022/05/16 08:39:23.703426 http://localhost:9003 delivered message 0
+2022/05/16 08:39:23.773103 http://localhost:9004 delivered message 0
+2022/05/16 08:39:23.834795 http://localhost:9005 delivered message 0
+2022/05/16 08:39:23.842436 http://localhost:9006 delivered message 0
+2022/05/16 08:39:23.936503 broadcast started
+2022/05/16 08:39:24.811095 http://localhost:8080 delivered message 0
+2022/05/16 08:39:24.818786 http://localhost:9000 delivered message 0
+2022/05/16 08:39:24.826466 http://localhost:9001 delivered message 0
+2022/05/16 08:39:24.834055 http://localhost:9002 delivered message 0
+2022/05/16 08:39:24.841980 http://localhost:9003 delivered message 0
+2022/05/16 08:39:24.911510 http://localhost:9004 delivered message 0
+2022/05/16 08:39:24.968291 http://localhost:9005 delivered message 0
+2022/05/16 08:39:24.975971 http://localhost:9006 delivered message 0
+2022/05/16 08:39:25.068806 broadcast started
+2022/05/16 08:39:25.943400 http://localhost:8080 delivered message 0
+2022/05/16 08:39:25.951076 http://localhost:9000 delivered message 0
+2022/05/16 08:39:25.958859 http://localhost:9001 delivered message 0
+2022/05/16 08:39:25.966564 http://localhost:9002 delivered message 0
+2022/05/16 08:39:25.974135 http://localhost:9003 delivered message 0
+2022/05/16 08:39:26.043817 http://localhost:9004 delivered message 0
+2022/05/16 08:39:26.100859 http://localhost:9005 delivered message 0
+2022/05/16 08:39:26.108447 http://localhost:9006 delivered message 0
+2022/05/16 08:39:26.201190 broadcast started
+2022/05/16 08:39:27.076922 http://localhost:8080 delivered message 0
+2022/05/16 08:39:27.084587 http://localhost:9000 delivered message 0
+2022/05/16 08:39:27.092297 http://localhost:9001 delivered message 0
+2022/05/16 08:39:27.099913 http://localhost:9002 delivered message 0
+2022/05/16 08:39:27.107560 http://localhost:9003 delivered message 0
+2022/05/16 08:39:27.177244 http://localhost:9004 delivered message 0
+2022/05/16 08:39:27.232607 http://localhost:9005 delivered message 0
+2022/05/16 08:39:27.240390 http://localhost:9006 delivered message 0
+2022/05/16 08:39:27.331793 broadcast started
+2022/05/16 08:39:28.202650 http://localhost:8080 delivered message 0
+2022/05/16 08:39:28.210331 http://localhost:9000 delivered message 0
+2022/05/16 08:39:28.217924 http://localhost:9001 delivered message 0
+2022/05/16 08:39:28.225559 http://localhost:9002 delivered message 0
+2022/05/16 08:39:28.233142 http://localhost:9003 delivered message 0
+2022/05/16 08:39:28.302930 http://localhost:9004 delivered message 0
+2022/05/16 08:39:28.359647 http://localhost:9005 delivered message 0
+2022/05/16 08:39:28.367226 http://localhost:9006 delivered message 0
+2022/05/16 08:39:28.459993 broadcast started
+2022/05/16 08:39:29.334317 http://localhost:8080 delivered message 0
+2022/05/16 08:39:29.342144 http://localhost:9000 delivered message 0
+2022/05/16 08:39:29.349880 http://localhost:9001 delivered message 0
+2022/05/16 08:39:29.357683 http://localhost:9002 delivered message 0
+2022/05/16 08:39:29.365325 http://localhost:9003 delivered message 0
+2022/05/16 08:39:29.434024 http://localhost:9004 delivered message 0
+2022/05/16 08:39:29.489746 http://localhost:9005 delivered message 0
+2022/05/16 08:39:29.497448 http://localhost:9006 delivered message 0
+2022/05/16 08:39:29.592225 broadcast started
+2022/05/16 08:39:30.463956 http://localhost:8080 delivered message 0
+2022/05/16 08:39:30.472291 http://localhost:9000 delivered message 0
+2022/05/16 08:39:30.480143 http://localhost:9001 delivered message 0
+2022/05/16 08:39:30.487873 http://localhost:9002 delivered message 0
+2022/05/16 08:39:30.495430 http://localhost:9003 delivered message 0
+2022/05/16 08:39:30.564712 http://localhost:9004 delivered message 0
+2022/05/16 08:39:30.620966 http://localhost:9005 delivered message 0
+2022/05/16 08:39:30.628478 http://localhost:9006 delivered message 0
+2022/05/16 08:39:30.721369 broadcast started
+2022/05/16 08:39:31.594058 http://localhost:8080 delivered message 0
+2022/05/16 08:39:31.601697 http://localhost:9000 delivered message 0
+2022/05/16 08:39:31.609396 http://localhost:9001 delivered message 0
+2022/05/16 08:39:31.617090 http://localhost:9002 delivered message 0
+2022/05/16 08:39:31.624764 http://localhost:9003 delivered message 0
+2022/05/16 08:39:31.694418 http://localhost:9004 delivered message 0
+2022/05/16 08:39:31.750779 http://localhost:9005 delivered message 0
+2022/05/16 08:39:31.758473 http://localhost:9006 delivered message 0
+2022/05/16 08:39:31.851632 broadcast started
+2022/05/16 08:39:32.720998 http://localhost:8080 delivered message 0
+2022/05/16 08:39:32.728883 http://localhost:9000 delivered message 0
+2022/05/16 08:39:32.736555 http://localhost:9001 delivered message 0
+2022/05/16 08:39:32.744161 http://localhost:9002 delivered message 0
+2022/05/16 08:39:32.751710 http://localhost:9003 delivered message 0
+2022/05/16 08:39:32.821629 http://localhost:9004 delivered message 0
+2022/05/16 08:39:32.877449 http://localhost:9005 delivered message 0
+2022/05/16 08:39:32.884991 http://localhost:9006 delivered message 0
+2022/05/16 08:39:32.976423 broadcast started
+2022/05/16 08:39:33.850779 http://localhost:8080 delivered message 0
+2022/05/16 08:39:33.858297 http://localhost:9000 delivered message 0
+2022/05/16 08:39:33.866149 http://localhost:9001 delivered message 0
+2022/05/16 08:39:33.873858 http://localhost:9002 delivered message 0
+2022/05/16 08:39:33.881471 http://localhost:9003 delivered message 0
+2022/05/16 08:39:33.950528 http://localhost:9004 delivered message 0
+2022/05/16 08:39:34.006653 http://localhost:9005 delivered message 0
+2022/05/16 08:39:34.014511 http://localhost:9006 delivered message 0
+2022/05/16 08:39:34.108771 broadcast started
+2022/05/16 08:39:34.982497 http://localhost:8080 delivered message 0
+2022/05/16 08:39:34.990332 http://localhost:9000 delivered message 0
+2022/05/16 08:39:34.998016 http://localhost:9001 delivered message 0
+2022/05/16 08:39:35.005872 http://localhost:9002 delivered message 0
+2022/05/16 08:39:35.013504 http://localhost:9003 delivered message 0
+2022/05/16 08:39:35.082987 http://localhost:9004 delivered message 0
+2022/05/16 08:39:35.138817 http://localhost:9005 delivered message 0
+2022/05/16 08:39:35.146752 http://localhost:9006 delivered message 0
+2022/05/16 08:39:35.240099 broadcast started
+2022/05/16 08:39:36.112860 http://localhost:8080 delivered message 0
+2022/05/16 08:39:36.120710 http://localhost:9000 delivered message 0
+2022/05/16 08:39:36.128514 http://localhost:9001 delivered message 0
+2022/05/16 08:39:36.136528 http://localhost:9002 delivered message 0
+2022/05/16 08:39:36.144366 http://localhost:9003 delivered message 0
+2022/05/16 08:39:36.213301 http://localhost:9004 delivered message 0
+2022/05/16 08:39:36.270013 http://localhost:9005 delivered message 0
+2022/05/16 08:39:36.277681 http://localhost:9006 delivered message 0
+2022/05/16 08:39:36.370782 broadcast started
+2022/05/16 08:39:37.320241 http://localhost:8080 delivered message 0
+2022/05/16 08:39:37.329191 http://localhost:9000 delivered message 0
+2022/05/16 08:39:37.337208 http://localhost:9001 delivered message 0
+2022/05/16 08:39:37.344979 http://localhost:9002 delivered message 0
+2022/05/16 08:39:37.352430 http://localhost:9003 delivered message 0
+2022/05/16 08:39:37.423609 http://localhost:9004 delivered message 0
+2022/05/16 08:39:37.480993 http://localhost:9005 delivered message 0
+2022/05/16 08:39:37.488662 http://localhost:9006 delivered message 0
+2022/05/16 08:39:37.582038 broadcast started
+2022/05/16 08:39:38.457187 http://localhost:8080 delivered message 0
+2022/05/16 08:39:38.464891 http://localhost:9000 delivered message 0
+2022/05/16 08:39:38.472599 http://localhost:9001 delivered message 0
+2022/05/16 08:39:38.480083 http://localhost:9002 delivered message 0
+2022/05/16 08:39:38.487735 http://localhost:9003 delivered message 0
+2022/05/16 08:39:38.557437 http://localhost:9004 delivered message 0
+2022/05/16 08:39:38.613530 http://localhost:9005 delivered message 0
+2022/05/16 08:39:38.621480 http://localhost:9006 delivered message 0
+2022/05/16 08:39:38.713941 broadcast started
+2022/05/16 08:39:39.588420 http://localhost:8080 delivered message 0
+2022/05/16 08:39:39.596136 http://localhost:9000 delivered message 0
+2022/05/16 08:39:39.603777 http://localhost:9001 delivered message 0
+2022/05/16 08:39:39.611554 http://localhost:9002 delivered message 0
+2022/05/16 08:39:39.619125 http://localhost:9003 delivered message 0
+2022/05/16 08:39:39.688862 http://localhost:9004 delivered message 0
+2022/05/16 08:39:39.745424 http://localhost:9005 delivered message 0
+2022/05/16 08:39:39.753011 http://localhost:9006 delivered message 0
+2022/05/16 08:39:39.844909 broadcast started
+2022/05/16 08:39:40.717731 http://localhost:8080 delivered message 0
+2022/05/16 08:39:40.725249 http://localhost:9000 delivered message 0
+2022/05/16 08:39:40.732842 http://localhost:9001 delivered message 0
+2022/05/16 08:39:40.740701 http://localhost:9002 delivered message 0
+2022/05/16 08:39:40.748483 http://localhost:9003 delivered message 0
+2022/05/16 08:39:40.818372 http://localhost:9004 delivered message 0
+2022/05/16 08:39:40.874465 http://localhost:9005 delivered message 0
+2022/05/16 08:39:40.882055 http://localhost:9006 delivered message 0
+2022/05/16 08:39:40.975921 broadcast started
+2022/05/16 08:39:41.848600 http://localhost:8080 delivered message 0
+2022/05/16 08:39:41.856496 http://localhost:9000 delivered message 0
+2022/05/16 08:39:41.864293 http://localhost:9001 delivered message 0
+2022/05/16 08:39:41.872386 http://localhost:9002 delivered message 0
+2022/05/16 08:39:41.880641 http://localhost:9003 delivered message 0
+2022/05/16 08:39:41.951455 http://localhost:9004 delivered message 0
+2022/05/16 08:39:42.012297 http://localhost:9005 delivered message 0
+2022/05/16 08:39:42.020118 http://localhost:9006 delivered message 0
+2022/05/16 08:39:42.113287 broadcast started
+2022/05/16 08:39:42.987390 http://localhost:8080 delivered message 0
+2022/05/16 08:39:42.995322 http://localhost:9000 delivered message 0
+2022/05/16 08:39:43.003462 http://localhost:9001 delivered message 0
+2022/05/16 08:39:43.011700 http://localhost:9002 delivered message 0
+2022/05/16 08:39:43.019336 http://localhost:9003 delivered message 0
+2022/05/16 08:39:43.088106 http://localhost:9004 delivered message 0
+2022/05/16 08:39:43.144603 http://localhost:9005 delivered message 0
+2022/05/16 08:39:43.152218 http://localhost:9006 delivered message 0
+2022/05/16 08:39:43.245671 broadcast started
+2022/05/16 08:39:44.110957 http://localhost:8080 delivered message 0
+2022/05/16 08:39:44.118652 http://localhost:9000 delivered message 0
+2022/05/16 08:39:44.126357 http://localhost:9001 delivered message 0
+2022/05/16 08:39:44.134009 http://localhost:9002 delivered message 0
+2022/05/16 08:39:44.141710 http://localhost:9003 delivered message 0
+2022/05/16 08:39:44.212376 http://localhost:9004 delivered message 0
+2022/05/16 08:39:44.280239 http://localhost:9005 delivered message 0
+2022/05/16 08:39:44.288880 http://localhost:9006 delivered message 0
+2022/05/16 08:39:44.388510 broadcast started
+2022/05/16 08:39:45.282833 http://localhost:8080 delivered message 0
+2022/05/16 08:39:45.290839 http://localhost:9000 delivered message 0
+2022/05/16 08:39:45.298954 http://localhost:9001 delivered message 0
+2022/05/16 08:39:45.307071 http://localhost:9002 delivered message 0
+2022/05/16 08:39:45.314735 http://localhost:9003 delivered message 0
+2022/05/16 08:39:45.383631 http://localhost:9004 delivered message 0
+2022/05/16 08:39:45.439917 http://localhost:9005 delivered message 0
+2022/05/16 08:39:45.447611 http://localhost:9006 delivered message 0
